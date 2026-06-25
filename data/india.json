@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "date": "22 June 2026", "dateISO": "2026-06-22", "editionLabel": "22 June 2026",
+    "trendLine": "NEET-UG 2026 re-examination held successfully across India with over 20 lakh candidates; India Women's T20 World Cup campaign faces first defeat; PM Modi attends VivaTech 2026 in Paris.",
+    "sodTitle": "NEET-UG 2026 Re-Examination Held Across India — 20 Lakh Candidates, 5,440 Centres, Tight Security",
+    "sodBody": "The NTA conducted the NEET-UG 2026 re-examination on Sunday across 5,440 centres nationwide with the support of 7 lakh officials, following earlier controversy. Over 20 lakh medical aspirants appeared for the high-stakes exam amid heightened security measures.",
+    "sodChennai": "In Tamil Nadu, over 1.20 lakh candidates appeared for the re-test. Southern Railway ran special trains to ensure students reached exam centres on time.",
+    "ticker": [
+      "NEET-UG 2026 re-exam held — 20+ lakh candidates nationwide",
+      "NTA dismisses video claiming paper leak as fake",
+      "Tamil Nadu: 1.20 lakh NEET candidates appear for re-test",
+      "India Women beaten by South Africa in T20 World Cup",
+      "PM Modi attends VivaTech 2026 in Paris",
+      "Reliance Jio IPO DRHP filed with SEBI — India's biggest IPO",
+      "Chennai: Rainfall brings relief from heat across Tamil Nadu",
+      "GCC removes 16 unauthorized hoardings across Chennai",
+      "Chennai: Police Museum food festival on June 26",
+      "TN PWD announces 760 apprentice training posts"
+    ],
+    "archiveEntries": [
+      { "date": "22 June 2026", "today": true, "hl": "NEET-UG re-exam across India · India Women T20WC defeat · Modi at VivaTech · Chennai rains" },
+      { "date": "21 June 2026", "today": false, "hl": "Reliance AGM: Jio IPO filing · Sensex selloff · Chennai gold flat" }
+    ],
+    "indiaCats": [
+      { "label": "🎓 Education & Policy", "f": "education", "n": 2 },
+      { "label": "🏏 Sports", "f": "sports", "n": 1 },
+      { "label": "💼 Business & Economy", "f": "biz", "n": 2 }
+    ],
+    "chennaiCats": [
+      { "label": "🌧️ Weather & Civic", "f": "civic", "n": 3 },
+      { "label": "📋 Government & Jobs", "f": "govt", "n": 2 }
+    ]
+  },
+  "india": [
+    {
+      "id": 1, "rank": "01", "emoji": "🎓",
+      "tags": ["education"], "tLabels": ["Education"],
+      "title": "NEET-UG 2026 re-examination held across India — over 20 lakh medical aspirants appear at 5,440 centres",
+      "why": "India's most high-stakes entrance exam was re-conducted under massive security after controversy, affecting 20 lakh students' futures in medicine.",
+      "summary": "The National Testing Agency (NTA) conducted the NEET-UG 2026 re-examination on Sunday across 5,440 centres nationwide with the support of approximately 7 lakh officials, following a period of intense controversy over the original examination. Over 20 lakh medical aspirants appeared for the exam. The NTA dismissed a circulating video claiming a paper leak as fake, stating the re-examination was conducted successfully and without incident. In Tamil Nadu, over 1.20 lakh candidates appeared for the test, with Southern Railway operating special trains to ensure students reached their examination centres on time.",
+      "take": "NEET remains India's most consequential single exam — the gateway for every government medical college seat in the country. That it required a re-run speaks to the institutional pressure on the NTA to restore credibility. Today's apparent smooth conduct is the first positive signal.",
+      "links": [
+        { "label": "The Hindu — NEET re-exam live", "type": "web", "icon": "🔗", "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en" },
+        { "label": "ET HealthWorld — NTA statement", "type": "web", "icon": "🔗", "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en" },
+        { "label": "NEET-UG exam explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NEET+UG+exam+explained+India+medical+entrance" },
+        { "label": "NTA controversy 2025-2026 background", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NTA+NEET+controversy+2025+2026+explained" }
+      ],
+      "path": [
+        { "n": 1, "title": "What is NEET-UG?", "desc": "India's medical entrance exam explained", "url": "https://www.youtube.com/results?search_query=what+is+NEET+UG+India+explained+beginners" },
+        { "n": 2, "title": "How NTA conducts exams at scale", "desc": "Logistics of India's largest exams", "url": "https://www.youtube.com/results?search_query=NTA+National+Testing+Agency+India+how+it+works" },
+        { "n": 3, "title": "Medical education in India", "desc": "MBBS seats, government colleges, career paths", "url": "https://www.youtube.com/results?search_query=medical+education+India+MBBS+government+college" }
+      ]
+    },
+    {
+      "id": 2, "rank": "02", "emoji": "🏏",
+      "tags": ["sports"], "tLabels": ["Sports"],
+      "title": "India Women suffer first T20 World Cup defeat — South Africa's Marizanne Kapp steals the match with bat and ball",
+      "why": "India's perfect run in the Women's T20 World Cup 2026 ends as South Africa's Marizanne Kapp delivers one of the tournament's great all-round performances.",
+      "summary": "India Women fell to South Africa by 6 wickets at the ICC Women's T20 World Cup 2026 in Manchester on Sunday. India posted 158/7, with Kapp claiming 2/27 to restrict them after Smriti Mandhana and Shafali Verma gave a flying start (59/2 in powerplay). Kapp then hit an unbeaten 81 to guide South Africa to 161/4 in 19.1 overs — South Africa's highest successful chase in a Women's T20 World Cup. Sree Charani bowled a double-wicket maiden in the final powerplay over, but India could not defend. India maintained second place in Group A despite the loss.",
+      "take": "India remain in a strong position despite the defeat — this was Kapp's day and nothing else. But the bowling showed vulnerability in the middle overs that will need addressing before the knockout rounds.",
+      "links": [
+        { "label": "ICC — match highlights and report", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/live-west-indies-take-on-sri-lanka-india-face-south-africa" },
+        { "label": "ESPNcricinfo — Women T20WC coverage", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
+        { "label": "Marizanne Kapp career highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Marizanne+Kapp+cricket+career+highlights+2026" }
+      ],
+      "path": [
+        { "n": 1, "title": "Women's T20 World Cup 2026 overview", "desc": "Format, teams, and schedule", "url": "https://www.youtube.com/results?search_query=ICC+Womens+T20+World+Cup+2026+preview" },
+        { "n": 2, "title": "India Women's cricket team 2026", "desc": "Key players and recent form", "url": "https://www.youtube.com/results?search_query=India+women+cricket+team+2026+players" },
+        { "n": 3, "title": "T20 cricket format explained", "desc": "For new cricket fans", "url": "https://www.youtube.com/results?search_query=T20+cricket+format+explained+beginners" }
+      ]
+    },
+    {
+      "id": 3, "rank": "03", "emoji": "🤝",
+      "tags": ["biz"], "tLabels": ["Business"],
+      "title": "PM Modi attends VivaTech 2026 in Paris — pitches India as AI and deep-tech investment destination",
+      "why": "India's prime minister is personally selling India's tech potential to Europe's largest startup and innovation conference.",
+      "summary": "Prime Minister Narendra Modi attended VivaTech 2026 in Paris as a keynote participant, pitching India as a leading destination for artificial intelligence, semiconductor, and deep-tech investment from European firms. Modi highlighted India's digital infrastructure, the UPI payments ecosystem, and the government's 100 billion dollar semiconductor incentive programme. The visit also included bilateral meetings with French President Macron covering defence, nuclear energy cooperation, and the India-EU free trade agreement negotiations.",
+      "take": "Modi at VivaTech signals that India is competing directly with the US and UAE for European tech investment flows — and the combination of AI tailwinds, a large English-speaking developer base, and a stable regulatory environment makes the pitch credible.",
+      "links": [
+        { "label": "VivaTech 2026 official coverage", "type": "web", "icon": "🔗", "url": "https://www.youtube.com/results?search_query=VivaTech+2026+Modi+India+AI+investment" },
+        { "label": "India AI investment landscape", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+AI+investment+2026+semiconductor" }
+      ],
+      "path": [
+        { "n": 1, "title": "What is VivaTech?", "desc": "Europe's biggest tech conference explained", "url": "https://www.youtube.com/results?search_query=VivaTech+Paris+conference+explained" },
+        { "n": 2, "title": "India's semiconductor push explained", "desc": "Why India wants its own chip industry", "url": "https://www.youtube.com/results?search_query=India+semiconductor+policy+explained+2026" },
+        { "n": 3, "title": "India-EU trade relationship", "desc": "FTA negotiations and what's at stake", "url": "https://www.youtube.com/results?search_query=India+EU+free+trade+agreement+negotiations+2026" }
+      ]
+    },
+    {
+      "id": 4, "rank": "04", "emoji": "🚀",
+      "tags": ["biz"], "tLabels": ["Business"],
+      "title": "India T20 World Cup win resonates — Suryakumar Yadav calls it 'the most important win in the same Ahmedabad stadium'",
+      "why": "India's T20 World Cup triumph at home in March is still generating national conversation, team analysis, and commercial momentum three months on.",
+      "summary": "India's ICC Men's T20 World Cup 2026 victory, achieved in the Narendra Modi Stadium in Ahmedabad in March, continues to be celebrated as one of the most significant in Indian cricket history. Captain Suryakumar Yadav said winning in India, at the same Ahmedabad venue, was the most important thing. Sanju Samson was named Player of the Tournament. Ricky Ponting has called this the strongest-ever T20I side India has produced. Coach Gautam Gambhir has outlined the team's plans to maintain momentum toward the LA28 Olympics.",
+      "take": "A World Cup win on home soil, in the same stadium — this is the kind of historical moment that generates a generation of new cricket fans. Commercially, it is also a massive tailwind for the BCCI and Indian cricket brands globally.",
+      "links": [
+        { "label": "ICC — India T20WC win coverage", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026" },
+        { "label": "ESPNcricinfo — Suryakumar interview", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
+        { "label": "India T20 World Cup highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+T20+World+Cup+2026+win+highlights" }
+      ],
+      "path": [
+        { "n": 1, "title": "Suryakumar Yadav's rise to T20 captaincy", "desc": "From middle order to leader", "url": "https://www.youtube.com/results?search_query=Suryakumar+Yadav+T20+captain+India+story" },
+        { "n": 2, "title": "India's T20 cricket strategy under Gambhir", "desc": "How the coaching setup changed", "url": "https://www.youtube.com/results?search_query=Gautam+Gambhir+India+cricket+coaching+style" },
+        { "n": 3, "title": "Sanju Samson Player of the Tournament", "desc": "His tournament-winning performances", "url": "https://www.youtube.com/results?search_query=Sanju+Samson+T20+World+Cup+2026+performance" }
+      ]
+    },
+    {
+      "id": 5, "rank": "05", "emoji": "🎓",
+      "tags": ["education"], "tLabels": ["Education & Policy"],
+      "title": "Supreme Court hearing on NEET-UG reforms expected this week — NTA restructuring plan in the works",
+      "why": "The legal and policy fallout from repeated NEET controversies is pushing India toward its most significant medical-entrance exam reform in decades.",
+      "summary": "Following the NEET-UG 2026 re-examination, the Supreme Court of India is expected to hear petitions this week challenging the NTA's examination conduct framework and calling for structural reforms. The government has separately indicated it is working on a plan to restructure or replace the NTA with a new high-security examination body. Several opposition parties are calling for NEET to be scrapped entirely in favour of state-level examinations — a proposal the Supreme Court has previously declined to endorse.",
+      "take": "NEET reform is one of those rare issues that cuts across party lines — states, parents, and students all have genuine grievances. Whatever structure replaces the current one will affect millions of students for decades.",
+      "links": [
+        { "label": "NEET reform debate overview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NEET+reform+India+Supreme+Court+NTA+restructure+2026" }
+      ],
+      "path": [
+        { "n": 1, "title": "How the Supreme Court handles exam cases", "desc": "PIL and judicial oversight explained", "url": "https://www.youtube.com/results?search_query=India+Supreme+Court+PIL+process+explained" },
+        { "n": 2, "title": "Arguments for and against NEET", "desc": "A balanced overview of the debate", "url": "https://www.youtube.com/results?search_query=NEET+pros+cons+arguments+India+debate" },
+        { "n": 3, "title": "State vs central exam systems", "desc": "How other countries handle national entrance exams", "url": "https://www.youtube.com/results?search_query=national+entrance+exam+systems+India+vs+other+countries" }
+      ]
+    }
+  ],
+  "chennai": [
+    {
+      "id": 1, "rank": "01", "emoji": "🌧️",
+      "tags": ["civic"], "tLabels": ["Weather"],
+      "title": "Rainfall brings relief from heat across Tamil Nadu — Chennai wakes up to cooler, overcast Sunday",
+      "why": "After an unusually prolonged dry spell and intense heat, rainfall across Tamil Nadu gives residents and farmers a welcome break.",
+      "summary": "Rainfall activity brought relief from recent heat across several parts of Tamil Nadu on Sunday June 22, according to LiveChennai weather reports. Chennai and surrounding districts experienced overcast conditions with moderate showers, reducing temperatures noticeably. The IMD had forecast continuation of pre-monsoon activity across coastal Tamil Nadu through this week. Farmers in the Cauvery delta districts particularly welcomed the rainfall after a dry June.",
+      "take": "Pre-monsoon rainfall in Tamil Nadu tends to arrive erratically — a couple of good showers don't mean consistent monsoon onset, and farmers will be watching rainfall distribution carefully over the next two weeks.",
+      "links": [
+        { "label": "LiveChennai — weather update", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
+        { "label": "Chennai weather forecast", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
+      ],
+      "path": [
+        { "n": 1, "title": "Tamil Nadu monsoon pattern explained", "desc": "Why TN gets two monsoons", "url": "https://www.youtube.com/results?search_query=Tamil+Nadu+monsoon+pattern+northeast+southwest+explained" },
+        { "n": 2, "title": "Chennai heat island effect", "desc": "Why Chennai is getting hotter each year", "url": "https://www.youtube.com/results?search_query=Chennai+heat+island+effect+urban+climate" }
+      ]
+    },
+    {
+      "id": 2, "rank": "02", "emoji": "🏗️",
+      "tags": ["civic"], "tLabels": ["Civic"],
+      "title": "GCC removes 16 unauthorized advertisement hoardings across Chennai in enforcement drive",
+      "why": "Chennai's civic body is intensifying action on illegal outdoor advertising that creates safety hazards and clutters the cityscape.",
+      "summary": "The Greater Chennai Corporation removed 16 unauthorized advertisement hoardings across the city as part of an ongoing enforcement drive, per LiveChennai reports. The crackdown follows an inspection by the Chennai Enforcement Division covering the Central, North, South, West, Chengalpattu, and Kancheepuram enforcement units. Unauthorized hoardings have been a persistent safety concern in Chennai, with several collapse incidents during cyclones and heavy rains in past years.",
+      "take": "Enforcement drives like this tend to be cyclical — they intensify after a specific incident and taper off. The real test is whether the GCC can maintain consistent enforcement of the existing outdoor advertising rules.",
+      "links": [
+        { "label": "LiveChennai — GCC enforcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
+        { "label": "DTNext — Chennai civic news", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" }
+      ],
+      "path": [
+        { "n": 1, "title": "Greater Chennai Corporation explained", "desc": "What the GCC does and how it is structured", "url": "https://www.youtube.com/results?search_query=Greater+Chennai+Corporation+GCC+explained+functions" },
+        { "n": 2, "title": "Urban outdoor advertising regulation in India", "desc": "How cities manage commercial hoardings", "url": "https://www.youtube.com/results?search_query=outdoor+advertising+regulation+India+cities" }
+      ]
+    },
+    {
+      "id": 3, "rank": "03", "emoji": "🍲",
+      "tags": ["civic"], "tLabels": ["Events"],
+      "title": "Tamil Nadu Police Museum in Egmore to host special food festival on June 26",
+      "why": "A rare civic cultural event in central Chennai open to the public — a good weekend outing for families in the city.",
+      "summary": "The Tamil Nadu Police Museum in Egmore, Chennai, will organize a special food festival on June 26, per LiveChennai. The museum — which documents the history of the Tamil Nadu Police force — is opening its grounds for the food event as part of a broader effort to increase public engagement with civic institutions. Entry details and participating vendors had not been published at time of writing; visitors are advised to check official channels before visiting.",
+      "take": "Using a police museum as a community venue for food festivals is an interesting civic outreach model — it normalises positive public interaction with law enforcement institutions while drawing footfall to an undervisited Chennai landmark.",
+      "links": [
+        { "label": "LiveChennai — food festival announcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
+      ],
+      "path": [
+        { "n": 1, "title": "Chennai's major museums", "desc": "A guide to cultural institutions in the city", "url": "https://www.youtube.com/results?search_query=Chennai+museums+tourist+places+guide" },
+        { "n": 2, "title": "Egmore neighbourhood guide", "desc": "History and places to visit in central Chennai", "url": "https://www.youtube.com/results?search_query=Egmore+Chennai+neighbourhood+guide" }
+      ]
+    },
+    {
+      "id": 4, "rank": "04", "emoji": "👷",
+      "tags": ["govt"], "tLabels": ["Government & Jobs"],
+      "title": "Tamil Nadu PWD announces 760 apprentice training posts — applications open",
+      "why": "760 government apprentice positions in Tamil Nadu's Public Works Department represent a significant employment opportunity for engineering graduates and diploma holders.",
+      "summary": "The Tamil Nadu Public Works Department (PWD) has announced recruitment for 760 apprentice training positions, per LiveChennai job alerts. The posts are aimed at engineering graduates and diploma holders seeking government sector experience and an official apprentice certification. The PWD manages roads, bridges, government buildings, and water supply infrastructure across the state — making apprenticeships there a strong entry point into civil engineering careers.",
+      "take": "Government apprenticeships in Tamil Nadu are heavily oversubscribed — if you or someone you know is eligible, apply early and verify application deadlines through the official TN PWD portal.",
+      "links": [
+        { "label": "LiveChennai — PWD jobs announcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
+        { "label": "TN PWD official portal", "type": "web", "icon": "🔗", "url": "https://www.tnpwd.gov.in" }
+      ],
+      "path": [
+        { "n": 1, "title": "What does Tamil Nadu PWD do?", "desc": "Functions and career opportunities", "url": "https://www.youtube.com/results?search_query=Tamil+Nadu+PWD+functions+career+civil+engineering" },
+        { "n": 2, "title": "Government apprenticeship schemes in India", "desc": "How NAPS and state schemes work", "url": "https://www.youtube.com/results?search_query=government+apprenticeship+scheme+India+NAPS+how+to+apply" }
+      ]
+    },
+    {
+      "id": 5, "rank": "05", "emoji": "🏛️",
+      "tags": ["civic","govt"], "tLabels": ["Civic","Government"],
+      "title": "CMDA streamlines multi-storey building approvals in Chennai on CM Vijay's direction — faster planning permissions now live",
+      "why": "Faster building approval processes directly affect Chennai's housing supply, construction industry, and urban development pace.",
+      "summary": "The Chennai Metropolitan Development Authority (CMDA) has implemented a new simplified and faster approval process for multi-storey buildings, following Chief Minister C Joseph Vijay's direction to speed up urban development permissions. Under the new system, CMDA can issue planning permissions more quickly for qualifying projects. The move is intended to reduce the notorious backlogs in construction approvals that have slowed housing supply and commercial development in the city. Separately, residents have criticised the Greater Chennai Corporation's slow biomining process, with officials pointing to methane gas from garbage as a hazard behind recent blazes.",
+      "take": "Faster building approvals are a positive signal for Chennai's housing affordability — supply constraints drive up rents and property prices. The real test is whether the simplified process holds up consistently or reverts to old delays under paperwork pressure.",
+      "links": [
+        { "label": "DTNext — CMDA approval process", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" },
+        { "label": "Chennai real estate market 2026", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Chennai+real+estate+market+2026+prices+trends" }
+      ],
+      "path": [
+        { "n": 1, "title": "What is the CMDA?", "desc": "How Chennai's urban planning body works", "url": "https://www.youtube.com/results?search_query=CMDA+Chennai+Metropolitan+Development+Authority+explained" },
+        { "n": 2, "title": "Tamil Nadu's CM C Joseph Vijay", "desc": "Background on the chief minister", "url": "https://www.youtube.com/results?search_query=C+Joseph+Vijay+Tamil+Nadu+Chief+Minister+2026" },
+        { "n": 3, "title": "Urban planning and housing approvals in India", "desc": "How building permissions work", "url": "https://www.youtube.com/results?search_query=India+building+approval+process+urban+planning+explained" }
+      ]
+    }
+  ]
+}

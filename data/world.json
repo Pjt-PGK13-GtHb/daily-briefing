@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "date": "22 June 2026", "dateISO": "2026-06-21", "editionLabel": "22 June 2026",
+    "trendLine": "US-Iran nuclear talks resume in Switzerland under JD Vance as Trump threatens to seize the Strait of Hormuz; FIFA World Cup group stage produces stunning upsets; India wins T20 World Cup at home in Ahmedabad.",
+    "sodTitle": "JD Vance Flies to Switzerland for Emergency Iran Nuclear Talks as Trump Threatens Hormuz Seizure",
+    "sodBody": "Vice President Vance arrived in Geneva on Sunday for direct face-to-face talks with Iranian officials — the most senior US-Iran contact in years. Qatar and Pakistan brokered the meeting after Trump's public threats to resume bombing Iran and seize control of the Strait of Hormuz rattled oil markets globally.",
+    "ticker": [
+      "Vance in Switzerland for direct US-Iran nuclear talks",
+      "Trump threatens to seize Strait of Hormuz if deal fails",
+      "Qatar and Pakistan mediating US-Iran ceasefire framework",
+      "FIFA World Cup 2026 group stage: England vs Scotland today",
+      "India Women beat in Women T20 World Cup by South Africa",
+      "Colombia elects right-wing outsider de la Espriella as president",
+      "US-Iran war cost Pentagon over $1 trillion in FY2026",
+      "Al Jazeera cameraman Ahmed Wishah killed in Israeli airstrike",
+      "Ukraine ramps up attacks on Crimea fuel supplies",
+      "FIFA WC 2026: Canada crushes Qatar 6-0 in group stage"
+    ],
+    "archiveEntries": [
+      { "date": "22 June 2026", "today": true, "hl": "Vance in Switzerland for Iran talks · FIFA World Cup group stage · Colombia election · US-Iran war $1T cost" },
+      { "date": "21 June 2026", "today": false, "hl": "US-Iran ceasefire talks begin · Trump threatens Hormuz · Colombia presidential runoff" }
+    ],
+    "cats": [
+      { "label": "⚔️ Conflict & Diplomacy", "f": "conflict", "n": 3 },
+      { "label": "🗳️ Politics", "f": "politics", "n": 2 },
+      { "label": "🏆 Sports & Culture", "f": "culture", "n": 2 },
+      { "label": "🌍 Global Impact", "f": "global", "n": 3 }
+    ]
+  },
+  "stories": [
+    {
+      "id": 1, "rank": "01", "emoji": "🕊️",
+      "tags": ["conflict","global"], "tLabels": ["Diplomacy","Global Impact"],
+      "title": "JD Vance flies to Switzerland for face-to-face Iran nuclear talks — Trump simultaneously threatens to seize the Strait of Hormuz",
+      "why": "The most senior direct US-Iran contact in years is happening right now, while the US president is simultaneously threatening to escalate — a whiplash combination that defines the chaos of this moment.",
+      "summary": "Vice President JD Vance arrived in Geneva on Sunday for direct talks with Iranian officials, facilitated by Qatar and Pakistan after weeks of indirect mediation. The talks are described as a 60-day sprint to negotiate the fate of Iran's nuclear programme. Qatar and Pakistan described discussions as 'positive and constructive', with a High Level Committee and a communication line for the Strait of Hormuz being established. Meanwhile, Trump told Fox News the US could resume bombing Iran and 'take over' the Strait of Hormuz if a deal is not reached — a comment that alarmed Iran's delegation and briefly stalled talks. The US-Iran war has already cost the Pentagon over $1 trillion in FY2026, with American households paying $253 more on average in fuel costs during the conflict.",
+      "take": "The fact that Vance is in the same room as Iranian officials is historic. But Trump's public threats undercut every goodwill signal simultaneously — this is a negotiation happening with one hand extended and the other on a trigger.",
+      "links": [
+        { "label": "CNN — live updates from Switzerland", "type": "web", "icon": "🔗", "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon" },
+        { "label": "CBS News — Vance arrival", "type": "web", "icon": "🔗", "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/" },
+        { "label": "US-Iran conflict background", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=US+Iran+conflict+2026+explained" },
+        { "label": "What is the Strait of Hormuz?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Strait+of+Hormuz+explained+importance" }
+      ],
+      "path": [
+        { "n": 1, "title": "US-Iran relations — a brief history", "desc": "How we got here from 1979", "url": "https://www.youtube.com/results?search_query=US+Iran+relations+history+explained" },
+        { "n": 2, "title": "What is Iran's nuclear programme?", "desc": "The technical and political stakes", "url": "https://www.youtube.com/results?search_query=Iran+nuclear+programme+explained+2026" },
+        { "n": 3, "title": "Why the Strait of Hormuz matters", "desc": "20% of global oil flows through it", "url": "https://www.youtube.com/results?search_query=Strait+of+Hormuz+oil+trade+explained" },
+        { "n": 4, "title": "JD Vance's foreign policy role", "desc": "How the VP became key diplomat", "url": "https://www.youtube.com/results?search_query=JD+Vance+foreign+policy+role+2026" }
+      ]
+    },
+    {
+      "id": 2, "rank": "02", "emoji": "💰",
+      "tags": ["conflict","global"], "tLabels": ["Conflict","Global Impact"],
+      "title": "US-Iran war cost the Pentagon over $1 trillion in FY2026 — American households paid $253 more on fuel",
+      "why": "The full financial cost of the conflict is now clear — and it is reshaping the US fiscal debate and global energy markets simultaneously.",
+      "summary": "A CSIS preliminary analysis shows the US-Iran war cost the Defense Department the lion's share of a $1+ trillion bill in FY2026, not including operational costs already baked into the defence budget. Other agencies including Homeland Security and Veterans Affairs added $1 billion. For consumers, gas prices rose from under $3 to over $4 per gallon during much of the war. The world lost 1.15 billion barrels of oil supply over nearly four months of conflict, according to Kpler. The interim ceasefire has begun to ease oil prices, but full market normalisation depends entirely on the outcome of the Switzerland talks.",
+      "take": "A trillion-dollar war fought partly over oil that cost American consumers $253 each at the pump — the political arithmetic here is brutal, and it explains why the White House is both desperate for a deal and unwilling to look weak in the process.",
+      "links": [
+        { "label": "CSIS war cost analysis via CNN", "type": "web", "icon": "🔗", "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon" },
+        { "label": "How wars affect oil prices", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=how+war+affects+oil+prices+explained" }
+      ],
+      "path": [
+        { "n": 1, "title": "How oil markets work", "desc": "Supply, demand, and geopolitical risk", "url": "https://www.youtube.com/results?search_query=how+global+oil+markets+work+explained" },
+        { "n": 2, "title": "The economics of modern warfare", "desc": "How trillion-dollar conflicts are financed", "url": "https://www.youtube.com/results?search_query=economics+of+modern+warfare+explained" },
+        { "n": 3, "title": "CSIS explained — who are they?", "desc": "Understanding the think tank behind the analysis", "url": "https://www.youtube.com/results?search_query=CSIS+Center+for+Strategic+International+Studies+explained" }
+      ]
+    },
+    {
+      "id": 3, "rank": "03", "emoji": "🗳️",
+      "tags": ["politics"], "tLabels": ["Politics"],
+      "title": "Colombia elects right-wing outsider Abelardo de la Espriella in a sharp turn away from the left",
+      "why": "A major Latin American nation has just executed a hard political pivot, with major implications for regional security, drug policy, and US-Latin America relations.",
+      "summary": "Political newcomer Abelardo de la Espriella of the Salvadores de la Patria movement won Colombia's presidential runoff on Sunday, defeating the incumbent left's candidate in what analysts are calling the country's sharpest political turn in a generation. De la Espriella campaigned on intensified military action against armed groups rather than peace talks — a direct rejection of the peace-process approach that defined the previous government. His victory redraws Colombia's path on security, economy, and relations with Venezuela.",
+      "take": "This result follows a broader Latin American rightward swing. De la Espriella's hard line on armed groups will likely increase US engagement with Colombia, but it also risks reigniting conflicts that peace talks had partially quieted.",
+      "links": [
+        { "label": "NPR — Colombia election result", "type": "web", "icon": "🔗", "url": "https://www.npr.org/sections/news/" },
+        { "label": "Al Jazeera — de la Espriella analysis", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/" },
+        { "label": "Colombia's political landscape explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Colombia+politics+2026+presidential+election" }
+      ],
+      "path": [
+        { "n": 1, "title": "Colombia's peace process explained", "desc": "What the FARC deal achieved and failed to achieve", "url": "https://www.youtube.com/results?search_query=Colombia+FARC+peace+process+explained" },
+        { "n": 2, "title": "Latin America's political shift rightward", "desc": "The regional trend driving this result", "url": "https://www.youtube.com/results?search_query=Latin+America+political+right+shift+2025+2026" },
+        { "n": 3, "title": "US-Colombia relations", "desc": "Drug policy, security, and trade", "url": "https://www.youtube.com/results?search_query=US+Colombia+relations+security+policy" }
+      ]
+    },
+    {
+      "id": 4, "rank": "04", "emoji": "⚔️",
+      "tags": ["conflict","politics"], "tLabels": ["Conflict","Politics"],
+      "title": "Ukraine ramps up attacks on Crimea fuel supplies as Russia-occupied peninsula suspends civilian petrol sales",
+      "why": "A new tactical pressure point in the Ukraine war — cutting the fuel supply to an occupied peninsula — signals a major shift in Ukrainian operational strategy.",
+      "summary": "Officials in Russia-occupied Crimea suspended civilian gasoline sales on Sunday as Ukraine ramped up coordinated attacks on fuel supply infrastructure across the Black Sea peninsula. The move suggests Ukrainian forces are targeting logistics and supply chains rather than purely frontline positions — a strategy designed to degrade Russian military operational capacity over time rather than through direct territorial confrontation. The attacks follow a period of intensified Ukrainian drone operations across occupied territory.",
+      "take": "Cutting fuel to an occupied peninsula is a form of economic warfare inside a military conflict — it is low-casualty, high-impact, and very difficult to defend against. Watch whether Russia retaliates asymmetrically elsewhere.",
+      "links": [
+        { "label": "NPR — Crimea fuel suspension", "type": "web", "icon": "🔗", "url": "https://www.npr.org/sections/news/" },
+        { "label": "Ukraine war strategy explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Ukraine+war+strategy+2026+Crimea" }
+      ],
+      "path": [
+        { "n": 1, "title": "The Crimea situation explained", "desc": "How Russia annexed it and why it matters", "url": "https://www.youtube.com/results?search_query=Crimea+annexation+Russia+explained" },
+        { "n": 2, "title": "Ukraine drone warfare explained", "desc": "How drones changed the conflict", "url": "https://www.youtube.com/results?search_query=Ukraine+drone+warfare+strategy+explained" },
+        { "n": 3, "title": "Economic warfare tactics", "desc": "How supply chain attacks work in modern conflict", "url": "https://www.youtube.com/results?search_query=economic+warfare+supply+chain+attacks+military" }
+      ]
+    },
+    {
+      "id": 5, "rank": "05", "emoji": "🏆",
+      "tags": ["culture","global"], "tLabels": ["Sports & Culture","Global Impact"],
+      "title": "FIFA World Cup 2026: Tournament's expanded 48-team format producing upsets — England vs Scotland in group stage today",
+      "why": "The first World Cup to feature 48 teams across three host nations is generating record viewership and unexpected results in the group stage.",
+      "summary": "The 2026 FIFA World Cup, co-hosted by the United States, Canada, and Mexico, is in full group-stage swing. Canada crushed Qatar 6-0 in a statement result. The US opened with a win over Paraguay. England face Scotland today in what Sky Sports describes as 'conditions perfect' cold and rain in Boston. France and Spain remain the betting favourites to lift the trophy at MetLife Stadium. The expanded 48-team format has produced more genuine upsets than any previous tournament, with football-first-timers delivering stunning performances.",
+      "take": "A 48-team World Cup across three countries is a logistical experiment at the largest possible scale — and so far the football has justified it. The England vs Scotland fixture today is the group-stage match of the week.",
+      "links": [
+        { "label": "Yahoo Sports — live scores and standings", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
+        { "label": "LiveScore — FIFA WC 2026", "type": "web", "icon": "🔗", "url": "https://www.livescore.com/en/football/international/world-cup-2026/" },
+        { "label": "World Cup 2026 preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+group+stage+results+preview" },
+        { "label": "England vs Scotland rivalry", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=England+vs+Scotland+World+Cup+2026" }
+      ],
+      "path": [
+        { "n": 1, "title": "How the 48-team World Cup format works", "desc": "New format explained simply", "url": "https://www.youtube.com/results?search_query=48+team+World+Cup+format+explained+2026" },
+        { "n": 2, "title": "World Cup 2026 — all host cities", "desc": "US, Canada, Mexico venues", "url": "https://www.youtube.com/results?search_query=World+Cup+2026+host+cities+venues+US+Canada+Mexico" },
+        { "n": 3, "title": "France vs Spain World Cup history", "desc": "The two tournament favourites", "url": "https://www.youtube.com/results?search_query=France+Spain+World+Cup+rivalry+history" }
+      ]
+    }
+  ]
+}
