@@ -1,726 +1,157 @@
 {
   "meta": {
-    "date": "21 June 2026",
-    "dateISO": "2026-06-21",
-    "editionLabel": "21 June 2026",
-    "marketNote": "NSE/BSE closed for the weekend — Friday 19 June close shown",
-    "trendLine": "Today in markets: NSE/BSE are closed for the weekend, so Friday's close remains the latest session. The bigger story landed at Reliance's AGM: Jio's IPO has formally launched with its DRHP filed with SEBI, on track to become India's largest-ever public issue. Gold and silver rates in Chennai are flat and steady today.",
-    "sodTitle": "Reliance AGM: Jio IPO DRHP Filed With SEBI — Set to Become India's Largest-Ever Public Issue",
-    "sodBody": "Mukesh Ambani announced that Jio Platforms' board has cleared its IPO and the DRHP was filed with SEBI on Friday, expected to raise around $4 billion. Reliance also unveiled a Rs 1,10,000 crore sovereign AI infrastructure push in Jamnagar and posted record FY26 revenue, EBITDA, and net profit.",
+    "date": "26 June 2026",
+    "dateISO": "2026-06-26",
+    "editionLabel": "26 June 2026",
+    "marketNote": "Markets open today — Thursday 26 June session",
+    "trendLine": "Sensex and Nifty trade in positive territory as markets recover from last week's IT-led selloff; gold eases slightly in Chennai; silver dips; Reliance Jio IPO process advances following DRHP filing; rupee strengthens as crude oil holds steady near $74.",
+    "sodTitle": "Markets Rebound — Sensex Near 77,100 as IT Stocks Recover; Jio IPO Process Advances Post-DRHP Filing",
+    "sodBody": "Indian benchmark indices traded positively on Thursday with Sensex near 77,100 and Nifty near 24,056, recovering from last week's Accenture-triggered IT selloff. Gold prices in Chennai eased to Rs 12,980/g (22K) from last week's Rs 13,600/g. Silver dipped to Rs 240/g. The Reliance Jio IPO process is advancing following the DRHP filing with SEBI on June 19, with analysts projecting India's largest-ever public offering timeline.",
     "rates": {
-      "sensex": {
-        "value": "76,802.90",
-        "change": "▼ 607.08 (−0.78%)",
-        "dir": "down",
-        "label": "Sensex (Fri close)"
-      },
-      "nifty": {
-        "value": "24,013.10",
-        "change": "▼ 154.90 (−0.64%)",
-        "dir": "down",
-        "label": "Nifty 50 (Fri close)"
-      },
-      "gold22k": {
-        "value": "₹13,600/g",
-        "change": "● flat vs Friday",
-        "dir": "up",
-        "label": "Gold 22K (Chennai)"
-      },
-      "silver": {
-        "value": "₹255/g",
-        "change": "● flat vs Friday",
-        "dir": "up",
-        "label": "Silver (Chennai)"
-      }
+      "sensex": { "value": "77,100.47", "change": "▲ 297.57 (+0.39%)", "dir": "up", "label": "Sensex" },
+      "nifty":  { "value": "24,056.00", "change": "▲ 42.90 (+0.18%)", "dir": "up", "label": "Nifty 50" },
+      "gold22k":{ "value": "₹12,980/g", "change": "▼ vs last week", "dir": "down", "label": "Gold 22K (Chennai)" },
+      "silver": { "value": "₹240/g",    "change": "▼ vs last week", "dir": "down", "label": "Silver (Chennai)" }
     },
     "quickRates": {
-      "gold22k": "₹13,600/g",
-      "gold24k": "₹14,837/g",
-      "silver": "₹255/g",
-      "petrol": "₹111.18/L",
-      "diesel": "₹97.83/L"
+      "gold22k": "₹12,980/g",
+      "gold24k": "₹14,133/g",
+      "silver":  "₹240/g",
+      "petrol":  "₹111.21/L",
+      "diesel":  "₹97.83/L"
     },
     "ticker": [
-      "Reliance AGM: Jio IPO DRHP filed with SEBI — India's biggest-ever IPO",
-      "Jio IPO to raise ~$4 billion, Akash/Isha/Anant Ambani lead the process",
-      "RIL posts record FY26 revenue, EBITDA and net profit",
-      "Markets closed for the weekend — Friday's close remains the latest session",
-      "Sensex closed Friday at 76,802.90, down 0.78% on IT-led selloff",
-      "Nifty IT index fell 5.43% — steepest single-day drop in years",
-      "Gold steady in Chennai at Rs 13,600/g (22K), flat vs Friday",
-      "Silver holds at Rs 255/g in Chennai, flat vs Friday",
-      "NTPC, Bharti Airtel, Eternal led Friday's Nifty gainers",
-      "Reliance unveils Rs 1,10,000 crore sovereign AI infrastructure plan in Jamnagar"
+      "Sensex 77,100 | Nifty 24,056 — markets in recovery mode",
+      "Gold eases to Rs 12,980/g (22K) in Chennai",
+      "Silver dips to Rs 240/g in Chennai",
+      "Petrol Rs 111.21/L | Diesel Rs 97.83/L | Crude $74.10",
+      "USD/INR at 94.71 — rupee firms as crude steadies",
+      "Reliance Jio IPO advancing — DRHP filed June 19 with SEBI",
+      "IT stocks stage partial recovery after last week's Accenture shock",
+      "LPG cylinder Rs 941.50 in Chennai",
+      "Nifty IT recovering after 5.43% crash on June 19",
+      "RIL posts record FY26 revenue of Rs 11.76 trillion"
     ],
     "archiveEntries": [
-      {
-        "date": "21 June 2026",
-        "today": true,
-        "hl": "Reliance AGM: Jio IPO DRHP filed with SEBI, ~$4B raise targeted · Rs 1,10,000 cr sovereign AI infra · Gold & silver flat in Chennai"
-      },
-      {
-        "date": "20 June 2026",
-        "today": false,
-        "hl": "IT-led selloff snaps 5-day streak · Accenture guidance cut · Gold firm in Chennai · NTPC, Bharti Airtel, Eternal lead gainers"
-      }
+      { "date": "26 June 2026", "today": true, "hl": "Markets rebound to 77,100 | Gold eases to Rs 12,980 | Silver Rs 240 | Jio IPO advancing" },
+      { "date": "21 June 2026", "today": false, "hl": "Reliance AGM Jio IPO DRHP filed · Gold flat · Silver flat · Markets closed weekend" },
+      { "date": "20 June 2026", "today": false, "hl": "IT-led selloff snaps 5-day streak · Accenture guidance cut · Gold Rs 13,600 · Nifty 24,013" }
     ],
     "cats": [
-      {
-        "label": "📊 Markets & Stocks",
-        "f": "market",
-        "n": 6
-      },
-      {
-        "label": "🟡 Gold & Silver (TN/Chennai)",
-        "f": "gold",
-        "n": 2
-      },
-      {
-        "label": "🌍 Global Cues",
-        "f": "global",
-        "n": 3
-      },
-      {
-        "label": "💰 Business Impact",
-        "f": "biz",
-        "n": 1
-      }
+      { "label": "📊 Markets & Stocks", "f": "market", "n": 5 },
+      { "label": "🟡 Gold & Silver (Chennai)", "f": "gold", "n": 2 },
+      { "label": "🌍 Global Cues", "f": "global", "n": 1 }
     ],
     "stocks": [
-      {
-        "rank": 1,
-        "name": "Eternal (Zomato)",
-        "sector": "Consumer Internet",
-        "price": "₹263.85",
-        "change": "▲ 2.05%",
-        "dir": "up"
-      },
-      {
-        "rank": 2,
-        "name": "Bharti Airtel",
-        "sector": "Telecom",
-        "price": "₹1,906.90",
-        "change": "▲ 1.71%",
-        "dir": "up"
-      },
-      {
-        "rank": 3,
-        "name": "Power Grid Corp",
-        "sector": "Power/Utilities",
-        "price": "₹292.60",
-        "change": "▲ 1.35%",
-        "dir": "up"
-      },
-      {
-        "rank": 4,
-        "name": "NTPC",
-        "sector": "Power/Utilities",
-        "price": "₹365.95",
-        "change": "▲ 1.11%",
-        "dir": "up"
-      },
-      {
-        "rank": 5,
-        "name": "Nestlé India",
-        "sector": "FMCG",
-        "price": "—",
-        "change": "▲ 1.22%",
-        "dir": "up"
-      }
+      { "rank": 1, "name": "Eternal (Zomato)", "sector": "Consumer Internet", "price": "Rising", "change": "▲ Leader", "dir": "up" },
+      { "rank": 2, "name": "Bharti Airtel",    "sector": "Telecom",           "price": "~₹1,930", "change": "▲ Strong",  "dir": "up" },
+      { "rank": 3, "name": "Reliance Industries","sector": "Conglomerate",   "price": "Recovering", "change": "▲ Jio IPO",  "dir": "up" },
+      { "rank": 4, "name": "NTPC",              "sector": "Power/Utilities",  "price": "Firm",   "change": "▲ Steady",  "dir": "up" },
+      { "rank": 5, "name": "Infosys",           "sector": "IT Services",      "price": "~₹1,060","change": "▲ Recovery","dir": "up" }
     ],
     "etfs": [
-      {
-        "rank": 1,
-        "name": "Nippon India ETF Nifty BeES",
-        "meta": "Broad market · oldest & most liquid",
-        "val": "5Y: 98.6%",
-        "chg": "1Y: 7.8%",
-        "dir": "up"
-      },
-      {
-        "rank": 2,
-        "name": "Nippon India ETF Gold BeES",
-        "meta": "Gold hedge exposure",
-        "val": "10Y: 150%+",
-        "chg": "Safe-haven",
-        "dir": "up"
-      },
-      {
-        "rank": 3,
-        "name": "Nippon India Silver ETF",
-        "meta": "Silver commodity exposure",
-        "val": "Strong 3Y CAGR",
-        "chg": "Trending up",
-        "dir": "up"
-      },
-      {
-        "rank": 4,
-        "name": "CPSE ETF",
-        "meta": "PSU basket",
-        "val": "1Y: 116.4%",
-        "chg": "Category leader",
-        "dir": "up"
-      },
-      {
-        "rank": 5,
-        "name": "Nippon India Nifty Jr BeES",
-        "meta": "Next-50 growth exposure",
-        "val": "5Y: 257%",
-        "chg": "1Y: 3.3%",
-        "dir": "up"
-      }
+      { "rank": 1, "name": "Nippon India ETF Nifty BeES", "meta": "Broad market · most liquid", "val": "5Y: 98.6%",      "chg": "1Y: 7.8%",       "dir": "up" },
+      { "rank": 2, "name": "Nippon India ETF Gold BeES",  "meta": "Gold hedge",                  "val": "10Y: 150%+",     "chg": "Safe-haven",      "dir": "up" },
+      { "rank": 3, "name": "Nippon India Silver ETF",     "meta": "Silver exposure",             "val": "Strong 3Y CAGR", "chg": "Easing this week","dir": "down" },
+      { "rank": 4, "name": "CPSE ETF",                    "meta": "PSU basket",                  "val": "1Y: 116.4%",     "chg": "Category leader", "dir": "up" },
+      { "rank": 5, "name": "Nippon India Nifty Jr BeES",  "meta": "Next-50 growth",              "val": "5Y: 257%",       "chg": "Recovering",      "dir": "up" }
     ],
     "mfs": [
-      {
-        "rank": 1,
-        "name": "CPSE ETF / SBI PSU Fund",
-        "meta": "PSU thematic",
-        "val": "1Y: 116.4%",
-        "chg": "Category leader",
-        "dir": "up"
-      },
-      {
-        "rank": 2,
-        "name": "Nippon India Taiwan Equity Fund",
-        "meta": "International equity",
-        "val": "Top 1Y return",
-        "chg": "International",
-        "dir": "up"
-      },
-      {
-        "rank": 3,
-        "name": "Bandhan Small Cap Fund",
-        "meta": "Domestic small-cap",
-        "val": "3Y: 29.1%",
-        "chg": "5Y: 22.3%",
-        "dir": "up"
-      },
-      {
-        "rank": 4,
-        "name": "Motilal Oswal Midcap Fund",
-        "meta": "Domestic mid-cap",
-        "val": "3Y: 19.2%",
-        "chg": "5Y: 23.4%",
-        "dir": "up"
-      },
-      {
-        "rank": 5,
-        "name": "ICICI Pru NASDAQ 100 Index Fund",
-        "meta": "International — US tech",
-        "val": "Top 1Y return",
-        "chg": "International",
-        "dir": "up"
-      }
+      { "rank": 1, "name": "CPSE ETF / SBI PSU Fund",        "meta": "PSU thematic",         "val": "1Y: 116.4%", "chg": "Category leader","dir": "up" },
+      { "rank": 2, "name": "Nippon India Taiwan Equity Fund", "meta": "International equity", "val": "Top 1Y",     "chg": "International",  "dir": "up" },
+      { "rank": 3, "name": "Bandhan Small Cap Fund",          "meta": "Domestic small-cap",   "val": "3Y: 29.1%",  "chg": "5Y: 22.3%",      "dir": "up" },
+      { "rank": 4, "name": "Motilal Oswal Midcap Fund",       "meta": "Domestic mid-cap",     "val": "3Y: 19.2%",  "chg": "5Y: 23.4%",      "dir": "up" },
+      { "rank": 5, "name": "ICICI Pru NASDAQ 100 Index Fund", "meta": "International US tech", "val": "Top 1Y",    "chg": "International",  "dir": "up" }
     ],
     "multibaggars": [
-      {
-        "rank": 1,
-        "name": "Ion Exchange (India) Ltd",
-        "ticker": "IONEXCHANG",
-        "sector": "Water Treatment",
-        "mcap": "Midcap",
-        "cmp": "~₹620",
-        "thesis": "Only listed pure-play water treatment company in India. PLI-era industrial demand + Jal Jeevan Mission municipal contracts = two independent growth engines.",
-        "keyMetric": "ROCE >22% | Zero debt | 5Y revenue CAGR ~18%",
-        "risk": "Order execution risk; lumpy quarterly results",
-        "horizon": "3–5 years",
-        "tag": "🌊 Water"
-      },
-      {
-        "rank": 2,
-        "name": "Nesco Ltd",
-        "ticker": "NESCO",
-        "sector": "MICE & IT Parks",
-        "mcap": "Smallcap",
-        "cmp": "~₹940",
-        "thesis": "Owns Bombay Exhibition Centre (India's largest MICE venue) + IT park income. Massive land bank in Mumbai with near-zero debt. Post-COVID MICE recovery still underway.",
-        "keyMetric": "ROCE >18% | Debt-free | Promoter holding 74%",
-        "risk": "Event-driven revenue volatility; low trading liquidity",
-        "horizon": "3–5 years",
-        "tag": "🏢 Real Assets"
-      },
-      {
-        "rank": 3,
-        "name": "Clean Science & Technology Ltd",
-        "ticker": "CLEANSCIEN",
-        "sector": "Specialty Chemicals",
-        "mcap": "Midcap",
-        "cmp": "~₹1,250",
-        "thesis": "Global leader in MEHQ and BHA — antioxidant chemicals with no domestic competitor. Export-driven with pricing power. India's specialty chemicals capex cycle adds tailwind.",
-        "keyMetric": "ROCE >30% | Net cash positive | 5Y PAT CAGR ~22%",
-        "risk": "Single-product concentration; Chinese competition risk on margins",
-        "horizon": "3–5 years",
-        "tag": "⚗️ Chemicals"
-      },
-      {
-        "rank": 4,
-        "name": "Hindustan Zinc Ltd",
-        "ticker": "HINDZINC",
-        "sector": "Mining & Metals",
-        "mcap": "Largecap",
-        "cmp": "~₹490",
-        "thesis": "World's second-largest zinc-lead miner. EV battery demand (zinc-air batteries) and galvanising demand from infrastructure spending = structural demand upgrade. Massive dividend yield.",
-        "keyMetric": "Dividend yield ~6% | ROCE >35% | Net cash ₹14,000+ cr",
-        "risk": "Commodity price cycles; government divestment overhang",
-        "horizon": "2–4 years",
-        "tag": "⚡ EV Metals"
-      },
-      {
-        "rank": 5,
-        "name": "Indraprastha Gas Ltd",
-        "ticker": "IGL",
-        "sector": "City Gas Distribution",
-        "mcap": "Midcap",
-        "cmp": "~₹390",
-        "thesis": "Delhi NCR's monopoly CNG distributor. EV risk is overstated — CNG cars still the most practical affordable option for Delhi's 3M+ auto-rickshaw and taxi fleet. PNG household penetration still only ~40%.",
-        "keyMetric": "ROCE >25% | Debt-free | Volume growth 8–10% pa",
-        "risk": "APM gas price policy risk; EV adoption acceleration",
-        "horizon": "3–4 years",
-        "tag": "⛽ Clean Energy"
-      }
+      { "rank": 1, "name": "Ion Exchange (India) Ltd", "ticker": "IONEXCHANG", "sector": "Water Treatment", "mcap": "Midcap", "cmp": "~₹620", "thesis": "Only listed pure-play water treatment company in India. PLI-era industrial demand + Jal Jeevan Mission municipal contracts = two independent growth engines.", "keyMetric": "ROCE >22% | Zero debt | 5Y revenue CAGR ~18%", "risk": "Order execution risk; lumpy quarterly results", "horizon": "3–5 years", "tag": "🌊 Water" },
+      { "rank": 2, "name": "Nesco Ltd", "ticker": "NESCO", "sector": "MICE & IT Parks", "mcap": "Smallcap", "cmp": "~₹940", "thesis": "Owns Bombay Exhibition Centre (India's largest MICE venue) + IT park income. Massive land bank in Mumbai with near-zero debt.", "keyMetric": "ROCE >18% | Debt-free | Promoter holding 74%", "risk": "Event-driven revenue volatility; low trading liquidity", "horizon": "3–5 years", "tag": "🏢 Real Assets" },
+      { "rank": 3, "name": "Clean Science & Technology Ltd", "ticker": "CLEANSCIEN", "sector": "Specialty Chemicals", "mcap": "Midcap", "cmp": "~₹1,250", "thesis": "Global leader in MEHQ and BHA antioxidant chemicals with no domestic competitor. Export-driven with pricing power.", "keyMetric": "ROCE >30% | Net cash positive | 5Y PAT CAGR ~22%", "risk": "Single-product concentration; Chinese competition risk on margins", "horizon": "3–5 years", "tag": "⚗️ Chemicals" },
+      { "rank": 4, "name": "Hindustan Zinc Ltd", "ticker": "HINDZINC", "sector": "Mining & Metals", "mcap": "Largecap", "cmp": "~₹490", "thesis": "World's second-largest zinc-lead miner. EV battery demand and galvanising demand from infrastructure spending = structural demand upgrade.", "keyMetric": "Dividend yield ~6% | ROCE >35% | Net cash ₹14,000+ cr", "risk": "Commodity price cycles; government divestment overhang", "horizon": "2–4 years", "tag": "⚡ EV Metals" },
+      { "rank": 5, "name": "Indraprastha Gas Ltd", "ticker": "IGL", "sector": "City Gas Distribution", "mcap": "Midcap", "cmp": "~₹390", "thesis": "Delhi NCR monopoly CNG distributor. EV risk overstated — CNG cars still the most practical affordable option for Delhi's 3M+ auto-rickshaw and taxi fleet.", "keyMetric": "ROCE >25% | Debt-free | Volume growth 8–10% pa", "risk": "APM gas price policy risk; EV adoption acceleration", "horizon": "3–4 years", "tag": "⛽ Clean Energy" }
     ]
   },
   "stories": [
     {
-      "id": 1,
-      "rank": "01",
-      "emoji": "🚀",
-      "tags": [
-        "market",
-        "biz"
-      ],
-      "tLabels": [
-        "Markets",
-        "Business Impact"
-      ],
-      "title": "Reliance AGM: Jio IPO DRHP filed with SEBI — on track to be India's largest-ever public issue",
-      "why": "This is the most anticipated stock market debut in Indian history, and it just moved from intent to formal filing.",
-      "summary": "Mukesh Ambani chaired Reliance Industries' 49th AGM on Friday June 19, announcing that the Jio Platforms board has cleared its IPO and the DRHP was filed with SEBI the same day. The issue is expected to raise around $4 billion through a fresh issue of up to 27 crore shares, with Akash, Isha, and Anant Ambani leading the process. Jio Platforms reported Q4 net profit of Rs 7,935 crore, up 13% year-on-year. Ambani also unveiled a sovereign AI infrastructure push — a Rs 1,10,000 crore commitment including a 120 MW AI data center in Jamnagar powered by renewable energy. RIL posted record FY26 consolidated revenue of Rs 11.76 trillion, up 9.8% year-on-year.",
-      "take": "This single filing does double duty: it is both India's biggest IPO story in years and a serious bet that India can build sovereign AI infrastructure rather than rent it from US hyperscalers — worth tracking both threads independently as the listing process unfolds.",
+      "id": 1, "rank": "01", "emoji": "📈",
+      "tags": ["market"], "tLabels": ["Markets"],
+      "title": "Sensex recovers to 77,100, Nifty near 24,056 — IT stocks lead partial rebound after last week's Accenture shock",
+      "why": "Markets recovering their footing after a sharp selloff gives investors clearer signal on whether last week was a sector-specific event or a broader risk-off move.",
+      "summary": "The BSE Sensex traded near 77,100.47 (+0.39%) and the Nifty 50 near 24,056 (+0.18%) on Thursday, partially recovering from last Friday's 607-point Sensex crash triggered by Accenture's weak guidance. IT stocks — which bore the brunt of last week's losses — staged a partial recovery as investors assessed whether the Accenture warning reflected a sector-wide issue or a company-specific problem. Broader market breadth remained positive with small and midcaps continuing to outperform large-caps. USD/INR firmed to 94.71 as crude oil held near $74.10 per barrel following the US-Iran ceasefire holding.",
+      "take": "A recovery this orderly after a sharp single-day shock suggests last week's IT selloff was indeed a sector-specific imported shock rather than a broad risk-off event. Markets are telling you they believe Indian fundamentals are intact.",
       "links": [
-        {
-          "label": "Business Standard — full AGM highlights",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://www.business-standard.com/companies/news/reliance-agm-jio-ipo-mukesh-ambani-satellite-communication-126061900753_1.html"
-        },
-        {
-          "label": "Upstox — live AGM updates",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://upstox.com/news/business-news/latest-updates/reliance-industries-agm-2026-live-updates-ril-annual-general-meeting-streaming-mukesh-ambani-speech-address-key-announcements-jio-ipo-retail-ai-share-price-june-19/liveblog-195622/"
-        },
-        {
-          "label": "How an IPO DRHP filing works",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=DRHP+IPO+filing+process+India+explained"
-        },
-        {
-          "label": "Jio business model explained",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=Jio+Platforms+business+model+explained+2026"
-        }
+        { "label": "Goodreturns — live market data", "type": "web", "icon": "🔗", "url": "https://www.goodreturns.in/" },
+        { "label": "How Indian markets recover from shocks", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Indian+stock+market+recovery+after+selloff+explained" }
       ],
       "path": [
-        {
-          "n": 1,
-          "title": "What is a DRHP and how IPOs work in India",
-          "desc": "Beginner explainer — 10 min",
-          "url": "https://www.youtube.com/results?search_query=DRHP+IPO+process+India+explained+beginners"
-        },
-        {
-          "n": 2,
-          "title": "Jio's journey since 2016",
-          "desc": "How free data changed Indian telecom",
-          "url": "https://www.youtube.com/results?search_query=Jio+history+2016+launch+impact+Indian+telecom"
-        },
-        {
-          "n": 3,
-          "title": "What sovereign AI infrastructure means",
-          "desc": "Why countries are building their own AI backbone",
-          "url": "https://www.youtube.com/results?search_query=sovereign+AI+infrastructure+explained"
-        },
-        {
-          "n": 4,
-          "title": "How to evaluate a large IPO before investing",
-          "desc": "Key things to check as a retail investor",
-          "url": "https://www.youtube.com/results?search_query=how+to+evaluate+IPO+before+investing+India"
-        }
+        { "n": 1, "title": "Reading market recovery patterns", "desc": "What rebound patterns signal", "url": "https://www.youtube.com/results?search_query=stock+market+recovery+pattern+analysis+India" },
+        { "n": 2, "title": "How US IT earnings affect Indian IT stocks", "desc": "The Accenture effect explained", "url": "https://www.youtube.com/results?search_query=US+IT+earnings+impact+Indian+IT+stocks+Infosys+TCS" }
       ]
     },
     {
-      "id": 2,
-      "rank": "02",
-      "emoji": "📉",
-      "tags": [
-        "market",
-        "global"
-      ],
-      "tLabels": [
-        "Markets",
-        "Global Cues"
-      ],
-      "title": "Sensex, Nifty snap five-day winning streak as Accenture's guidance cut sparks an IT-led selloff",
-      "why": "India's benchmark indices fell for the first time in six sessions, with the damage concentrated almost entirely in IT stocks.",
-      "summary": "The BSE Sensex fell 607.08 points to close at 76,802.90 and Nifty 50 declined 154.90 points to 24,013.10 on Friday June 19. The selloff was triggered after Accenture forecast revenue below estimates and flagged a $400 million Middle East hit. The Nifty IT index crashed 5.43% to 26,919.85 — its steepest single-day fall in recent memory, touching a three-year low. India VIX spiked over 5%. Markets are closed for the weekend; this remains the most recent trading session.",
-      "take": "A classic example of imported risk — Indian IT exporters live and die by US/European client budgets, and a single guidance cut from a global peer can wipe out a week of gains.",
+      "id": 2, "rank": "02", "emoji": "🟡",
+      "tags": ["gold"], "tLabels": ["Gold & Silver"],
+      "title": "Gold eases to Rs 12,980/g (22K) in Chennai — down from Rs 13,600/g last week as global demand cools slightly",
+      "why": "A Rs 620/g drop in 22K gold in Chennai in one week is significant for buyers planning jewellery or investment purchases — this week's rate is near June's lower range.",
+      "summary": "Gold rates in Chennai have eased this week with 22K gold at Rs 12,980 per gram and 24K at Rs 14,133 per gram, per Goodreturns data for June 26. This compares to Rs 13,600/g (22K) recorded last week, a meaningful drop of around Rs 620/g. Global gold prices have softened slightly as the US-Iran ceasefire reduces safe-haven demand and crude oil stabilises near $74/barrel. The rupee strengthening against the dollar (now 94.71) has also eased import cost pressure on gold prices in India.",
+      "take": "For Chennai households planning jewellery purchases ahead of the festive season or for investment, this week's rate near the lower end of June's range offers a better entry point than last week. The Rs 620/g drop is meaningful at scale.",
       "links": [
-        {
-          "label": "HDFC Sky — full close report",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://hdfcsky.com/news/sensex-nifty-snap-five-day-winning-streak-as-it-selloff-reliance-drag-benchmarks"
-        },
-        {
-          "label": "What moves the Nifty IT index?",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=Nifty+IT+index+explained+Infosys+TCS"
-        },
-        {
-          "label": "How global guidance cuts affect Indian stocks",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=how+global+earnings+affect+Indian+stock+market"
-        }
+        { "label": "Goodreturns — Chennai gold rate today", "type": "web", "icon": "🔗", "url": "https://www.goodreturns.in/gold-rates/chennai.html" },
+        { "label": "What causes gold prices to fall?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=why+gold+prices+fall+factors+explained+India" }
       ],
       "path": [
-        {
-          "n": 1,
-          "title": "What is the Sensex and Nifty?",
-          "desc": "Beginner explainer — 10 min",
-          "url": "https://www.youtube.com/results?search_query=Sensex+Nifty+explained+beginners"
-        },
-        {
-          "n": 2,
-          "title": "How IT services companies make money",
-          "desc": "Understanding Infosys, TCS business model",
-          "url": "https://www.youtube.com/results?search_query=Indian+IT+services+business+model+explained"
-        },
-        {
-          "n": 3,
-          "title": "What is India VIX?",
-          "desc": "The market's fear gauge explained",
-          "url": "https://www.youtube.com/results?search_query=India+VIX+explained+volatility+index"
-        },
-        {
-          "n": 4,
-          "title": "How to read a stock market selloff",
-          "desc": "What drives sudden drops",
-          "url": "https://www.youtube.com/results?search_query=stock+market+selloff+explained+how+it+works"
-        }
+        { "n": 1, "title": "Why gold prices change daily", "desc": "Global and local factors explained", "url": "https://www.youtube.com/results?search_query=why+gold+prices+change+daily+India+factors" },
+        { "n": 2, "title": "Best time to buy gold — a practical guide", "desc": "Seasonal patterns in India", "url": "https://www.youtube.com/results?search_query=best+time+to+buy+gold+India+seasonal+pattern" },
+        { "n": 3, "title": "Gold investment vs jewellery purchase", "desc": "Which makes more financial sense", "url": "https://www.youtube.com/results?search_query=gold+jewellery+vs+gold+investment+India+comparison" }
       ]
     },
     {
-      "id": 3,
-      "rank": "03",
-      "emoji": "📊",
-      "tags": [
-        "market"
-      ],
-      "tLabels": [
-        "Markets"
-      ],
-      "title": "NTPC, Bharti Airtel and Eternal buck the trend — defence, power, telecom cushion the broader fall",
-      "why": "Not every sector fell — power, telecom, and defensive consumer names held firm, showing rotation rather than panic.",
-      "summary": "Despite the broad IT-led selloff, several Nifty 50 constituents posted gains. Eternal ended as the day's top performer, up 2.05% to Rs 263.85. Bharti Airtel rose 1.71% to Rs 1,906.90, Power Grid Corporation added 1.35% to Rs 292.60. Meanwhile, Infosys was the session's biggest loser, plunging 7.87% to Rs 1,038.80, followed by TCS at -5.90% and Tech Mahindra at -4.89%.",
-      "take": "The fact that domestic-demand names (telecom, power, FMCG, pharma) held up while export-dependent IT cratered tells you this was a sector-specific shock, not a broad risk-off event — a healthier pattern than an across-the-board crash.",
+      "id": 3, "rank": "03", "emoji": "⚪",
+      "tags": ["gold"], "tLabels": ["Gold & Silver"],
+      "title": "Silver dips to Rs 240/g in Chennai — down from Rs 255/g as industrial demand softens",
+      "why": "Silver's dip this week diverges from gold's movement — the gap tells you this is driven by industrial demand factors, not pure safe-haven flows.",
+      "summary": "Silver in Chennai is priced at Rs 240 per gram today, down from Rs 255/g last week — a drop of Rs 15/g. Silver price in India is currently Rs 2,40,000 per kilogram, per Goodreturns. The softening reflects global industrial demand signals: silver's industrial uses (electronics, solar panels, EV components) are sensitive to global manufacturing activity, which has been mixed. India-specific jewellery and investment demand remains supportive, preventing a sharper drop.",
+      "take": "Silver at Rs 240/g is a more accessible entry point than last week for retail investors looking at precious metals. The divergence from gold's pattern signals this is a genuine industrial demand signal rather than sentiment — worth watching for a few more sessions before drawing conclusions.",
       "links": [
-        {
-          "label": "HDFC Sky — gainers & losers",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://hdfcsky.com/news/nifty-50-top-gainers-and-losers-on-june-19-2026-eternal-leads-infosys-slides"
-        },
-        {
-          "label": "How to read gainers vs losers data",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=stock+market+gainers+losers+explained+how+to+read"
-        }
+        { "label": "Goodreturns — Chennai silver rate today", "type": "web", "icon": "🔗", "url": "https://www.goodreturns.in/silver-rates/" },
+        { "label": "Why silver and gold move differently", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=why+silver+gold+prices+move+differently+industrial+demand" }
       ],
       "path": [
-        {
-          "n": 1,
-          "title": "What are defensive stocks?",
-          "desc": "Why some sectors hold up in selloffs",
-          "url": "https://www.youtube.com/results?search_query=defensive+stocks+explained+sectors"
-        },
-        {
-          "n": 2,
-          "title": "Sector rotation in markets",
-          "desc": "How money moves between industries",
-          "url": "https://www.youtube.com/results?search_query=sector+rotation+stock+market+explained"
-        },
-        {
-          "n": 3,
-          "title": "Understanding Nifty 50 constituents",
-          "desc": "Which companies make up the index",
-          "url": "https://www.youtube.com/results?search_query=Nifty+50+constituents+companies+explained"
-        }
+        { "n": 1, "title": "Silver's industrial uses explained", "desc": "Solar, EVs, electronics demand", "url": "https://www.youtube.com/results?search_query=silver+industrial+uses+solar+EV+electronics+demand" },
+        { "n": 2, "title": "How to buy silver in India", "desc": "Physical vs digital options", "url": "https://www.youtube.com/results?search_query=how+to+buy+silver+India+digital+physical+2026" }
       ]
     },
     {
-      "id": 4,
-      "rank": "04",
-      "emoji": "🟡",
-      "tags": [
-        "gold"
-      ],
-      "tLabels": [
-        "Gold & Silver"
-      ],
-      "title": "Gold holds firm in Chennai at Rs 13,600/g (22K) — flat over the weekend as Tamil Nadu demand stays resilient",
-      "why": "While IT stocks crashed, gold buyers in Chennai kept demand steady — a classic flight-to-safety pattern playing out locally.",
-      "summary": "Today's gold rate in Chennai stands at Rs 14,837 per gram for 24K and Rs 13,600 per gram for 22K, unchanged from Friday. 18K gold is priced at Rs 11,370/g. Demand in Chennai has remained on a steady upward trend through June 2026, driven primarily by jewellery purchases. The highest 22K price recorded in Chennai this month was Rs 14,630/g, while the lowest was Rs 13,500/g — today's rate sits closer to the lower end of June's range, a potentially attractive entry point for buyers.",
-      "take": "Gold's steadiness against equity volatility is a textbook hedge pattern. For Chennai households planning wedding-season or festival purchases, today's rate near the monthly low is worth noting.",
+      "id": 4, "rank": "04", "emoji": "🚀",
+      "tags": ["market", "biz"], "tLabels": ["Markets", "Business"],
+      "title": "Reliance Jio IPO process advances post-DRHP — analysts model $60–70 billion listing valuation",
+      "why": "India's largest-ever IPO is on a defined timeline — and the valuation range being discussed would make it one of the top 10 largest IPOs in global history.",
+      "summary": "Following the DRHP filing with SEBI on June 19, the Reliance Jio IPO process is moving forward through the regulatory review phase. Analyst models are converging on a listing valuation of $60–70 billion for Jio Platforms, which would make it the largest IPO in Indian history by a significant margin and one of the top 10 globally. The IPO is expected to raise around $4 billion through a fresh issue. SEBI review typically takes 30–75 days, suggesting a potential listing window of August–October 2026 depending on regulatory pace.",
+      "take": "A $60–70 billion Jio listing would permanently reshape the Indian public market landscape — adding a company of this size to the exchange materially changes index composition, institutional allocation patterns, and retail investor exposure to the telecom sector.",
       "links": [
-        {
-          "label": "Goodreturns — live Chennai gold rate",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://www.goodreturns.in/gold-rates/chennai.html"
-        },
-        {
-          "label": "How gold prices are determined in India",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=how+gold+price+determined+India+explained"
-        },
-        {
-          "label": "22K vs 24K gold explained",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=22K+vs+24K+gold+difference+explained"
-        }
+        { "label": "Business Standard — Jio IPO analysis", "type": "web", "icon": "🔗", "url": "https://www.business-standard.com/" },
+        { "label": "How SEBI IPO review works", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=SEBI+IPO+review+process+India+explained+timeline" }
       ],
       "path": [
-        {
-          "n": 1,
-          "title": "22K vs 24K gold — what's the difference?",
-          "desc": "Purity and pricing basics",
-          "url": "https://www.youtube.com/results?search_query=22K+24K+gold+purity+difference+explained"
-        },
-        {
-          "n": 2,
-          "title": "Why gold prices rise during market stress",
-          "desc": "The safe-haven phenomenon",
-          "url": "https://www.youtube.com/results?search_query=why+gold+is+a+safe+haven+asset+explained"
-        },
-        {
-          "n": 3,
-          "title": "Gold as an investment in India",
-          "desc": "Physical gold vs digital gold vs ETFs",
-          "url": "https://www.youtube.com/results?search_query=gold+investment+India+digital+gold+ETF+comparison"
-        }
+        { "n": 1, "title": "How SEBI reviews an IPO DRHP", "desc": "The regulatory timeline", "url": "https://www.youtube.com/results?search_query=SEBI+DRHP+review+IPO+process+India" },
+        { "n": 2, "title": "How large IPOs affect market indices", "desc": "Index rebalancing explained", "url": "https://www.youtube.com/results?search_query=large+IPO+effect+Nifty+Sensex+index+rebalancing" },
+        { "n": 3, "title": "How to apply for an IPO in India", "desc": "ASBA, UPI, retail quota explained", "url": "https://www.youtube.com/results?search_query=how+to+apply+IPO+India+ASBA+UPI+retail+investors" }
       ]
     },
     {
-      "id": 5,
-      "rank": "05",
-      "emoji": "⚪",
-      "tags": [
-        "gold"
-      ],
-      "tLabels": [
-        "Gold & Silver"
-      ],
-      "title": "Silver in Chennai holds at Rs 255/g, unchanged over the weekend",
-      "why": "Silver is quietly outperforming as an investment hedge, with retail investors increasingly treating it as a gold alternative.",
-      "summary": "Silver in Chennai today is priced at Rs 255 per gram and Rs 2,55,000 per kilogram, per Goodreturns data — flat compared to Friday's close. International silver prices remain near $15 per ounce. Analysts note that recent excise duty increases on gold may be pushing some retail investors toward silver as a more accessible store of value, adding upward pressure on demand in price-sensitive Tamil Nadu markets.",
-      "take": "Silver's dual role as both an industrial metal and a more affordable precious-metal investment makes it worth watching alongside gold, especially for smaller investors who find 22K gold prices increasingly out of reach.",
+      "id": 5, "rank": "05", "emoji": "🌍",
+      "tags": ["global", "market"], "tLabels": ["Global Cues", "Markets"],
+      "title": "Crude oil holds near $74 as US-Iran ceasefire holds — rupee benefits; rate cut hopes rise",
+      "why": "Stable crude near $74 is a significant tailwind for India's current account deficit, inflation management, and RBI's ability to cut rates.",
+      "summary": "Brent crude oil traded near $74.10 per barrel on Thursday as the US-Iran interim ceasefire continues to hold. For India — which imports over 85% of its crude requirements — stable oil at $74 significantly eases the current account deficit pressure that had been building when oil spiked during the conflict. The stabilisation has also given the RBI more confidence on the inflation trajectory, with rate cut expectations for Q3 2026 firming up among economists. The USD/INR rate held steady near 94.71.",
+      "take": "Every dollar that crude oil stays below $80 is quietly improving India's macro fundamentals. If the ceasefire holds and oil remains in the $70–75 range through Q3, the RBI has a credible path to cut rates — which would be material for rate-sensitive sectors like real estate, banking, and auto.",
       "links": [
-        {
-          "label": "Goodreturns — live Chennai silver rate",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://www.goodreturns.in/silver-rates/chennai.html"
-        },
-        {
-          "label": "Silver as an investment explained",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=silver+investment+India+explained+beginners"
-        }
+        { "label": "Trading Economics — India macro data", "type": "web", "icon": "🔗", "url": "https://tradingeconomics.com/india/stock-market" },
+        { "label": "How crude oil affects Indian markets", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=crude+oil+impact+Indian+economy+markets+explained" }
       ],
       "path": [
-        {
-          "n": 1,
-          "title": "Gold vs silver as investments",
-          "desc": "Comparing the two precious metals",
-          "url": "https://www.youtube.com/results?search_query=gold+vs+silver+investment+comparison"
-        },
-        {
-          "n": 2,
-          "title": "What drives silver prices globally",
-          "desc": "Industrial demand + investment demand",
-          "url": "https://www.youtube.com/results?search_query=what+drives+silver+prices+explained"
-        },
-        {
-          "n": 3,
-          "title": "How to buy silver in India",
-          "desc": "Physical vs digital options",
-          "url": "https://www.youtube.com/results?search_query=how+to+buy+silver+India+digital+physical"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "rank": "06",
-      "emoji": "🌍",
-      "tags": [
-        "global",
-        "market"
-      ],
-      "tLabels": [
-        "Global Cues",
-        "Markets"
-      ],
-      "title": "US-Iran ceasefire and a hawkish Fed created the tug-of-war behind this week's market swings",
-      "why": "Indian markets are caught between two opposing global forces — easing geopolitical risk and tightening US monetary policy expectations.",
-      "summary": "Investors spent the week weighing a US-Iran interim ceasefire (reducing crude oil price risk) against a hawkish tone from the US Federal Reserve, which kept rates unchanged but signaled a possible hike later this year. This created choppy two-sided trading — Thursday's gains driven by lower crude oil, followed by Friday's sharp reversal once the IT-specific Accenture shock hit.",
-      "take": "The ceasefire is good news for oil-import-dependent India, but a hawkish Fed complicates the rate-cut hopes that have been supporting risk assets globally. Expect continued volatility until one of these two forces clearly wins out.",
-      "links": [
-        {
-          "label": "Trading Economics — Sensex context",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://tradingeconomics.com/india/stock-market"
-        },
-        {
-          "label": "How US Fed decisions affect Indian markets",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=US+Fed+interest+rate+impact+Indian+stock+market"
-        },
-        {
-          "label": "Crude oil prices and Indian economy",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=crude+oil+price+impact+Indian+economy+explained"
-        }
-      ],
-      "path": [
-        {
-          "n": 1,
-          "title": "How global events move Indian markets",
-          "desc": "FII flows, crude oil, USD/INR basics",
-          "url": "https://www.youtube.com/results?search_query=global+events+impact+Indian+stock+market+explained"
-        },
-        {
-          "n": 2,
-          "title": "What the US Federal Reserve does",
-          "desc": "Rate decisions explained simply",
-          "url": "https://www.youtube.com/results?search_query=US+Federal+Reserve+interest+rates+explained+beginners"
-        },
-        {
-          "n": 3,
-          "title": "Why India imports so much crude oil",
-          "desc": "Energy economics basics",
-          "url": "https://www.youtube.com/results?search_query=India+crude+oil+imports+economy+explained"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "rank": "07",
-      "emoji": "📊",
-      "tags": [
-        "market"
-      ],
-      "tLabels": [
-        "Markets"
-      ],
-      "title": "Broader markets diverge — midcaps and smallcaps hold up better than large-caps during the Friday selloff",
-      "why": "Smaller companies, less exposed to global IT spending cuts, weathered Friday's storm noticeably better than blue-chip names.",
-      "summary": "While the Nifty 50 and Sensex fell sharply, the broader market told a more resilient story. The Nifty Smallcap 100 edged up 0.25% to 18,753.05, the Nifty Smallcap 250 rose 0.33%, and the Nifty Microcap 250 advanced 0.46% — all gaining even as large-caps fell. This reflects how concentrated Friday's pain was in large IT exporters specifically.",
-      "take": "Domestic-focused smaller companies, which have less revenue exposure to global IT budget cuts, are proving more resilient right now than the blue-chip names most people watch on the evening news.",
-      "links": [
-        {
-          "label": "HDFC Sky — broader market breakdown",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://hdfcsky.com/news/stock-markets-midday-report-june-19-2026-markets-slump-it-stocks-it-selloff-accenture-guidance-cut-pain"
-        },
-        {
-          "label": "Largecap vs midcap vs smallcap",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=largecap+midcap+smallcap+stocks+explained+India"
-        }
-      ],
-      "path": [
-        {
-          "n": 1,
-          "title": "Large-cap vs mid-cap vs small-cap",
-          "desc": "What the categories mean",
-          "url": "https://www.youtube.com/results?search_query=large+cap+mid+cap+small+cap+explained+beginners"
-        },
-        {
-          "n": 2,
-          "title": "How to read market breadth",
-          "desc": "Why broader indices matter beyond Sensex/Nifty",
-          "url": "https://www.youtube.com/results?search_query=market+breadth+stock+indices+explained"
-        },
-        {
-          "n": 3,
-          "title": "Domestic vs export-driven Indian companies",
-          "desc": "Understanding revenue exposure",
-          "url": "https://www.youtube.com/results?search_query=domestic+vs+export+driven+companies+India+explained"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "rank": "08",
-      "emoji": "⛽",
-      "tags": [
-        "market",
-        "global"
-      ],
-      "tLabels": [
-        "Markets",
-        "Global Cues"
-      ],
-      "title": "Petrol at Rs 111.18/L, Diesel at Rs 97.83/L in Chennai — fuel prices steady as crude eases on the Iran ceasefire",
-      "why": "Fuel costs directly affect household budgets and transport costs across Tamil Nadu — and today's steadiness is good news after weeks of Middle East uncertainty.",
-      "summary": "Petrol in Chennai is priced at Rs 111.18 per litre and diesel at Rs 97.83 per litre today, holding largely steady. The stability comes as global crude oil prices have eased following the US-Iran interim ceasefire, reducing the geopolitical risk premium. LPG in Chennai stands at Rs 941.50 per cylinder.",
-      "take": "Lower crude prices are a quiet tailwind for India's import-heavy economy — every dollar drop in Brent crude meaningfully eases the current account deficit and gives the RBI more room on inflation management.",
-      "links": [
-        {
-          "label": "Goodreturns — Chennai fuel price tracker",
-          "type": "web",
-          "icon": "🔗",
-          "url": "https://www.goodreturns.in/petrol-price.html"
-        },
-        {
-          "label": "How petrol prices are calculated in India",
-          "type": "yt",
-          "icon": "▶",
-          "url": "https://www.youtube.com/results?search_query=how+petrol+price+calculated+India+explained"
-        }
-      ],
-      "path": [
-        {
-          "n": 1,
-          "title": "How fuel prices are set in India",
-          "desc": "Taxes, crude cost, and state levies",
-          "url": "https://www.youtube.com/results?search_query=fuel+price+structure+India+explained+taxes"
-        },
-        {
-          "n": 2,
-          "title": "What is Brent crude and why it matters",
-          "desc": "Global oil benchmark basics",
-          "url": "https://www.youtube.com/results?search_query=Brent+crude+oil+explained+benchmark"
-        },
-        {
-          "n": 3,
-          "title": "India's current account deficit explained",
-          "desc": "Why oil imports matter economically",
-          "url": "https://www.youtube.com/results?search_query=India+current+account+deficit+oil+imports+explained"
-        }
+        { "n": 1, "title": "India's oil import dependence explained", "desc": "Why crude matters so much", "url": "https://www.youtube.com/results?search_query=India+oil+import+dependence+current+account+deficit+explained" },
+        { "n": 2, "title": "How the RBI sets interest rates", "desc": "Inflation, growth, and rate decisions", "url": "https://www.youtube.com/results?search_query=RBI+interest+rate+decision+India+explained" }
       ]
     }
   ]

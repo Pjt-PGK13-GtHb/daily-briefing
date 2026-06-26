@@ -1,24 +1,26 @@
 {
   "meta": {
-    "date": "22 June 2026", "dateISO": "2026-06-22", "editionLabel": "22 June 2026",
-    "trendLine": "FIFA World Cup 2026 group stage dominates with England vs Scotland today; India win Men's T20 World Cup at home in Ahmedabad; Wimbledon 2026 draws imminent; F1 season at mid-point after Canadian GP.",
-    "sodTitle": "FIFA World Cup 2026: England vs Scotland Today in Boston — and the Tournament is Already Full of Surprises",
-    "sodBody": "The 2026 FIFA World Cup's expanded 48-team group stage is producing upsets across the board. Canada crushed Qatar 6-0. The US beat Paraguay in the opener. Today's England vs Scotland fixture in cold, rainy Boston is the group-stage match of the moment — and the football has justified the biggest World Cup ever.",
+    "date": "26 June 2026",
+    "dateISO": "2026-06-26",
+    "editionLabel": "26 June 2026",
+    "trendLine": "Shreyas Iyer captains India for the first time today in Belfast; Wimbledon 2026 singles draw made today — main draw starts June 29; FIFA World Cup decisive Day 15 group matches; F1 Austrian GP race day today at 2 PM UK time; South Africa stun South Korea to reach World Cup knockouts.",
+    "sodTitle": "Wimbledon 2026 Draw Made Today — Main Draw Starts Monday as Alcaraz, Djokovic, Swiatek Headline",
+    "sodBody": "The Wimbledon 2026 singles draw was made this morning at 10 AM. The Championships begin Monday June 29, running until Sunday July 12. Defending champion Carlos Alcaraz, top seed Novak Djokovic, and women's top seed Iga Swiatek headline a draw that promises to be the most competitive in years. Qualifying concluded today with British wildcards Oliver Tarvet, Billy Harris, and Max Basing earning main draw spots.",
     "ticker": [
-      "FIFA WC 2026: England vs Scotland today in Boston",
-      "Canada 6-0 Qatar — biggest World Cup group-stage upset so far",
-      "India win Men's T20 World Cup 2026 in Ahmedabad",
-      "Wimbledon 2026 draws announced — Djokovic and Swiatek seeded 1",
-      "India Women T20WC: South Africa's Kapp stuns India by 6 wickets",
-      "F1 2026: Austrian GP next up after Canadian GP finish",
-      "FIFA WC: France and Spain favourites for MetLife final",
-      "ICC WC: Sanju Samson Player of the Tournament",
-      "Tennis: Alcaraz into Wimbledon as second seed",
-      "F1: Verstappen leads championship at season midpoint"
+      "Wimbledon 2026 draw made today — main draw starts Monday June 29",
+      "F1 Austrian GP race today 2 PM UK time — Verstappen leads championship",
+      "Shreyas Iyer captains India for first time — vs Ireland 6 PM IST",
+      "FIFA WC: Norway vs France today — Group I decider in Foxborough",
+      "Spain vs Uruguay today — Group H top seed at stake in Guadalajara",
+      "South Africa beat South Korea — reach World Cup knockouts for first time",
+      "Wimbledon qualifying: Tarvet, Harris, Basing earn main draw spots",
+      "India Women must beat Bangladesh today — T20 World Cup semi-final at stake",
+      "Vaibhav Sooryavanshi (15) could debut for India today vs Ireland",
+      "Alcaraz defending Wimbledon title as second seed behind Djokovic"
     ],
     "archiveEntries": [
-      { "date": "22 June 2026", "today": true, "hl": "England vs Scotland WC today · India T20 WC win · Wimbledon draws · F1 Austrian GP" },
-      { "date": "21 June 2026", "today": false, "hl": "FIFA WC group stage Day 10 · India Women T20WC · Canadian GP result" }
+      { "date": "26 June 2026", "today": true, "hl": "Wimbledon draw made · F1 Austrian GP race day · Shreyas Iyer captain debut · Norway vs France World Cup" },
+      { "date": "22 June 2026", "today": false, "hl": "India T20WC win celebrated · India Women vs South Africa · World Cup group stage Day 11 · Wimbledon qualifying begins" }
     ],
     "cats": [
       { "label": "🏏 Cricket", "f": "cricket", "n": 5 },
@@ -29,86 +31,83 @@
   },
   "cricket": [
     {
-      "id": 1, "rank": "01", "emoji": "🏆",
+      "id": 1, "rank": "01", "emoji": "🏏",
       "tags": ["cricket"], "tLabels": ["Cricket"],
-      "title": "India win ICC Men's T20 World Cup 2026 at home — Suryakumar Yadav's side creates history in Ahmedabad",
-      "why": "India won the T20 World Cup at home, in their own most iconic stadium — the moment every Indian cricket fan wanted.",
-      "summary": "India won the ICC Men's T20 World Cup 2026, clinching the title at the Narendra Modi Stadium in Ahmedabad in March. Sanju Samson was named Player of the Tournament. Ricky Ponting called this India's strongest-ever T20I side. Captain Suryakumar Yadav said winning in the same Ahmedabad stadium was 'more important' than the trophy itself. Coach Gautam Gambhir revealed the team's formula for success. Varun Chakravarthy was joint-top wicket-taker. The tournament broke all ICC attendance and broadcast records.",
-      "take": "This wasn't just a win — it was a generational statement. India under Suryakumar are playing T20 cricket at a level no side has reached before, and Gambhir has the squad pointed squarely at LA28.",
+      "title": "Shreyas Iyer leads India for the first time — vs Ireland in Belfast at 6 PM IST, Sooryavanshi (15) in the squad",
+      "why": "A new captain, a dropped World Cup-winning skipper, and potentially the youngest India T20 debutant in history — this fixture carries enormous storyline weight.",
+      "summary": "Shreyas Iyer becomes India's 15th T20I captain today in Belfast against Ireland, starting at 6:00 PM IST. He replaces Suryakumar Yadav, who was dropped from the squad despite winning the T20 World Cup. Tilak Varma is vice-captain. Vaibhav Sooryavanshi (15 years old) is in the squad and could become one of India's youngest-ever international cricketers. Hardik Pandya and Jasprit Bumrah are rested for the England series. India's squad of 16 is young and attacking, reflecting the selectors' intent to build for the LA28 Olympics and next T20 World Cup cycle.",
+      "take": "Iyer has won an IPL, led three franchises to finals, and captained Mumbai in domestic cricket. He walks into the T20 captaincy with the strongest credentials of any new India skipper in years. Today is about setting the tone for what comes next — not about the result.",
       "links": [
-        { "label": "ICC — official T20WC coverage", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026" },
-        { "label": "ESPNcricinfo — full tournament review", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
-        { "label": "India T20 World Cup win highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+T20+World+Cup+2026+win+final+highlights" },
-        { "label": "Sanju Samson Player of Tournament", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Sanju+Samson+T20+World+Cup+2026+best+innings" }
+        { "label": "ESPNcricinfo — Iyer captaincy story", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/story/shreyas-iyer-confirmed-as-india-s-new-t20i-captain-suryakumar-yadav-dropped-1539867" },
+        { "label": "India vs Ireland T20 Belfast live", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+vs+Ireland+T20+Belfast+June+26+2026+live" }
       ],
       "path": [
-        { "n": 1, "title": "India's T20 World Cup journey", "desc": "Match by match to the title", "url": "https://www.youtube.com/results?search_query=India+T20+World+Cup+2026+journey+all+matches" },
-        { "n": 2, "title": "Suryakumar Yadav's captaincy style", "desc": "How he leads the team", "url": "https://www.youtube.com/results?search_query=Suryakumar+Yadav+captaincy+India+T20" },
-        { "n": 3, "title": "T20 World Cup records broken in 2026", "desc": "Stats and milestones from the tournament", "url": "https://www.youtube.com/results?search_query=T20+World+Cup+2026+records+statistics" }
+        { "n": 1, "title": "Shreyas Iyer's captaincy career", "desc": "KKR, DC, PBKS, and now India", "url": "https://www.youtube.com/results?search_query=Shreyas+Iyer+captaincy+record+career+India" },
+        { "n": 2, "title": "Vaibhav Sooryavanshi — who is he?", "desc": "The teenager who made the India squad", "url": "https://www.youtube.com/results?search_query=Vaibhav+Sooryavanshi+cricket+profile+India" },
+        { "n": 3, "title": "Ireland cricket at international level", "desc": "How Ireland became a Test nation", "url": "https://www.youtube.com/results?search_query=Ireland+cricket+international+history+Test+status" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "💔",
+      "id": 2, "rank": "02", "emoji": "🏏",
       "tags": ["cricket"], "tLabels": ["Cricket"],
-      "title": "India Women lose to South Africa in T20 World Cup — Kapp's unbeaten 81 ends India's perfect run",
-      "why": "India's first defeat in the Women's T20 World Cup 2026 was a genuine setback delivered by one of the great individual all-round performances of the tournament.",
-      "summary": "India Women lost by 6 wickets to South Africa at the ICC Women's T20 World Cup 2026 in Manchester. India posted 158/7 — decent but not enough — as Marizanne Kapp took 2/27. Kapp then hit an unbeaten 81, including four sixes, in a match-winning 97-run partnership with Tazmin Brits (40). Sree Charani's 3/24 nearly pulled it back, with a double-wicket maiden in the final powerplay over, but South Africa reached 161/4 with a ball to spare. India remain second in Group A.",
-      "take": "Kapp playing the innings of the tournament to beat India is cricket at its finest — this is what the World Cup is for. India remain well-placed to reach the semi-finals, and this defeat may sharpen their preparation.",
+      "title": "India Women face Bangladesh today — must win to stay alive in T20 World Cup 2026",
+      "why": "A tournament that started with promise for India Women has narrowed to a must-win situation — every ball today matters for their semi-final hopes.",
+      "summary": "India Women face Bangladesh in the ICC Women's T20 World Cup 2026 today, in a must-win group game following their 6-wicket defeat to South Africa. Marizanne Kapp's unbeaten 81 had broken Indian resistance in that game. India must beat Bangladesh today and then Australia in their final group game on June 28 to reach the semi-finals. Smriti Mandhana has been India's most consistent performer with the bat. The bowling unit will need to address its middle-over vulnerability — the period where Kapp and Brits dismantled India's total in the previous game.",
+      "take": "Bangladesh have improved considerably as a T20I side, and must-win games carry their own pressure. India's batting depth should be enough to set a competitive total — the question is whether their bowlers can close it out in the final overs.",
       "links": [
-        { "label": "ICC — South Africa vs India report", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/live-west-indies-take-on-sri-lanka-india-face-south-africa" },
-        { "label": "Match highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+Women+vs+South+Africa+T20+World+Cup+2026+highlights" }
+        { "label": "ICC — Women's T20 WC 2026 schedule", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026" },
+        { "label": "India Women T20 World Cup preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+Women+T20+World+Cup+2026+Bangladesh+must+win" }
       ],
       "path": [
-        { "n": 1, "title": "Women's T20 World Cup 2026 standings", "desc": "Who qualifies for the semi-finals", "url": "https://www.youtube.com/results?search_query=ICC+Womens+T20+World+Cup+2026+standings+semi+finals" },
-        { "n": 2, "title": "Marizanne Kapp — South Africa's star", "desc": "Background and career stats", "url": "https://www.youtube.com/results?search_query=Marizanne+Kapp+cricket+career+South+Africa" }
+        { "n": 1, "title": "Women's T20 World Cup 2026 group stage", "desc": "Points table and semi-final picture", "url": "https://www.youtube.com/results?search_query=ICC+Womens+T20+World+Cup+2026+standings+semi+finals" },
+        { "n": 2, "title": "Smriti Mandhana career profile", "desc": "India Women's batting anchor", "url": "https://www.youtube.com/results?search_query=Smriti+Mandhana+cricket+career+profile+2026" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "📊",
+      "id": 3, "rank": "03", "emoji": "🏏",
       "tags": ["cricket"], "tLabels": ["Cricket"],
-      "title": "Ponting calls India the strongest-ever T20I team — and says Gambhir's methods are transformational",
-      "why": "When one of cricket's greatest coaches makes this kind of assessment, it carries real analytical weight — not just flattery.",
-      "summary": "Ricky Ponting, in post-tournament analysis, called India's T20 World Cup 2026 squad the strongest T20I team ever assembled by any nation. He specifically highlighted Suryakumar Yadav's captaincy, the depth of India's batting beyond the top order, and Varun Chakravarthy's mystery spin as factors no other team in world cricket can currently match. Ponting also praised Gautam Gambhir's coaching approach as 'transformational' in terms of how India manage player rotation and workload across formats.",
-      "take": "Ponting's analysis is usually clinical rather than generous — so this is meaningful. If India keep this squad intact and healthy, the pathway to LA28 gold looks genuinely clear.",
+      "title": "England vs New Zealand — 3rd Men's Test Day 4 underway as England push for a series win",
+      "why": "England chasing a Test series win at home against a New Zealand side that has been improving rapidly under their new coaching setup.",
+      "summary": "England face New Zealand in Day 4 of the 3rd Men's Test today, with the series context making this a pivotal session. England's Bazball approach under Ben Stokes has continued to produce high-quality Test cricket, and the home conditions suit their aggressive batting philosophy. New Zealand, rebuilding under their coaching staff after a difficult period, have shown improved resilience in this series but have struggled to contain England's run-rate in the second innings of recent Tests.",
+      "take": "Day 4 of a Test with a series on the line is where Bazball teams thrive — aggressive declaration, attacking bowling plans, and bowling opponents out. England's ability to close out Test wins at home in 2025-26 has been their most improved skill.",
       "links": [
-        { "label": "ICC — Ponting T20WC analysis", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news" },
-        { "label": "Ricky Ponting coaching career", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Ricky+Ponting+coaching+career+analysis+cricket" }
+        { "label": "Sky Sports — England vs NZ Test live", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" },
+        { "label": "England Bazball Test cricket explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=England+Bazball+Test+cricket+explained+Ben+Stokes" }
       ],
       "path": [
-        { "n": 1, "title": "Greatest T20I teams ever — comparison", "desc": "How India 2026 stacks up historically", "url": "https://www.youtube.com/results?search_query=greatest+T20I+teams+ever+comparison+cricket" },
-        { "n": 2, "title": "Varun Chakravarthy — mystery spinner", "desc": "How his variations work", "url": "https://www.youtube.com/results?search_query=Varun+Chakravarthy+bowling+variations+explained" }
+        { "n": 1, "title": "What is Bazball?", "desc": "England's aggressive Test approach explained", "url": "https://www.youtube.com/results?search_query=Bazball+England+cricket+explained+McCullum+Stokes" },
+        { "n": 2, "title": "England vs New Zealand cricket rivalry", "desc": "History and recent form", "url": "https://www.youtube.com/results?search_query=England+New+Zealand+cricket+rivalry+history" }
       ]
     },
     {
       "id": 4, "rank": "04", "emoji": "🏏",
       "tags": ["cricket"], "tLabels": ["Cricket"],
-      "title": "Pakistan exit T20 World Cup on net run rate — selector Aaqib Javed pushes back on scapegoating",
-      "why": "Pakistan's elimination on NRR from the same tournament India won at home adds a painful contrast — and raises serious selection questions.",
-      "summary": "Pakistan exited the ICC Men's T20 World Cup 2026 failing to reach the semi-finals, eliminated on net run rate. National selector Aaqib Javed said Pakistan 'missed out only because of net run rate' and pushed back against criticism of the selection committee, urging the team to move past 'scapegoating people.' The exit continues a difficult recent period for Pakistan cricket in ICC tournaments.",
-      "take": "Exiting on NRR when India won at home is the kind of result that generates years of cricket board politics in Pakistan. Javed's defensive framing will not help — Pakistan cricket needs honest structural analysis, not deflection.",
+      "title": "Ajit Agarkar explains Suryakumar Yadav's T20I axing: 'Form moves fast in T20 cricket'",
+      "why": "The selectors' public explanation for dropping the World Cup-winning captain is an unusually direct accountability moment in Indian cricket selection.",
+      "summary": "India chief selector Ajit Agarkar publicly explained the decision to drop Suryakumar Yadav from the T20I squad, stating 'form moves fast in T20 cricket.' Suryakumar scored 242 runs in nine innings at a strike rate of 136.72 in the T20 World Cup — respectable but below his own peak — and followed with only 270 runs in 13 IPL 2026 innings at an average of 20.76. Suryakumar himself responded graciously, wishing Shreyas well and stating he is 'happy for Shreyas as he's getting to lead the T20 Indian team.'",
+      "take": "SKY's response is a model of how elite sportspeople should handle being dropped — dignified, supportive, and focused on the team. His grace in the moment has only increased his standing among Indian cricket fans.",
       "links": [
-        { "label": "ESPNcricinfo — Aaqib Javed statement", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
-        { "label": "Pakistan T20 cricket problems", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Pakistan+cricket+T20+World+Cup+2026+exit+analysis" }
+        { "label": "ESPNcricinfo — Agarkar and SKY quotes", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/story/shreyas-iyer-confirmed-as-india-s-new-t20i-captain-suryakumar-yadav-dropped-1539867" }
       ],
       "path": [
-        { "n": 1, "title": "Net run rate explained", "desc": "How it works and why it matters", "url": "https://www.youtube.com/results?search_query=net+run+rate+explained+cricket+NRR" },
-        { "n": 2, "title": "Pakistan cricket board structure", "desc": "How selection and management works", "url": "https://www.youtube.com/results?search_query=Pakistan+Cricket+Board+PCB+structure+selection" }
+        { "n": 1, "title": "Suryakumar Yadav's T20I career", "desc": "The story of India's most creative batter", "url": "https://www.youtube.com/results?search_query=Suryakumar+Yadav+T20I+career+India+record" },
+        { "n": 2, "title": "How India selectors make decisions", "desc": "BCCI selection committee explained", "url": "https://www.youtube.com/results?search_query=BCCI+selection+committee+India+cricket+how+it+works" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "🌟",
+      "id": 5, "rank": "05", "emoji": "🏏",
       "tags": ["cricket"], "tLabels": ["Cricket"],
-      "title": "Rohit Sharma: 'I hope this T20 World Cup win is just the start' — eyes on ICC Champions Trophy and LA28",
-      "why": "India's senior-most cricketer and former captain putting this win in the context of a larger cycle tells you exactly how India's cricket leadership is thinking about the next 2 years.",
-      "summary": "Rohit Sharma, speaking after India's T20 World Cup victory, expressed the hope that this win is 'just the start' of a sustained period of ICC trophy collection for India. He highlighted the need to carry momentum into the ICC Champions Trophy and pointed toward cricket's inclusion in the LA28 Olympics as the ultimate team goal under the current setup. Rohit, who handed the T20 captaincy to Suryakumar Yadav, indicated he remains committed to the Test and ODI formats for as long as the team needs him.",
-      "take": "Rohit framing this as the beginning rather than the culmination is exactly the mindset India need. They now have the squad, the system, and the confidence — the only question is whether key players stay fit.",
+      "title": "India A begin Sri Lanka tour — Dhruv Jurel to captain in shadow Test series ahead of senior tour",
+      "why": "India A tours are now explicitly structured as preparation pathways for the senior Test team, and Jurel's captaincy is a significant signal of his standing.",
+      "summary": "India A have departed for a two four-day match series in Galle, Sri Lanka, against Sri Lanka A — a shadow tour designed to prepare players for India's upcoming full Test series in Sri Lanka. Dhruv Jurel has been named India A captain. The squad includes Test squad regulars B Sai Sudharsan, Devdutt Padikkal, and Harsh Dubey, alongside emerging talent Anshul Kamboj and Uttar Pradesh legspinner Zeeshan Ansari. The Galle pitch will provide specific preparation for the challenging conditions India's Test team will face.",
+      "take": "Jurel captaining India A is the clearest signal yet of his position in India's long-term Test plans. How he leads — not just how he bats — will be closely watched by the BCCI.",
       "links": [
-        { "label": "ICC — Rohit World Cup comments", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news" },
-        { "label": "Cricket at LA28 Olympics explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=cricket+LA28+Olympics+2028+T20+explained" }
+        { "label": "ESPNcricinfo — India A Sri Lanka tour", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/" },
+        { "label": "Dhruv Jurel cricket profile", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Dhruv+Jurel+cricket+career+India+A+wicketkeeper" }
       ],
       "path": [
-        { "n": 1, "title": "Cricket at the Olympics — history and LA28", "desc": "Why this matters for global cricket", "url": "https://www.youtube.com/results?search_query=cricket+Olympics+2028+LA28+why+it+matters" },
-        { "n": 2, "title": "Rohit Sharma's career and legacy", "desc": "From Mumbai to World Cup captain", "url": "https://www.youtube.com/results?search_query=Rohit+Sharma+cricket+career+legacy" }
+        { "n": 1, "title": "How India A tours develop Test players", "desc": "The pathway from A teams to senior Tests", "url": "https://www.youtube.com/results?search_query=India+A+cricket+tour+pathway+Test+development" },
+        { "n": 2, "title": "Galle pitch and Sri Lanka Test conditions", "desc": "What makes Galle a tough venue", "url": "https://www.youtube.com/results?search_query=Galle+cricket+pitch+conditions+Sri+Lanka+Test" }
       ]
     }
   ],
@@ -116,83 +115,79 @@
     {
       "id": 1, "rank": "01", "emoji": "⚽",
       "tags": ["football"], "tLabels": ["Football"],
-      "title": "FIFA World Cup 2026: England vs Scotland in Boston today — and Canada's 6-0 demolition of Qatar sets the tone",
-      "why": "The World Cup's expanded 48-team format is delivering genuine surprises and the group stage's most anticipated fixture is happening today.",
-      "summary": "The 2026 FIFA World Cup group stage continues across US, Canada, and Mexico. Canada produced the group stage's most stunning result, crushing Qatar 6-0. The US opened with a win over Paraguay. Today, England face Scotland in cold, rainy Boston — conditions Sky Sports describes as 'perfect' for England. Jude Bellingham is described as playing with a 'new maturity' following a personal loss. France and Spain remain the tournament favourites for the MetLife Stadium final. The expanded 48-team format has generated more genuine upsets than any previous World Cup.",
-      "take": "A 48-team World Cup that delivers Canada 6-0 Qatar in the group stage and England vs Scotland in Boston's autumn-like conditions has already justified itself. This is the best World Cup format experiment FIFA has ever run.",
+      "title": "FIFA World Cup Day 15: Norway vs France at Gillette Stadium — Group I top spot, knockout bracket at stake",
+      "why": "First place in Group I means a substantially easier Round of 32 draw — this is the biggest fixture of the final group stage day.",
+      "summary": "Norway face France at Gillette Stadium in Foxborough today in a Group I decider. France, with a perfect record (3-1 Senegal, 3-0 Iraq), are favourites to win the group, but Norway — who beat Iraq 4-1 and Senegal 3-2 — have Erling Haaland at his peak and a settled tactical system under their manager. First place in Group I means avoiding the likely Group J winners (currently Argentina or Germany) in the Round of 32. Norway will not fear France — they have the quality to produce a result.",
+      "take": "This is the group-stage game of the tournament's final round. Haaland vs France's defence in a stadium atmosphere that will be pro-underdog is the exact kind of spectacle that makes the World Cup special.",
       "links": [
-        { "label": "Yahoo Sports — live scores and standings", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
-        { "label": "Sky Sports — England WC coverage", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" },
-        { "label": "World Cup 2026 group stage preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+group+stage+preview+England" },
-        { "label": "England vs Scotland history", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=England+vs+Scotland+football+rivalry+World+Cup+2026" }
+        { "label": "Yahoo Sports — World Cup live", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
+        { "label": "Norway vs France World Cup preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Norway+vs+France+FIFA+World+Cup+2026+preview" }
       ],
       "path": [
-        { "n": 1, "title": "How the 48-team World Cup works", "desc": "New format, groups, and knockout structure", "url": "https://www.youtube.com/results?search_query=48+team+World+Cup+2026+format+explained" },
-        { "n": 2, "title": "England's World Cup squad 2026", "desc": "Key players and tactical setup", "url": "https://www.youtube.com/results?search_query=England+World+Cup+2026+squad+Bellingham+Saka" },
-        { "n": 3, "title": "Canada's World Cup journey", "desc": "How the host nation became a contender", "url": "https://www.youtube.com/results?search_query=Canada+FIFA+World+Cup+2026+journey" }
+        { "n": 1, "title": "World Cup 2026 knockout bracket explained", "desc": "How groups feed into the Round of 32", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+knockout+stage+bracket+how+it+works" },
+        { "n": 2, "title": "Erling Haaland profile and World Cup form", "desc": "Norway's captain and talisman", "url": "https://www.youtube.com/results?search_query=Erling+Haaland+World+Cup+2026+form+goals" },
+        { "n": 3, "title": "France's tactical setup under Deschamps", "desc": "How France have played in 2026", "url": "https://www.youtube.com/results?search_query=France+football+tactical+setup+World+Cup+2026" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "🌟",
+      "id": 2, "rank": "02", "emoji": "⚽",
       "tags": ["football"], "tLabels": ["Football"],
-      "title": "Jude Bellingham motivated by late grandfather — England's key man enters Scotland game with 'new maturity'",
-      "why": "Bellingham is England's most important player and his mental state going into the Scotland fixture matters enormously to their World Cup prospects.",
-      "summary": "Jude Bellingham has spoken publicly about the personal loss of his grandfather ahead of the England vs Scotland World Cup group stage match. Sky Sports' coverage describes him as playing with a 'new, very mature' edge this tournament, motivated by the tribute. Bellingham is England's creative fulcrum — the player around whom their entire tactical structure revolves — and his form and focus will determine how far England go in this World Cup.",
-      "take": "The best version of Bellingham — motivated, mature, carrying emotional purpose — is a player capable of winning a World Cup for England. Today's match will tell us which version shows up.",
+      "title": "Spain vs Uruguay in Guadalajara — Spain seek top of Group H with a win today",
+      "why": "Spain's dominant 4-0 victory over Saudi Arabia has already confirmed their knockout qualification, but today determines seeding and bracket position.",
+      "summary": "Spain face Uruguay in Guadalajara's Estadio Akron today, with Spain needing only a draw to confirm Group H top position. Spain's 4-0 demolition of Saudi Arabia was the most commanding performance of any favourite in the group stage. Uruguay — who drew 1-1 with Saudi Arabia and beat Cape Verde 2-2 — are fighting for second place and the Round of 32. Uruguay under their current setup have always been capable of grinding out results against major sides, and Estadio Akron's altitude could level the physical playing field.",
+      "take": "Spain in this form are the most technically complete team in the tournament. If they continue playing with this attacking intensity through the knockout rounds, they are the most credible challengers to France for the title.",
       "links": [
-        { "label": "Sky Sports — Bellingham interview", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" },
-        { "label": "Jude Bellingham World Cup form", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Jude+Bellingham+World+Cup+2026+England+performance" }
+        { "label": "Yahoo Sports — Spain vs Uruguay", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" }
       ],
       "path": [
-        { "n": 1, "title": "Jude Bellingham's career story", "desc": "From Birmingham to Real Madrid to World Cup", "url": "https://www.youtube.com/results?search_query=Jude+Bellingham+career+story+Birmingham+Madrid" },
-        { "n": 2, "title": "England's tactical setup at WC 2026", "desc": "How Tuchel deploys Bellingham", "url": "https://www.youtube.com/results?search_query=England+tactical+setup+Tuchel+World+Cup+2026" }
+        { "n": 1, "title": "Spain's World Cup squad 2026", "desc": "Key players and tactical approach", "url": "https://www.youtube.com/results?search_query=Spain+World+Cup+2026+squad+tactics+analysis" },
+        { "n": 2, "title": "Uruguay's football culture", "desc": "Punch above weight history in World Cups", "url": "https://www.youtube.com/results?search_query=Uruguay+football+World+Cup+history+analysis" }
       ]
     },
     {
       "id": 3, "rank": "03", "emoji": "⚽",
       "tags": ["football"], "tLabels": ["Football"],
-      "title": "Mohamed Doku controversy: should he leave World Cup for the birth of his child? Belgium divided",
-      "why": "A genuinely human dilemma — a footballer at the most important tournament of his career has to choose between family and country.",
-      "summary": "Belgium's Mohamed Doku is at the centre of a World Cup human-interest story — reports indicate he may wish to leave the tournament temporarily for the birth of his child, a decision Sky Sports says is 'no one else's business' per his teammates. Belgium management face a difficult call on whether to allow it, with potential group-stage implications. The debate is generating significant engagement across football media.",
-      "take": "This is sport at its most human. Whatever Doku decides is the right decision — football will survive, and family moments do not.",
+      "title": "South Africa reach FIFA World Cup Round of 32 for the first time — beating South Korea sends nation into celebration",
+      "why": "One of the World Cup's most emotionally significant results — a nation that had never reached this stage celebrating a historic breakthrough.",
+      "summary": "South Africa defeated South Korea at the 2026 FIFA World Cup to qualify for the Round of 32 — the first time South Africa have reached the knockout stage of a World Cup. The result was met with extraordinary celebrations both in the stadium and across South Africa. Coach Hugo Broos, who had faced criticism at home for his selections, was vindicated. The squad's unity and fighting spirit throughout the group stage has been widely praised as a model of what expanded World Cup participation can produce for developing football nations.",
+      "take": "This result will be remembered in South African football history. The 48-team World Cup format made this possible — and the scenes of joy this result generated justify every argument for giving more nations a genuine pathway.",
       "links": [
-        { "label": "Sky Sports — Doku coverage", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" }
+        { "label": "Al Jazeera — South Africa breakthrough", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/fifa-world-cup-2026/" }
       ],
       "path": [
-        { "n": 1, "title": "Belgium at World Cup 2026", "desc": "Their squad and ambitions", "url": "https://www.youtube.com/results?search_query=Belgium+World+Cup+2026+squad+De+Bruyne" },
-        { "n": 2, "title": "Mohamed Doku — player profile", "desc": "Manchester City winger's career", "url": "https://www.youtube.com/results?search_query=Mohamed+Doku+Manchester+City+profile+2026" }
+        { "n": 1, "title": "South Africa's World Cup journey 2026", "desc": "From qualification to knockouts", "url": "https://www.youtube.com/results?search_query=South+Africa+World+Cup+2026+journey+knockout+stage" },
+        { "n": 2, "title": "African football development and the World Cup", "desc": "Why more African teams are competitive now", "url": "https://www.youtube.com/results?search_query=African+football+development+World+Cup+progress" }
       ]
     },
     {
       "id": 4, "rank": "04", "emoji": "⚽",
       "tags": ["football"], "tLabels": ["Football"],
-      "title": "Brazil face Scotland next — Scotland's Clarke faces the toughest test in World Cup 2026 group stage",
-      "why": "Scotland's World Cup experience may be brief if they cannot navigate Brazil — but analysts note Scotland are better organised than in any previous tournament.",
-      "summary": "Scotland manager Steve Clarke faces what analysts are calling a tactical dilemma ahead of the Brazil fixture. Sky Sports' Boyd says 'Brazil will cause Scotland problems' — but also notes that this Scotland team, structured and disciplined, has never been better placed to compete in a World Cup group stage. Brazil, despite their World Cup winner status, have looked vulnerably inconsistent in the group stage. Scotland's World Cup journey — already remarkable for a nation used to qualifying as the ceiling — would turn historic with a positive result.",
-      "take": "Scotland beating Brazil would be one of the great World Cup upsets of the modern era. It is unlikely but not impossible — this Scotland team is the best they have sent to a major tournament.",
+      "title": "Egypt vs Iran in Seattle tonight — decisive Group B fixture with both nations needing a result",
+      "why": "Two nations whose off-pitch conflict context makes their on-pitch meeting one of the tournament's most politically charged fixtures.",
+      "summary": "Egypt face Iran tonight at Lumen Field in Seattle in a Group B decider. Egypt (1W-1D) and Iran (0W-2D) are separated by one point, and the result tonight will determine which nation advances. The fixture carries significant political weight given the ongoing US-Iran ceasefire context, with Iranian supporters in Seattle adding an emotional dimension that few World Cup group games can match. On the pitch, Egypt's solid defensive organisation will be tested by Iran's quick counter-attacking style.",
+      "take": "This fixture has everything beyond pure football — political context, diaspora emotion, and a result that matters. Seattle's Iranian and Egyptian communities will make Lumen Field an extraordinary atmosphere tonight.",
       "links": [
-        { "label": "Sky Sports — Scotland vs Brazil preview", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" }
+        { "label": "Yahoo Sports — Egypt vs Iran", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
+        { "label": "World Cup geopolitical fixtures explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+geopolitical+matches+context+2026" }
       ],
       "path": [
-        { "n": 1, "title": "Scotland's World Cup 2026 story", "desc": "How they qualified and the journey so far", "url": "https://www.youtube.com/results?search_query=Scotland+World+Cup+2026+qualification+journey" },
-        { "n": 2, "title": "Brazil at World Cup 2026", "desc": "Squad, form, and pressure of expectation", "url": "https://www.youtube.com/results?search_query=Brazil+World+Cup+2026+squad+analysis" }
+        { "n": 1, "title": "Egypt football at World Cups", "desc": "History and current squad", "url": "https://www.youtube.com/results?search_query=Egypt+football+World+Cup+2026+squad+history" },
+        { "n": 2, "title": "Iran football at World Cups", "desc": "The Team Melli's World Cup journey", "url": "https://www.youtube.com/results?search_query=Iran+football+World+Cup+2026+Team+Melli" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "🏆",
+      "id": 5, "rank": "05", "emoji": "⚽",
       "tags": ["football"], "tLabels": ["Football"],
-      "title": "France and Spain remain favourites for MetLife final — with England, Germany, and Norway also in contention",
-      "why": "The favourites picture heading into the knockout rounds is the most competitive in World Cup history — six genuine contenders for the trophy.",
-      "summary": "LiveScore's betting analysis shows France and Spain as joint-favourites for the 2026 World Cup final at MetLife Stadium, with England, Portugal, Germany, the Netherlands, and Norway also listed as serious contenders. Argentina and Brazil — previous champions — complete the top-ten, reflecting how much of the tournament is still open. The 48-team format means avoiding upsets through a longer group stage before the knockout rounds begin.",
-      "take": "A World Cup with six genuine favourites and both defending champion Argentina and traditional powerhouse Brazil already looking vulnerable is extraordinary. The knockout rounds could produce any result.",
+      "title": "Haiti participate in World Cup for first time in 52 years — the story of a nation's football comeback",
+      "why": "Haiti's World Cup return after 52 years is one of the most emotionally resonant stories in the tournament — a nation in crisis finding something to celebrate.",
+      "summary": "Haiti are participating in the FIFA World Cup 2026 — their first appearance since 1974, a gap of 52 years. Despite exiting the group stage, Haiti's participation has been celebrated across the Haitian diaspora in North America, with the host nation context making the experience particularly meaningful. The Haitian diaspora in Miami, New York, and Montreal has turned group games into extraordinary cultural celebrations. Al Jazeera described the experience as 'about more than just football' for a nation that has endured severe political and humanitarian crises over the past decade.",
+      "take": "Sport's capacity to give a suffering nation something to cheer for is not a cliché here — it is real. Haiti's World Cup presence, however brief, has generated genuine joy for a diaspora that needed it.",
       "links": [
-        { "label": "LiveScore — WC 2026 predictions", "type": "web", "icon": "🔗", "url": "https://www.livescore.com/en/football/international/world-cup-2026/" },
-        { "label": "World Cup 2026 favourites analysis", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=World+Cup+2026+favourites+France+Spain+England" }
+        { "label": "Al Jazeera — Haiti World Cup story", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/fifa-world-cup-2026/" }
       ],
       "path": [
-        { "n": 1, "title": "France's World Cup squad 2026", "desc": "Mbappe, Griezmann, and the next generation", "url": "https://www.youtube.com/results?search_query=France+World+Cup+2026+squad+Mbappe" },
-        { "n": 2, "title": "Spain's tiki-taka evolution", "desc": "How they play under De la Fuente", "url": "https://www.youtube.com/results?search_query=Spain+football+tactic+2026+World+Cup" },
-        { "n": 3, "title": "Norway's World Cup story", "desc": "Haaland and the dark horses", "url": "https://www.youtube.com/results?search_query=Norway+World+Cup+2026+Haaland+story" }
+        { "n": 1, "title": "Haiti's football history", "desc": "The 1974 World Cup and the road back", "url": "https://www.youtube.com/results?search_query=Haiti+football+history+World+Cup+1974+2026" },
+        { "n": 2, "title": "CONCACAF qualifying for the World Cup", "desc": "How Caribbean nations qualify", "url": "https://www.youtube.com/results?search_query=CONCACAF+World+Cup+qualifying+Caribbean+nations" }
       ]
     }
   ],
@@ -200,80 +195,83 @@
     {
       "id": 1, "rank": "01", "emoji": "🎾",
       "tags": ["tennis"], "tLabels": ["Tennis"],
-      "title": "Wimbledon 2026 draws announced — Djokovic and Swiatek seeded 1, Alcaraz at 2 seeking back-to-back titles",
-      "why": "The draws for the year's most prestigious Grand Slam are out — and the bracket shapes who has the easier or harder path to the title.",
-      "summary": "The Wimbledon 2026 draws have been announced with Novak Djokovic seeded first in the men's draw and Iga Swiatek seeded first in the women's. Carlos Alcaraz, defending champion, is seeded second in the men's draw and will be looking to win consecutive Wimbledon titles for the first time in his career. The grass court season has produced strong form from both Djokovic and Alcaraz, making the men's final a likely repeat of recent years. Play begins Monday June 29.",
-      "take": "Alcaraz vs Djokovic in the Wimbledon final is the match the tennis world wants — and both draws make it possible. At 23, Alcaraz winning back-to-back at Wimbledon would confirm him as the defining player of this era.",
+      "title": "Wimbledon 2026 draw made today — main draw starts Monday June 29 as Alcaraz, Djokovic, Swiatek headline",
+      "why": "Today's draw determines who plays who and which half of the bracket contains the most dangerous potential collisions — setting the tournament's narrative.",
+      "summary": "The Wimbledon 2026 singles draw was made this morning at 10 AM at the All England Club. The Championships main draw begins Monday June 29 and runs until Sunday July 12, with the singles final at not before 4 PM. Prize money totals £64.2 million with the singles winner receiving £3.6 million. Carlos Alcaraz, the defending champion, is seeded second behind Novak Djokovic. Women's top seed Iga Swiatek is the favourite in an open women's draw. For the first time in Wimbledon history, matches will have video review technology on Centre Court and No. 1 Court.",
+      "take": "The Wimbledon draw is always the moment the tournament truly begins — which quarter Alcaraz and Djokovic land in determines whether a final between them is guaranteed or disrupted earlier. For the women, any bracket that keeps Sabalenka and Swiatek in opposite halves sets up the final the sport wants.",
       "links": [
         { "label": "Wimbledon official site", "type": "web", "icon": "🔗", "url": "https://www.wimbledon.com" },
-        { "label": "Wimbledon 2026 draw preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+draw+preview+Djokovic+Alcaraz" },
-        { "label": "Djokovic vs Alcaraz rivalry", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Djokovic+vs+Alcaraz+tennis+rivalry+2026" }
+        { "label": "ATP Tour — Wimbledon 2026 draw preview", "type": "web", "icon": "🔗", "url": "https://www.atptour.com/en/news/wimbledon-2026-history-draw-schedule" },
+        { "label": "Wimbledon 2026 draw reaction", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+draw+reaction+Alcaraz+Djokovic" }
       ],
       "path": [
-        { "n": 1, "title": "How Wimbledon seedings work", "desc": "Why grass form matters differently", "url": "https://www.youtube.com/results?search_query=Wimbledon+seedings+explained+grass+court" },
-        { "n": 2, "title": "Carlos Alcaraz's tennis game explained", "desc": "What makes him so hard to beat", "url": "https://www.youtube.com/results?search_query=Carlos+Alcaraz+tennis+game+style+explained" },
-        { "n": 3, "title": "Wimbledon 2026 women's draw analysis", "desc": "Swiatek, Sabalenka, and the challengers", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+women+draw+Swiatek+Sabalenka" }
+        { "n": 1, "title": "How Wimbledon seedings work", "desc": "Why grass form changes the rankings", "url": "https://www.youtube.com/results?search_query=Wimbledon+seedings+how+they+work+explained" },
+        { "n": 2, "title": "Carlos Alcaraz defending Wimbledon", "desc": "Can he win back-to-back titles?", "url": "https://www.youtube.com/results?search_query=Carlos+Alcaraz+Wimbledon+2026+defending+champion" },
+        { "n": 3, "title": "Wimbledon video review — new technology explained", "desc": "First time in tournament history", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+video+review+technology+new+rule" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "🌿",
+      "id": 2, "rank": "02", "emoji": "🎾",
       "tags": ["tennis"], "tLabels": ["Tennis"],
-      "title": "Grass court season warm-up results: Alcaraz and Djokovic both sharp heading into Wimbledon fortnight",
-      "why": "Form on grass before Wimbledon is the most reliable predictor of performance at the tournament — both title contenders look sharp.",
-      "summary": "The grass court warm-up events ahead of Wimbledon 2026 have seen both Carlos Alcaraz and Novak Djokovic in strong form. Alcaraz, whose all-court game has evolved significantly since his first Wimbledon title, is playing with added defensive stability. Djokovic, at 39, continues to defy age with his baseline efficiency and mental resilience. In the women's draw, Iga Swiatek — who struggled on grass earlier in her career — has visibly improved her transition game, making her more dangerous at Wimbledon than in previous years.",
-      "take": "If Swiatek has genuinely solved her grass-court weaknesses, the women's draw becomes genuinely open. That would make 2026 Wimbledon one of the most competitive in years.",
+      "title": "Wimbledon qualifying ends today — British wildcards Tarvet, Harris, and Basing earn main draw spots",
+      "why": "British qualifying success at Wimbledon generates enormous national interest — home wildcards in the main draw create the atmosphere and storylines that make Wimbledon unique.",
+      "summary": "Wimbledon qualifying concluded today with British players Oliver Tarvet, Billy Harris, and Max Basing securing their main draw places. Tarvet defeated Stefanos Sakellaridis 6-4, 6-2, 7-5 after recovering from a break down in the third set, making the main draw for the second consecutive year. Harris came from a set down to beat Zhou Yi of China, winning 1-6, 7-6(2), 6-2, 6-3 in a disciplined fightback. British wildcard success at Wimbledon qualifying has been improving year-on-year, reflecting the LTA's investment in domestic development programmes.",
+      "take": "Tarvet qualifying for a second consecutive year is no longer a surprise — it is a statement that British men's tennis has genuine depth beyond the headline names. His second-week run will be one of the crowd-favourite storylines of the first week.",
       "links": [
-        { "label": "Wimbledon 2026 preview coverage", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+preview+grass+court+form+2026" }
+        { "label": "LTA — Wimbledon qualifying results", "type": "web", "icon": "🔗", "url": "https://www.lta.org.uk/fan-zone/wimbledon-championships/news/2026-qualifying-results-and-updates/" },
+        { "label": "Wimbledon 2026 qualifying highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Wimbledon+2026+qualifying+British+players+Tarvet+Harris" }
       ],
       "path": [
-        { "n": 1, "title": "Grass court tennis explained", "desc": "How grass changes tactics vs clay and hard", "url": "https://www.youtube.com/results?search_query=grass+court+tennis+tactics+explained+Wimbledon" },
-        { "n": 2, "title": "Iga Swiatek's career story", "desc": "From clay specialist to all-surface champion", "url": "https://www.youtube.com/results?search_query=Iga+Swiatek+career+story+clay+grass+Wimbledon" }
+        { "n": 1, "title": "How Wimbledon qualifying works", "desc": "Three rounds, one shot at the main draw", "url": "https://www.youtube.com/results?search_query=Wimbledon+qualifying+how+it+works+explained" },
+        { "n": 2, "title": "British tennis LTA development programme", "desc": "How the UK is producing more players", "url": "https://www.youtube.com/results?search_query=British+tennis+LTA+development+programme+success" }
       ]
     },
     {
       "id": 3, "rank": "03", "emoji": "🎾",
       "tags": ["tennis"], "tLabels": ["Tennis"],
-      "title": "Jannik Sinner eyeing Wimbledon run after French Open success — can he add grass to clay dominance?",
-      "why": "Sinner becoming a multi-surface Grand Slam contender rather than a clay specialist would mark him as an all-time great in the making.",
-      "summary": "Jannik Sinner arrives at Wimbledon 2026 on the back of a strong clay season, with questions about whether he can translate his baseline dominance to grass. Sinner's game — built on flat, early-rising ball-striking and exceptional return ability — translates reasonably well to faster surfaces, and his fitness and consistency are beyond question. Analysts at Sky Sports and Tennis World note his serve has improved significantly, which is the key missing piece for grass success.",
-      "take": "Sinner winning on grass would complete a three-surface capability that very few players in history have achieved. He has the tools — the question is whether the mental approach adapts to the quicker tempo of grass.",
+      "title": "Novak Djokovic — seeded No. 1 at Wimbledon 2026, targeting record-extending Grand Slam title at 39",
+      "why": "At 39, Djokovic winning Wimbledon would extend his own record for most Grand Slam titles and cement his legacy as the greatest of all time on every surface.",
+      "summary": "Novak Djokovic enters Wimbledon 2026 as the top seed, targeting what would be his most remarkable Grand Slam title. At 39 years old, Djokovic's ability to remain competitive with a generation of players a decade younger — while ranking world number one — is unprecedented in men's tennis history. His Wimbledon record includes eight titles, and the grass at SW19 remains his most surgically precise surface. The physical and technical preparation he brings to Wimbledon each year has set standards other players have actively studied and copied.",
+      "take": "Djokovic winning Wimbledon at 39 would settle the GOAT debate more definitively than anything else remaining in professional tennis. It would require winning seven best-of-five matches in two weeks — exactly the kind of challenge he seems to reserve his best tennis for.",
       "links": [
-        { "label": "Wimbledon 2026 men's preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Jannik+Sinner+Wimbledon+2026+grass+court+preview" }
+        { "label": "Wimbledon official — Djokovic entry", "type": "web", "icon": "🔗", "url": "https://www.wimbledon.com/en_GB/the_championships/entry_lists" },
+        { "label": "Djokovic Wimbledon career", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Novak+Djokovic+Wimbledon+career+record+2026" }
       ],
       "path": [
-        { "n": 1, "title": "Jannik Sinner's career story", "desc": "Italy's new tennis superstar", "url": "https://www.youtube.com/results?search_query=Jannik+Sinner+career+story+Italy+tennis" },
-        { "n": 2, "title": "Surface adaptability in tennis", "desc": "Why some players struggle on grass", "url": "https://www.youtube.com/results?search_query=tennis+surface+adaptability+clay+grass+hard+court" }
+        { "n": 1, "title": "Djokovic's tennis record explained", "desc": "Grand Slams, weeks at number 1, and more", "url": "https://www.youtube.com/results?search_query=Novak+Djokovic+tennis+record+career+statistics" },
+        { "n": 2, "title": "How Djokovic prepares for Wimbledon", "desc": "Grass court training and tactics", "url": "https://www.youtube.com/results?search_query=Djokovic+Wimbledon+preparation+grass+court+tactics" }
       ]
     },
     {
-      "id": 4, "rank": "04", "emoji": "🌟",
+      "id": 4, "rank": "04", "emoji": "🎾",
       "tags": ["tennis"], "tLabels": ["Tennis"],
-      "title": "Indian tennis: Rohan Bopanna and Yuki Bhambri in Wimbledon doubles — best Indian doubles pairing in years",
-      "why": "India's best chance of a Wimbledon title in 2026 rests with the Bopanna-Bhambri doubles combination, which has been one of the ATP's most consistent pairs this season.",
-      "summary": "Rohan Bopanna and Yuki Bhambri enter Wimbledon 2026 as one of the seeded pairs in the men's doubles draw, having put together a strong grass season. Bopanna — at 46, still one of the finest doubles tacticians in world tennis — brings irreplaceable court craft, while Bhambri's improved serve-and-volley game complements perfectly. Their Wimbledon run will be one of the key Indian sporting storylines to follow across the next two weeks.",
-      "take": "Bopanna at Wimbledon remains one of Indian sport's great ongoing stories. If he and Bhambri can navigate into the latter rounds, it would be among the defining sporting moments of an Indian at a Grand Slam.",
+      "title": "Wimbledon Court in Central Park event opens today — grass court in NYC as part of Wimbledon's US outreach",
+      "why": "Wimbledon building a temporary grass court in Central Park New York is an unusual and innovative way to grow the tournament's global brand in the World Cup host nation.",
+      "summary": "The All England Club is hosting 'The Wimbledon Court in Central Park' event starting today (June 26–29) at the Wollman Rink in Central Park, New York City — constructed and maintained by Wimbledon's own groundstaff with actual grass. The centrepiece today is 'The Wimbledon Court Invitational,' an exhibition doubles match featuring former professional players and tennis personalities. On June 27–28, members of the public will have the chance to play on the grass court through a ballot system. The event follows annual US outreach events since 2022.",
+      "take": "A grass court in Central Park is the kind of brand storytelling that Wimbledon does better than any other sporting event — creating an experience-based connection with the US market ahead of its biggest global broadcast window.",
       "links": [
-        { "label": "Wimbledon doubles draw", "type": "web", "icon": "🔗", "url": "https://www.wimbledon.com" },
-        { "label": "Rohan Bopanna career highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Rohan+Bopanna+tennis+career+doubles+Wimbledon" }
+        { "label": "Wikipedia — 2026 Wimbledon Championships", "type": "web", "icon": "🔗", "url": "https://en.wikipedia.org/wiki/2026_Wimbledon_Championships" },
+        { "label": "Wimbledon Central Park event", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Wimbledon+Central+Park+New+York+2026+grass+court" }
       ],
       "path": [
-        { "n": 1, "title": "Doubles tennis strategy explained", "desc": "How doubles tactics differ from singles", "url": "https://www.youtube.com/results?search_query=doubles+tennis+tactics+strategy+explained" },
-        { "n": 2, "title": "Rohan Bopanna — India's greatest doubles player", "desc": "Career overview and records", "url": "https://www.youtube.com/results?search_query=Rohan+Bopanna+India+tennis+greatest+doubles" }
+        { "n": 1, "title": "Why Wimbledon uses grass courts", "desc": "History and maintenance of the surface", "url": "https://www.youtube.com/results?search_query=Wimbledon+grass+courts+history+maintenance+explained" },
+        { "n": 2, "title": "Wimbledon's global marketing strategy", "desc": "How the tournament builds its brand", "url": "https://www.youtube.com/results?search_query=Wimbledon+global+marketing+brand+strategy+explained" }
       ]
     },
     {
       "id": 5, "rank": "05", "emoji": "🎾",
       "tags": ["tennis"], "tLabels": ["Tennis"],
-      "title": "Coco Gauff at Wimbledon 2026 — can she finally breakthrough on grass after US Open and French Open titles?",
-      "why": "Gauff has shown she can win Grand Slams on hard and clay — Wimbledon would complete the hat-trick and cement her as the generation's defining women's player.",
-      "summary": "Coco Gauff enters Wimbledon 2026 seeded in the top-5, having won Grand Slams on both hard courts (US Open) and clay (French Open). Wimbledon — the grass Grand Slam — is the one that has so far eluded her. Her serve has improved dramatically, and her baseline game is now versatile enough to adapt to faster surfaces. A Gauff Wimbledon title would make her the most complete women's player since Serena Williams.",
-      "take": "Gauff winning Wimbledon would be one of tennis's great narrative completions — the US teenager who promised everything, finally winning on the sport's most historic surface.",
+      "title": "Indian interest at Wimbledon 2026 — Rohan Bopanna and Yuki Bhambri in doubles draw, Sumit Nagal in singles",
+      "why": "Indian tennis watching Wimbledon has two storylines this year — Bopanna's historic doubles run potential and Nagal in the singles main draw for the second consecutive year.",
+      "summary": "Rohan Bopanna (46) and Yuki Bhambri have confirmed their entry in the Wimbledon 2026 men's doubles draw, continuing one of Indian tennis's most productive partnerships in recent years. Bopanna, who became the oldest world number one in doubles history in 2024, brings irreplaceable court craft to his partnership with Bhambri. Sumit Nagal has also earned a spot in the singles main draw. The Indian tennis community's focus this Wimbledon will be on whether Bopanna and Bhambri can make a deep run into the second week of doubles.",
+      "take": "Bopanna at Wimbledon at 46 remains one of Indian sport's most extraordinary ongoing stories. A deep doubles run with Bhambri this year would be a fitting late-career statement from one of India's finest tennis players.",
       "links": [
-        { "label": "Wimbledon women's draw preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Coco+Gauff+Wimbledon+2026+women+preview" }
+        { "label": "LTA — Wimbledon 2026 entry lists", "type": "web", "icon": "🔗", "url": "https://www.lta.org.uk/fan-zone/grand-slam/wimbledon-championships/" },
+        { "label": "Rohan Bopanna Wimbledon career", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Rohan+Bopanna+Wimbledon+2026+doubles+Bhambri" }
       ],
       "path": [
-        { "n": 1, "title": "Coco Gauff career story", "desc": "From Compton to Grand Slam champion", "url": "https://www.youtube.com/results?search_query=Coco+Gauff+career+story+tennis" },
-        { "n": 2, "title": "Women's tennis top 10 in 2026", "desc": "Rankings, form, and next generation", "url": "https://www.youtube.com/results?search_query=women+tennis+top+10+rankings+2026" }
+        { "n": 1, "title": "Rohan Bopanna career story", "desc": "India's greatest doubles player", "url": "https://www.youtube.com/results?search_query=Rohan+Bopanna+tennis+career+India+doubles" },
+        { "n": 2, "title": "How Wimbledon doubles works", "desc": "Format, seedings, and draws", "url": "https://www.youtube.com/results?search_query=Wimbledon+doubles+format+seedings+explained" }
       ]
     }
   ],
@@ -281,81 +279,83 @@
     {
       "id": 1, "rank": "01", "emoji": "🏎️",
       "tags": ["f1"], "tLabels": ["Formula 1"],
-      "title": "Max Verstappen leads F1 championship at season midpoint — Austrian GP next as rivals close the gap",
-      "why": "The F1 championship picture at mid-season sets up the second half narrative — Verstappen leads but the gap is smaller than in recent years.",
-      "summary": "Max Verstappen holds the F1 Drivers' Championship lead heading into the Austrian GP at the Red Bull Ring, the next race on the calendar. The 2026 season has seen Red Bull more closely matched by Ferrari and McLaren than in the dominant years of 2023-2024, with Lewis Hamilton (now at Ferrari) and Lando Norris (McLaren) both within championship contention. The 2026 regulation cycle — new power unit rules — has levelled the field noticeably. The Austrian GP is Red Bull's home race and typically a strong circuit for Verstappen.",
-      "take": "A Verstappen vs Hamilton vs Norris three-way fight in the second half of the season would be the most compelling F1 championship battle in a decade. The new 2026 regulations have done exactly what the FIA hoped.",
+      "title": "F1 Austrian GP race day today — Verstappen at Red Bull's home track, Hamilton and Norris in championship hunt",
+      "why": "The Austrian GP at Red Bull Ring is Verstappen's home race in every sense — and the closest championship fight in years makes today's result critical for the standings.",
+      "summary": "The 2026 Formula 1 Austrian Grand Prix race starts today at 2 PM UK time (6:30 PM IST) at the Red Bull Ring in Spielberg. Max Verstappen leads the championship and is at his most dangerous circuit — he has won here multiple times and knows the track better than any other driver. Lewis Hamilton (Ferrari) and Lando Norris (McLaren) are both in championship contention after benefiting from the 2026 regulation changes that have levelled the field. The sprint race yesterday further sharpened the positions. Qualifying on Saturday will determine the grid.",
+      "take": "Red Bull at the Red Bull Ring with Verstappen in the lead of the championship is a near-perfect storm for a dominant performance. But Hamilton's Ferrari form in 2026 has been significantly better than his difficult 2025 debut season — a Ferrari victory here would announce the championship fight is fully on.",
       "links": [
-        { "label": "F1 official — 2026 standings", "type": "web", "icon": "🔗", "url": "https://www.formula1.com/en/results/2026/drivers.html" },
-        { "label": "Austrian GP 2026 preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=F1+Austrian+GP+2026+preview+Red+Bull+Ring" },
-        { "label": "F1 2026 regulations explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=F1+2026+new+regulations+explained+power+unit" }
+        { "label": "F1 official — 2026 Austrian GP", "type": "web", "icon": "🔗", "url": "https://www.formula1.com" },
+        { "label": "Sky Sports — Austrian GP race day", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" },
+        { "label": "Austrian GP 2026 race preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=F1+Austrian+Grand+Prix+2026+race+day+preview" }
       ],
       "path": [
-        { "n": 1, "title": "How F1 championship points work", "desc": "Scoring system and constructor vs driver", "url": "https://www.youtube.com/results?search_query=F1+championship+points+system+explained" },
-        { "n": 2, "title": "F1 2026 new rules explained", "desc": "How the regulation change levelled the field", "url": "https://www.youtube.com/results?search_query=F1+2026+regulation+changes+technical+explained" },
-        { "n": 3, "title": "Red Bull Ring — circuit guide", "desc": "Austrian GP track characteristics", "url": "https://www.youtube.com/results?search_query=Red+Bull+Ring+circuit+guide+F1+Austrian+GP" }
+        { "n": 1, "title": "Red Bull Ring circuit guide", "desc": "Track layout and key corners", "url": "https://www.youtube.com/results?search_query=Red+Bull+Ring+circuit+guide+F1+track+explained" },
+        { "n": 2, "title": "F1 championship standings 2026", "desc": "Who is leading and what each driver needs", "url": "https://www.youtube.com/results?search_query=F1+2026+championship+standings+Verstappen+Hamilton+Norris" },
+        { "n": 3, "title": "How F1 points work", "desc": "Points system, fastest lap, sprint races", "url": "https://www.youtube.com/results?search_query=F1+points+system+explained+2026" }
       ]
     },
     {
       "id": 2, "rank": "02", "emoji": "🏎️",
       "tags": ["f1"], "tLabels": ["Formula 1"],
-      "title": "Lewis Hamilton at Ferrari: finding his feet in red — competitive in 2026 after tough 2025 debut year",
-      "why": "Hamilton's move to Ferrari was the biggest F1 story of 2025 — in 2026 we are seeing whether the gamble is paying off.",
-      "summary": "Lewis Hamilton's first full season at Ferrari in 2025 was difficult — adapting to a new car, a new team, and a new technical partnership with Charles Leclerc. The 2026 season has shown a markedly improved Hamilton, competitive at the front of the grid and within championship contention. Ferrari's 2026 car, designed around the new power unit regulations, suits Hamilton's driving style better than the 2025 car did. Ferrari and Hamilton both believe a race win — and potentially a championship challenge — is achievable.",
-      "take": "Hamilton at Ferrari was always going to be a two-year project. Year two of that project looks like it may deliver what year one couldn't — and a Hamilton eighth world title would be one of sport's great comebacks.",
+      "title": "Hamilton targets Austrian GP win to close championship gap — Ferrari strongest since his arrival",
+      "why": "Hamilton winning a race for Ferrari in 2026 would be the moment the Title fight becomes a genuine three-way battle.",
+      "summary": "Lewis Hamilton enters the Austrian GP as Ferrari's most competitive he has been since joining the team. The 2026 power unit regulations have produced a car that suits Hamilton's driving style — smooth throttle application and late braking — better than the 2025 spec. Hamilton has spoken publicly about his hunger to win a race at the Ferrrari, describing the Austrian GP as a circuit where his experience and smooth technique should be an advantage over younger rivals. Ferrari have been openly targeting both drivers' championship and constructors' championship in 2026.",
+      "take": "Seven-time champion Lewis Hamilton still hungry to win and within reach of his first Ferrari victory is the kind of narrative the sport has been waiting for since his bombshell 2024 announcement. Today, at this circuit, it is genuinely possible.",
       "links": [
-        { "label": "F1 — Hamilton Ferrari season review", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Lewis+Hamilton+Ferrari+2026+season+review" }
+        { "label": "Sky Sports — Hamilton Austrian GP", "type": "web", "icon": "🔗", "url": "https://www.skysports.com/" },
+        { "label": "Hamilton Ferrari 2026 season review", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Lewis+Hamilton+Ferrari+2026+season+Austrian+GP" }
       ],
       "path": [
-        { "n": 1, "title": "Why Hamilton moved to Ferrari", "desc": "The decision and the expectations", "url": "https://www.youtube.com/results?search_query=Lewis+Hamilton+Ferrari+move+why+explained" },
-        { "n": 2, "title": "How F1 drivers adapt to new cars", "desc": "The technical and physical adjustment", "url": "https://www.youtube.com/results?search_query=F1+driver+adapting+to+new+car+team+explained" }
+        { "n": 1, "title": "Why Hamilton moved to Ferrari", "desc": "The decision that shocked F1", "url": "https://www.youtube.com/results?search_query=Lewis+Hamilton+Ferrari+move+decision+explained" },
+        { "n": 2, "title": "F1 2026 regulations explained", "desc": "How the new rules changed the championship", "url": "https://www.youtube.com/results?search_query=F1+2026+new+regulations+power+unit+explained" }
       ]
     },
     {
       "id": 3, "rank": "03", "emoji": "🏎️",
       "tags": ["f1"], "tLabels": ["Formula 1"],
-      "title": "Lando Norris and McLaren pushing for maiden championship — papaya power at its strongest ever",
-      "why": "McLaren's resurgence from midfield struggler to championship contender is one of F1's great team rebuilding stories.",
-      "summary": "Lando Norris and McLaren are in genuine championship contention in 2026 — a position that would have seemed impossible three seasons ago when McLaren were fighting to stay in Q3. The 2026 power unit regulations have suited McLaren's chassis philosophy, and Norris — now 26 and at the peak of his physical and mental development — has the car and team around him to challenge Verstappen for a first drivers' title. Oscar Piastri, his teammate, has also been consistently fast.",
-      "take": "Norris winning the championship would complete one of F1's greatest team comeback stories. McLaren rebuilding from near-bankruptcy to champions in under a decade is already remarkable — a driver title would be the capstone.",
+      "title": "Lando Norris and McLaren — championship outsiders who could make Austria their breakthrough win",
+      "why": "A Norris win at Austria in front of a passionate European crowd would shift the championship narrative from a two-horse race to a genuine three-way fight.",
+      "summary": "Lando Norris and McLaren arrive in Austria having been the surprise package of the 2026 season — more competitive than most pre-season predictions suggested, with Norris scoring consistently and Oscar Piastri contributing strong points hauls. McLaren's 2026 chassis has been particularly strong in high-speed sweeping corners — of which the Red Bull Ring has several. Norris has described the Austrian GP as 'a circuit that suits us' and McLaren's data engineers have reportedly targeted this race for a realistic race win attempt.",
+      "take": "A McLaren 1-2 at the Red Bull Ring on a sunny day in Austria with a partisan European crowd would be the most dramatic result of the 2026 season so far. The conditions for it — fast circuit, McLaren's 2026 package, Verstappen under home pressure — are genuinely aligned.",
       "links": [
-        { "label": "McLaren 2026 season analysis", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=McLaren+F1+2026+season+Norris+championship" }
+        { "label": "F1 official — McLaren 2026 season", "type": "web", "icon": "🔗", "url": "https://www.formula1.com" },
+        { "label": "McLaren F1 2026 season analysis", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=McLaren+F1+2026+Austrian+GP+Norris+Piastri" }
       ],
       "path": [
-        { "n": 1, "title": "McLaren's F1 comeback story", "desc": "From bankruptcy to title contention", "url": "https://www.youtube.com/results?search_query=McLaren+F1+comeback+story+explained" },
-        { "n": 2, "title": "Lando Norris career profile", "desc": "From sim racing to F1 championship contender", "url": "https://www.youtube.com/results?search_query=Lando+Norris+F1+career+story+McLaren" }
+        { "n": 1, "title": "McLaren's F1 comeback story", "desc": "From near-bankruptcy to championship contender", "url": "https://www.youtube.com/results?search_query=McLaren+F1+comeback+story+history+2026" },
+        { "n": 2, "title": "Lando Norris career profile", "desc": "From sim racer to championship contender", "url": "https://www.youtube.com/results?search_query=Lando+Norris+F1+career+profile+McLaren+2026" }
       ]
     },
     {
       "id": 4, "rank": "04", "emoji": "🏎️",
       "tags": ["f1"], "tLabels": ["Formula 1"],
-      "title": "F1 2026 Austrian GP preview: Red Bull Ring — Verstappen's home race, but Ferrari and McLaren arrive competitive",
-      "why": "The Austrian GP is Red Bull and Verstappen's spiritual home race — but the 2026 field is the closest it has been in years.",
-      "summary": "The Austrian Grand Prix at the Red Bull Ring in Spielberg is next on the F1 calendar, and it arrives as one of the season's most anticipated rounds. Verstappen has a strong record at this circuit — it is effectively a home race for his team — but Ferrari and McLaren's competitive 2026 packages mean he faces genuine opposition. The short lap time at Spielberg also means qualifying is critical, with a single mistake often proving costly.",
-      "take": "Red Bull vs Ferrari vs McLaren at Red Bull's home race, in a championship battle closer than it has been in three years — this is exactly what F1 needed after the Verstappen dominance era.",
+      "title": "Verstappen's Austrian GP record: 4 wins at the Red Bull Ring — home race pressure and home race comfort",
+      "why": "Verstappen's record at this circuit is among the most dominant in modern F1 — understanding why tells you exactly what opponents need to overcome.",
+      "summary": "Max Verstappen has won at the Red Bull Ring four times in his F1 career, making it his most dominant home circuit in the history of the sport. The track's short lap time (approximately 67 seconds), three DRS zones, and high-speed corners suit Red Bull's aerodynamic philosophy and Verstappen's aggressive braking style. The circuit's elevation changes and quick direction changes also reward the raw car balance that Red Bull have historically achieved better than rivals. Home crowd support creates an atmosphere Verstappen has consistently thrived in.",
+      "take": "Verstappen's Red Bull Ring dominance is not just a stat — it is an understanding of a circuit at a molecular level. Unless his rivals bring genuinely superior pace today, the probabilistic outcome is a fifth Red Bull Ring win.",
       "links": [
-        { "label": "F1 official — Austrian GP", "type": "web", "icon": "🔗", "url": "https://www.formula1.com" },
-        { "label": "Austrian GP circuit guide", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Austrian+Grand+Prix+Red+Bull+Ring+circuit+guide+2026" }
+        { "label": "F1 — Austrian GP history and stats", "type": "web", "icon": "🔗", "url": "https://www.formula1.com" },
+        { "label": "Verstappen Austrian GP record", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Verstappen+Austrian+GP+record+wins+Red+Bull+Ring" }
       ],
       "path": [
-        { "n": 1, "title": "Red Bull Racing explained", "desc": "How the team was built and who owns it", "url": "https://www.youtube.com/results?search_query=Red+Bull+Racing+F1+team+history+explained" },
-        { "n": 2, "title": "Max Verstappen career story", "desc": "From youngest ever to multiple champion", "url": "https://www.youtube.com/results?search_query=Max+Verstappen+F1+career+story+champion" }
+        { "n": 1, "title": "Max Verstappen's driving style", "desc": "What makes him so fast in corners", "url": "https://www.youtube.com/results?search_query=Max+Verstappen+driving+style+analysis+F1" },
+        { "n": 2, "title": "Red Bull Racing technical philosophy", "desc": "How RB designs cars for different tracks", "url": "https://www.youtube.com/results?search_query=Red+Bull+Racing+technical+philosophy+aerodynamics+F1" }
       ]
     },
     {
       "id": 5, "rank": "05", "emoji": "🇮🇳",
       "tags": ["f1"], "tLabels": ["Formula 1"],
-      "title": "India on the F1 calendar? Hyderabad street circuit bid advances — decision expected by year end",
-      "why": "An Indian Grand Prix would bring one of sport's most globally watched events to the world's most populous country — and the Hyderabad bid is the most advanced in years.",
-      "summary": "The Hyderabad Grand Prix street circuit bid is understood to have advanced to the final evaluation stages with Formula One Management. A decision on whether an Indian GP returns to the calendar — potentially from 2027 or 2028 — is expected before the end of 2026. India's last F1 race was at the Buddh International Circuit in Greater Noida in 2013. The Hyderabad proposal involves a temporary street circuit around the city's IT district, backed by the Telangana state government.",
-      "take": "An Indian F1 Grand Prix makes commercial and logistical sense in 2026 in ways it did not in 2013 — the F1 fanbase in India has grown enormously, and the streaming and broadcast economics strongly favour adding South Asian markets to the calendar.",
+      "title": "Indian F1 fans watching Austrian GP: 6:30 PM IST start — and the India Grand Prix Hyderabad bid advances",
+      "why": "Growing Indian F1 fanbase intersects with advancing news on bringing the sport back to India — making every 2026 race relevant for the Indian market.",
+      "summary": "The Austrian GP race starts at 6:30 PM IST on Star Sports and F1 TV Pro, a prime evening slot for Indian viewers. The Indian F1 fanbase — estimated at over 50 million viewers per race following the Netflix Drive to Survive effect — is among the fastest-growing in the world. On the India Grand Prix front, the Hyderabad street circuit bid is understood to have entered its final evaluation phase with Formula One Management, with a decision expected before December 2026. An Indian GP on the 2027 or 2028 calendar would make commercial sense given the broadcast and sponsorship economics.",
+      "take": "The combination of a watchable evening start time, a championship race with multiple Indian-rooted fans backing different teams, and the ongoing Hyderabad bid makes this Austrian GP particularly relevant for Indian F1 fans. Peak Indian sports viewing conditions.",
       "links": [
-        { "label": "India F1 Grand Prix 2027 bid news", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+F1+Grand+Prix+Hyderabad+2027+bid" }
+        { "label": "F1 TV and broadcast details", "type": "web", "icon": "🔗", "url": "https://www.formula1.com" },
+        { "label": "India F1 GP Hyderabad bid 2027", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+F1+Grand+Prix+Hyderabad+2027+bid+update" }
       ],
       "path": [
-        { "n": 1, "title": "India's F1 history", "desc": "The Buddh International Circuit story", "url": "https://www.youtube.com/results?search_query=India+F1+Grand+Prix+history+Buddh+circuit" },
-        { "n": 2, "title": "How F1 selects new race venues", "desc": "The commercial and political process", "url": "https://www.youtube.com/results?search_query=how+F1+chooses+new+race+venues+calendar" },
-        { "n": 3, "title": "F1's growing India fanbase", "desc": "Why India is a priority market for F1", "url": "https://www.youtube.com/results?search_query=F1+India+fanbase+growth+market+2026" }
+        { "n": 1, "title": "How to watch F1 in India", "desc": "Star Sports, F1 TV, and streaming options", "url": "https://www.youtube.com/results?search_query=how+to+watch+F1+in+India+Star+Sports+streaming" },
+        { "n": 2, "title": "India Grand Prix history and the Hyderabad bid", "desc": "From Buddh Circuit to potential return", "url": "https://www.youtube.com/results?search_query=India+F1+Grand+Prix+history+Hyderabad+bid+return" }
       ]
     }
   ]

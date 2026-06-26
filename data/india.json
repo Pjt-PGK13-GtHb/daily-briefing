@@ -1,205 +1,203 @@
 {
   "meta": {
-    "date": "22 June 2026", "dateISO": "2026-06-22", "editionLabel": "22 June 2026",
-    "trendLine": "NEET-UG 2026 re-examination held successfully across India with over 20 lakh candidates; India Women's T20 World Cup campaign faces first defeat; PM Modi attends VivaTech 2026 in Paris.",
-    "sodTitle": "NEET-UG 2026 Re-Examination Held Across India — 20 Lakh Candidates, 5,440 Centres, Tight Security",
-    "sodBody": "The NTA conducted the NEET-UG 2026 re-examination on Sunday across 5,440 centres nationwide with the support of 7 lakh officials, following earlier controversy. Over 20 lakh medical aspirants appeared for the high-stakes exam amid heightened security measures.",
-    "sodChennai": "In Tamil Nadu, over 1.20 lakh candidates appeared for the re-test. Southern Railway ran special trains to ensure students reached exam centres on time.",
+    "date": "26 June 2026",
+    "dateISO": "2026-06-26",
+    "editionLabel": "26 June 2026",
+    "trendLine": "Shreyas Iyer captains India for the first time today in Belfast vs Ireland; Vaibhav Sooryavanshi at 15 could make his debut; India Women must beat Bangladesh to stay in T20 World Cup contention; Chennai's GCC intensifies monsoon drain cleaning ahead of season.",
+    "sodTitle": "New Era Begins: Shreyas Iyer Leads India in His First T20I as Captain — vs Ireland in Belfast Today",
+    "sodBody": "Shreyas Iyer walks out as India's 15th T20I captain today at 6:00 PM IST in Belfast, replacing World Cup-winning skipper Suryakumar Yadav who has been dropped from the squad. The squad features 15-year-old Vaibhav Sooryavanshi who could become one of India's youngest-ever international players if he gets a game today.",
+    "sodChennai": "Chennai's GCC is intensifying monsoon-preparedness drain cleaning across the city ahead of the Northeast Monsoon season, following last year's flooding incidents.",
     "ticker": [
-      "NEET-UG 2026 re-exam held — 20+ lakh candidates nationwide",
-      "NTA dismisses video claiming paper leak as fake",
-      "Tamil Nadu: 1.20 lakh NEET candidates appear for re-test",
-      "India Women beaten by South Africa in T20 World Cup",
-      "PM Modi attends VivaTech 2026 in Paris",
-      "Reliance Jio IPO DRHP filed with SEBI — India's biggest IPO",
-      "Chennai: Rainfall brings relief from heat across Tamil Nadu",
-      "GCC removes 16 unauthorized hoardings across Chennai",
-      "Chennai: Police Museum food festival on June 26",
-      "TN PWD announces 760 apprentice training posts"
+      "Shreyas Iyer captains India for first time — vs Ireland in Belfast 6 PM IST",
+      "Vaibhav Sooryavanshi (15) could debut for India today",
+      "Suryakumar Yadav dropped from T20I squad after World Cup win",
+      "India Women need win vs Bangladesh to stay in T20 World Cup",
+      "Reliance Jio IPO advancing — analysts project Rs 5 lakh crore valuation",
+      "NEET-UG 2026 re-exam results being processed by NTA",
+      "Chennai: GCC intensifies monsoon drain cleaning across city",
+      "TN: CM Vijay reviews flood preparedness for northeast monsoon",
+      "Padma Bhushan for singer Alka Yagnik — first major event post rare hearing loss",
+      "India A tour Sri Lanka — Dhruv Jurel to captain in four-day matches"
     ],
     "archiveEntries": [
-      { "date": "22 June 2026", "today": true, "hl": "NEET-UG re-exam across India · India Women T20WC defeat · Modi at VivaTech · Chennai rains" },
-      { "date": "21 June 2026", "today": false, "hl": "Reliance AGM: Jio IPO filing · Sensex selloff · Chennai gold flat" }
+      { "date": "26 June 2026", "today": true, "hl": "Shreyas Iyer T20I captaincy debut vs Ireland · Sooryavanshi potential debut · India Women must beat Bangladesh · Chennai monsoon prep" },
+      { "date": "22 June 2026", "today": false, "hl": "NEET-UG re-exam 20 lakh candidates · India Women T20WC vs South Africa · Modi VivaTech · India T20WC win celebrated" }
     ],
     "indiaCats": [
-      { "label": "🎓 Education & Policy", "f": "education", "n": 2 },
-      { "label": "🏏 Sports", "f": "sports", "n": 1 },
-      { "label": "💼 Business & Economy", "f": "biz", "n": 2 }
+      { "label": "🏏 Cricket", "f": "cricket", "n": 2 },
+      { "label": "🎓 Education", "f": "education", "n": 1 },
+      { "label": "💼 Business", "f": "biz", "n": 1 },
+      { "label": "🎭 Culture", "f": "culture", "n": 1 }
     ],
     "chennaiCats": [
-      { "label": "🌧️ Weather & Civic", "f": "civic", "n": 3 },
-      { "label": "📋 Government & Jobs", "f": "govt", "n": 2 }
+      { "label": "🌧️ Civic & Weather", "f": "civic", "n": 3 },
+      { "label": "📋 Government", "f": "govt", "n": 2 }
     ]
   },
   "india": [
     {
-      "id": 1, "rank": "01", "emoji": "🎓",
-      "tags": ["education"], "tLabels": ["Education"],
-      "title": "NEET-UG 2026 re-examination held across India — over 20 lakh medical aspirants appear at 5,440 centres",
-      "why": "India's most high-stakes entrance exam was re-conducted under massive security after controversy, affecting 20 lakh students' futures in medicine.",
-      "summary": "The National Testing Agency (NTA) conducted the NEET-UG 2026 re-examination on Sunday across 5,440 centres nationwide with the support of approximately 7 lakh officials, following a period of intense controversy over the original examination. Over 20 lakh medical aspirants appeared for the exam. The NTA dismissed a circulating video claiming a paper leak as fake, stating the re-examination was conducted successfully and without incident. In Tamil Nadu, over 1.20 lakh candidates appeared for the test, with Southern Railway operating special trains to ensure students reached their examination centres on time.",
-      "take": "NEET remains India's most consequential single exam — the gateway for every government medical college seat in the country. That it required a re-run speaks to the institutional pressure on the NTA to restore credibility. Today's apparent smooth conduct is the first positive signal.",
+      "id": 1, "rank": "01", "emoji": "🏏",
+      "tags": ["cricket"], "tLabels": ["Cricket"],
+      "title": "Shreyas Iyer captains India for the first time today — vs Ireland in Belfast at 6 PM IST",
+      "why": "A new captain, a dropped World Cup-winning skipper, and a 15-year-old potential debutant — this squad announcement has generated more talking points than any India T20 squad in years.",
+      "summary": "Shreyas Iyer leads India in the first of two T20 Internationals against Ireland in Belfast today, starting at 1:30 PM local time (6:00 PM IST). Iyer replaces Suryakumar Yadav as T20I captain — SKY was dropped from the squad entirely following a lean IPL 2026 (270 runs in 13 innings, average 20.76) despite having won the T20 World Cup as captain. Tilak Varma has been named vice-captain. Vaibhav Sooryavanshi, who is just 15 years old, is in the squad and could become one of India's youngest international players. Hardik Pandya and Jasprit Bumrah have been rested ahead of the England series.",
+      "take": "The BCCI has moved decisively — dropping the World Cup-winning captain within months of the trophy is bold, but the form numbers support the decision. Iyer's captaincy credentials from KKR's IPL title win are well-established. This Belfast fixture is his first test as a different kind of leader.",
       "links": [
-        { "label": "The Hindu — NEET re-exam live", "type": "web", "icon": "🔗", "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en" },
-        { "label": "ET HealthWorld — NTA statement", "type": "web", "icon": "🔗", "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en" },
-        { "label": "NEET-UG exam explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NEET+UG+exam+explained+India+medical+entrance" },
-        { "label": "NTA controversy 2025-2026 background", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NTA+NEET+controversy+2025+2026+explained" }
+        { "label": "ESPNcricinfo — Iyer captaincy confirmed", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/story/shreyas-iyer-confirmed-as-india-s-new-t20i-captain-suryakumar-yadav-dropped-1539867" },
+        { "label": "Indian Pay Calculator — Belfast match details", "type": "web", "icon": "🔗", "url": "https://www.indianpaycalculator.in/govt-news/india-ireland-t20i-1st-match-june-26-2026-shreyas-iyer-captain" },
+        { "label": "Shreyas Iyer captaincy career highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Shreyas+Iyer+captaincy+KKR+India+T20+captain" }
       ],
       "path": [
-        { "n": 1, "title": "What is NEET-UG?", "desc": "India's medical entrance exam explained", "url": "https://www.youtube.com/results?search_query=what+is+NEET+UG+India+explained+beginners" },
-        { "n": 2, "title": "How NTA conducts exams at scale", "desc": "Logistics of India's largest exams", "url": "https://www.youtube.com/results?search_query=NTA+National+Testing+Agency+India+how+it+works" },
-        { "n": 3, "title": "Medical education in India", "desc": "MBBS seats, government colleges, career paths", "url": "https://www.youtube.com/results?search_query=medical+education+India+MBBS+government+college" }
+        { "n": 1, "title": "Shreyas Iyer's career story", "desc": "From IPL captain to India T20 captain", "url": "https://www.youtube.com/results?search_query=Shreyas+Iyer+cricket+career+story+India" },
+        { "n": 2, "title": "Who is Vaibhav Sooryavanshi?", "desc": "The 15-year-old who made the India squad", "url": "https://www.youtube.com/results?search_query=Vaibhav+Sooryavanshi+cricket+India+youngest+player" },
+        { "n": 3, "title": "India T20I squad analysis 2026", "desc": "What the new look squad means", "url": "https://www.youtube.com/results?search_query=India+T20I+squad+2026+new+era+analysis" }
       ]
     },
     {
       "id": 2, "rank": "02", "emoji": "🏏",
-      "tags": ["sports"], "tLabels": ["Sports"],
-      "title": "India Women suffer first T20 World Cup defeat — South Africa's Marizanne Kapp steals the match with bat and ball",
-      "why": "India's perfect run in the Women's T20 World Cup 2026 ends as South Africa's Marizanne Kapp delivers one of the tournament's great all-round performances.",
-      "summary": "India Women fell to South Africa by 6 wickets at the ICC Women's T20 World Cup 2026 in Manchester on Sunday. India posted 158/7, with Kapp claiming 2/27 to restrict them after Smriti Mandhana and Shafali Verma gave a flying start (59/2 in powerplay). Kapp then hit an unbeaten 81 to guide South Africa to 161/4 in 19.1 overs — South Africa's highest successful chase in a Women's T20 World Cup. Sree Charani bowled a double-wicket maiden in the final powerplay over, but India could not defend. India maintained second place in Group A despite the loss.",
-      "take": "India remain in a strong position despite the defeat — this was Kapp's day and nothing else. But the bowling showed vulnerability in the middle overs that will need addressing before the knockout rounds.",
+      "tags": ["cricket"], "tLabels": ["Cricket"],
+      "title": "India Women must beat Bangladesh today to stay in T20 World Cup semi-final contention",
+      "why": "A must-win game for India Women after their loss to South Africa — defeat today effectively ends their World Cup campaign.",
+      "summary": "India Women face Bangladesh in the ICC Women's T20 World Cup 2026 at an English venue today, in a must-win game following their shock defeat to South Africa (where Marizanne Kapp's unbeaten 81 guided the Proteas to a 6-wicket win). India must beat Bangladesh today and then Australia on June 28 to secure a semi-final place. India sit second in Group A. Smriti Mandhana and Shafali Verma's opening partnership has been India's standout feature in the tournament, and the bowlers will need to find their middle-over consistency after the South Africa defeat exposed some vulnerability.",
+      "take": "India's path is still alive but narrow — beat Bangladesh today with a good net run rate, then beat Australia (the toughest possible fixture) in the final group game. It is a tough ask, but India have the batting depth to manage it.",
       "links": [
-        { "label": "ICC — match highlights and report", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/live-west-indies-take-on-sri-lanka-india-face-south-africa" },
-        { "label": "ESPNcricinfo — Women T20WC coverage", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
-        { "label": "Marizanne Kapp career highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Marizanne+Kapp+cricket+career+highlights+2026" }
+        { "label": "ICC — Women's T20 World Cup 2026", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026" },
+        { "label": "Indian Pay Calculator — India Women fixture", "type": "web", "icon": "🔗", "url": "https://www.indianpaycalculator.in/govt-news/india-ireland-t20i-1st-match-june-26-2026-shreyas-iyer-captain" },
+        { "label": "India Women T20 World Cup 2026 preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+Women+T20+World+Cup+2026+Bangladesh+must+win" }
       ],
       "path": [
-        { "n": 1, "title": "Women's T20 World Cup 2026 overview", "desc": "Format, teams, and schedule", "url": "https://www.youtube.com/results?search_query=ICC+Womens+T20+World+Cup+2026+preview" },
-        { "n": 2, "title": "India Women's cricket team 2026", "desc": "Key players and recent form", "url": "https://www.youtube.com/results?search_query=India+women+cricket+team+2026+players" },
-        { "n": 3, "title": "T20 cricket format explained", "desc": "For new cricket fans", "url": "https://www.youtube.com/results?search_query=T20+cricket+format+explained+beginners" }
+        { "n": 1, "title": "India Women's cricket team overview", "desc": "Key players and 2026 form", "url": "https://www.youtube.com/results?search_query=India+Women+cricket+team+2026+players+form" },
+        { "n": 2, "title": "Women's T20 World Cup format", "desc": "How teams qualify for semi-finals", "url": "https://www.youtube.com/results?search_query=ICC+Womens+T20+World+Cup+2026+format+semi+finals" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "🤝",
+      "id": 3, "rank": "03", "emoji": "🎓",
+      "tags": ["education"], "tLabels": ["Education"],
+      "title": "NEET-UG 2026 re-exam results processing — NTA confirms paper integrity, Supreme Court hearing expected",
+      "why": "The 20 lakh medical aspirants who sat the June 22 re-examination are now waiting for results — and the Supreme Court is expected to hear petitions on NTA reform this week.",
+      "summary": "The National Testing Agency is processing results from the NEET-UG 2026 re-examination held on June 22, which saw over 20 lakh candidates appear at 5,440 centres nationwide. NTA has confirmed no paper leak occurred and the examination was conducted without incident. The Supreme Court is expected to hear petitions this week from states and student groups calling for NTA restructuring or replacement. The government is separately working on a plan to reform the examination body following repeated controversies. Result declaration is expected within 2–3 weeks of the re-examination.",
+      "take": "The re-exam may have run smoothly, but the structural debate about NEET — whether a single centralised exam serves India's diverse educational landscape — will now move to the Supreme Court. Whatever comes next will shape medical education access for a generation.",
+      "links": [
+        { "label": "NEET re-exam results timeline", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NEET+UG+2026+re+exam+results+date+NTA" }
+      ],
+      "path": [
+        { "n": 1, "title": "How NEET results are calculated", "desc": "Scoring, cutoffs, and counselling", "url": "https://www.youtube.com/results?search_query=NEET+results+scoring+cutoff+counselling+explained" },
+        { "n": 2, "title": "NTA reform debate explained", "desc": "What's being proposed and by whom", "url": "https://www.youtube.com/results?search_query=NTA+reform+India+debate+2026+Supreme+Court" }
+      ]
+    },
+    {
+      "id": 4, "rank": "04", "emoji": "🎭",
+      "tags": ["culture"], "tLabels": ["Culture"],
+      "title": "Alka Yagnik receives Padma Bhushan from President Murmu — first major public appearance after rare hearing loss diagnosis",
+      "why": "One of Bollywood's most beloved playback singers receiving India's third-highest civilian award while publicly battling a rare hearing condition is a moment of genuine national resonance.",
+      "summary": "Legendary playback singer Alka Yagnik received the Padma Bhushan from President Droupadi Murmu on June 23 at Rashtrapati Bhavan — her first significant public appearance since being diagnosed with a rare autoimmune inner ear condition that caused sudden hearing loss in 2025. Yagnik has been open about the condition and its impact on her ability to perform. The honour, acknowledging a career spanning four decades and thousands of recorded songs, generated an outpouring of warmth across social media.",
+      "take": "Alka Yagnik's story carries a message beyond the award — a musician receiving the nation's honour while dealing with hearing loss, continuing to engage publicly despite the diagnosis, is the kind of quiet courage that resonates across generations.",
+      "links": [
+        { "label": "DNA India — Alka Yagnik Padma Bhushan", "type": "web", "icon": "🔗", "url": "https://www.dnaindia.com/" },
+        { "label": "Alka Yagnik career highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Alka+Yagnik+career+songs+highlights+Bollywood" }
+      ],
+      "path": [
+        { "n": 1, "title": "What is the Padma Bhushan?", "desc": "India's civilian honour system explained", "url": "https://www.youtube.com/results?search_query=Padma+awards+India+Bhushan+Vibhushan+explained" },
+        { "n": 2, "title": "Alka Yagnik's journey in Bollywood", "desc": "Four decades of playback singing", "url": "https://www.youtube.com/results?search_query=Alka+Yagnik+Bollywood+playback+singer+career+story" }
+      ]
+    },
+    {
+      "id": 5, "rank": "05", "emoji": "💼",
       "tags": ["biz"], "tLabels": ["Business"],
-      "title": "PM Modi attends VivaTech 2026 in Paris — pitches India as AI and deep-tech investment destination",
-      "why": "India's prime minister is personally selling India's tech potential to Europe's largest startup and innovation conference.",
-      "summary": "Prime Minister Narendra Modi attended VivaTech 2026 in Paris as a keynote participant, pitching India as a leading destination for artificial intelligence, semiconductor, and deep-tech investment from European firms. Modi highlighted India's digital infrastructure, the UPI payments ecosystem, and the government's 100 billion dollar semiconductor incentive programme. The visit also included bilateral meetings with French President Macron covering defence, nuclear energy cooperation, and the India-EU free trade agreement negotiations.",
-      "take": "Modi at VivaTech signals that India is competing directly with the US and UAE for European tech investment flows — and the combination of AI tailwinds, a large English-speaking developer base, and a stable regulatory environment makes the pitch credible.",
+      "title": "Reliance Jio IPO valuation models converge at $60–70 billion — analysts say listing could come by October 2026",
+      "why": "India's largest-ever IPO having a credible October timeline changes asset allocation calculations for every institutional investor in the country.",
+      "summary": "Following the DRHP filing with SEBI on June 19, analyst valuation models for the Reliance Jio IPO are converging at $60–70 billion (approximately Rs 5–5.8 lakh crore). SEBI's standard review period of 30–75 days puts a potential listing window at August–October 2026 if the process runs smoothly. The IPO is expected to raise approximately Rs 35,000 crore ($4 billion) through a fresh issue, with no offer-for-sale component. Institutional demand is expected to be very strong given Jio's 450+ million subscribers, Rs 7,935 crore quarterly net profit, and the only pure-play India telecom listing at this scale.",
+      "take": "October 2026 would make this one of the most anticipated listings since LIC's 2022 IPO — but with far stronger financial metrics and growth trajectory. Retail investors should watch the grey market premium once it opens as an early signal of demand intensity.",
       "links": [
-        { "label": "VivaTech 2026 official coverage", "type": "web", "icon": "🔗", "url": "https://www.youtube.com/results?search_query=VivaTech+2026+Modi+India+AI+investment" },
-        { "label": "India AI investment landscape", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+AI+investment+2026+semiconductor" }
+        { "label": "Business Standard — Jio IPO latest", "type": "web", "icon": "🔗", "url": "https://www.business-standard.com/" },
+        { "label": "How to follow an IPO process in India", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=how+to+follow+track+IPO+process+India+SEBI+GMP" }
       ],
       "path": [
-        { "n": 1, "title": "What is VivaTech?", "desc": "Europe's biggest tech conference explained", "url": "https://www.youtube.com/results?search_query=VivaTech+Paris+conference+explained" },
-        { "n": 2, "title": "India's semiconductor push explained", "desc": "Why India wants its own chip industry", "url": "https://www.youtube.com/results?search_query=India+semiconductor+policy+explained+2026" },
-        { "n": 3, "title": "India-EU trade relationship", "desc": "FTA negotiations and what's at stake", "url": "https://www.youtube.com/results?search_query=India+EU+free+trade+agreement+negotiations+2026" }
-      ]
-    },
-    {
-      "id": 4, "rank": "04", "emoji": "🚀",
-      "tags": ["biz"], "tLabels": ["Business"],
-      "title": "India T20 World Cup win resonates — Suryakumar Yadav calls it 'the most important win in the same Ahmedabad stadium'",
-      "why": "India's T20 World Cup triumph at home in March is still generating national conversation, team analysis, and commercial momentum three months on.",
-      "summary": "India's ICC Men's T20 World Cup 2026 victory, achieved in the Narendra Modi Stadium in Ahmedabad in March, continues to be celebrated as one of the most significant in Indian cricket history. Captain Suryakumar Yadav said winning in India, at the same Ahmedabad venue, was the most important thing. Sanju Samson was named Player of the Tournament. Ricky Ponting has called this the strongest-ever T20I side India has produced. Coach Gautam Gambhir has outlined the team's plans to maintain momentum toward the LA28 Olympics.",
-      "take": "A World Cup win on home soil, in the same stadium — this is the kind of historical moment that generates a generation of new cricket fans. Commercially, it is also a massive tailwind for the BCCI and Indian cricket brands globally.",
-      "links": [
-        { "label": "ICC — India T20WC win coverage", "type": "web", "icon": "🔗", "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026" },
-        { "label": "ESPNcricinfo — Suryakumar interview", "type": "web", "icon": "🔗", "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138" },
-        { "label": "India T20 World Cup highlights", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=India+T20+World+Cup+2026+win+highlights" }
-      ],
-      "path": [
-        { "n": 1, "title": "Suryakumar Yadav's rise to T20 captaincy", "desc": "From middle order to leader", "url": "https://www.youtube.com/results?search_query=Suryakumar+Yadav+T20+captain+India+story" },
-        { "n": 2, "title": "India's T20 cricket strategy under Gambhir", "desc": "How the coaching setup changed", "url": "https://www.youtube.com/results?search_query=Gautam+Gambhir+India+cricket+coaching+style" },
-        { "n": 3, "title": "Sanju Samson Player of the Tournament", "desc": "His tournament-winning performances", "url": "https://www.youtube.com/results?search_query=Sanju+Samson+T20+World+Cup+2026+performance" }
-      ]
-    },
-    {
-      "id": 5, "rank": "05", "emoji": "🎓",
-      "tags": ["education"], "tLabels": ["Education & Policy"],
-      "title": "Supreme Court hearing on NEET-UG reforms expected this week — NTA restructuring plan in the works",
-      "why": "The legal and policy fallout from repeated NEET controversies is pushing India toward its most significant medical-entrance exam reform in decades.",
-      "summary": "Following the NEET-UG 2026 re-examination, the Supreme Court of India is expected to hear petitions this week challenging the NTA's examination conduct framework and calling for structural reforms. The government has separately indicated it is working on a plan to restructure or replace the NTA with a new high-security examination body. Several opposition parties are calling for NEET to be scrapped entirely in favour of state-level examinations — a proposal the Supreme Court has previously declined to endorse.",
-      "take": "NEET reform is one of those rare issues that cuts across party lines — states, parents, and students all have genuine grievances. Whatever structure replaces the current one will affect millions of students for decades.",
-      "links": [
-        { "label": "NEET reform debate overview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=NEET+reform+India+Supreme+Court+NTA+restructure+2026" }
-      ],
-      "path": [
-        { "n": 1, "title": "How the Supreme Court handles exam cases", "desc": "PIL and judicial oversight explained", "url": "https://www.youtube.com/results?search_query=India+Supreme+Court+PIL+process+explained" },
-        { "n": 2, "title": "Arguments for and against NEET", "desc": "A balanced overview of the debate", "url": "https://www.youtube.com/results?search_query=NEET+pros+cons+arguments+India+debate" },
-        { "n": 3, "title": "State vs central exam systems", "desc": "How other countries handle national entrance exams", "url": "https://www.youtube.com/results?search_query=national+entrance+exam+systems+India+vs+other+countries" }
+        { "n": 1, "title": "Jio's business model and financials", "desc": "Revenue, subscribers, and growth", "url": "https://www.youtube.com/results?search_query=Jio+Platforms+business+model+financials+2026" },
+        { "n": 2, "title": "How to apply for an IPO in India", "desc": "ASBA, UPI mandate, and allotment", "url": "https://www.youtube.com/results?search_query=how+to+apply+IPO+India+ASBA+UPI+retail" },
+        { "n": 3, "title": "What is grey market premium (GMP)?", "desc": "How GMP predicts IPO listing price", "url": "https://www.youtube.com/results?search_query=grey+market+premium+GMP+IPO+India+explained" }
       ]
     }
   ],
   "chennai": [
     {
       "id": 1, "rank": "01", "emoji": "🌧️",
-      "tags": ["civic"], "tLabels": ["Weather"],
-      "title": "Rainfall brings relief from heat across Tamil Nadu — Chennai wakes up to cooler, overcast Sunday",
-      "why": "After an unusually prolonged dry spell and intense heat, rainfall across Tamil Nadu gives residents and farmers a welcome break.",
-      "summary": "Rainfall activity brought relief from recent heat across several parts of Tamil Nadu on Sunday June 22, according to LiveChennai weather reports. Chennai and surrounding districts experienced overcast conditions with moderate showers, reducing temperatures noticeably. The IMD had forecast continuation of pre-monsoon activity across coastal Tamil Nadu through this week. Farmers in the Cauvery delta districts particularly welcomed the rainfall after a dry June.",
-      "take": "Pre-monsoon rainfall in Tamil Nadu tends to arrive erratically — a couple of good showers don't mean consistent monsoon onset, and farmers will be watching rainfall distribution carefully over the next two weeks.",
+      "tags": ["civic"], "tLabels": ["Weather & Civic"],
+      "title": "GCC intensifies monsoon drain cleaning across Chennai ahead of northeast monsoon — 500 teams deployed",
+      "why": "Last year's flooding in several Chennai neighbourhoods was directly linked to blocked storm water drains — this year's pre-season cleaning is more aggressive in response.",
+      "summary": "The Greater Chennai Corporation has deployed approximately 500 teams across the city for an intensive storm water drain desilting and cleaning operation ahead of the northeast monsoon season (typically October–December). This year's operation began earlier and with greater resources following public criticism of last year's flooding incidents. Key drains in Adyar, Cooum, and Buckingham Canal catchment areas are being prioritised. CM Vijay separately reviewed flood preparedness at a district collector-level meeting, stressing accountability for drain maintenance completion before September.",
+      "take": "Chennai's flooding problem is largely a drain maintenance problem rather than a rainfall problem — the city gets manageable amounts of rain but inadequate drain capacity. The earlier start this year is the right response, but the test is whether the work is completed and sustained, not just announced.",
       "links": [
-        { "label": "LiveChennai — weather update", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
-        { "label": "Chennai weather forecast", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
+        { "label": "DTNext — GCC monsoon preparedness", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" },
+        { "label": "LiveChennai — civic updates", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
       ],
       "path": [
-        { "n": 1, "title": "Tamil Nadu monsoon pattern explained", "desc": "Why TN gets two monsoons", "url": "https://www.youtube.com/results?search_query=Tamil+Nadu+monsoon+pattern+northeast+southwest+explained" },
-        { "n": 2, "title": "Chennai heat island effect", "desc": "Why Chennai is getting hotter each year", "url": "https://www.youtube.com/results?search_query=Chennai+heat+island+effect+urban+climate" }
+        { "n": 1, "title": "Chennai flooding explained", "desc": "Why the city floods and what causes it", "url": "https://www.youtube.com/results?search_query=Chennai+flooding+causes+storm+water+drains+explained" },
+        { "n": 2, "title": "Northeast monsoon — Tamil Nadu's main rain season", "desc": "Timing and impact on Chennai", "url": "https://www.youtube.com/results?search_query=northeast+monsoon+Tamil+Nadu+Chennai+explained" }
       ]
     },
     {
       "id": 2, "rank": "02", "emoji": "🏗️",
-      "tags": ["civic"], "tLabels": ["Civic"],
-      "title": "GCC removes 16 unauthorized advertisement hoardings across Chennai in enforcement drive",
-      "why": "Chennai's civic body is intensifying action on illegal outdoor advertising that creates safety hazards and clutters the cityscape.",
-      "summary": "The Greater Chennai Corporation removed 16 unauthorized advertisement hoardings across the city as part of an ongoing enforcement drive, per LiveChennai reports. The crackdown follows an inspection by the Chennai Enforcement Division covering the Central, North, South, West, Chengalpattu, and Kancheepuram enforcement units. Unauthorized hoardings have been a persistent safety concern in Chennai, with several collapse incidents during cyclones and heavy rains in past years.",
-      "take": "Enforcement drives like this tend to be cyclical — they intensify after a specific incident and taper off. The real test is whether the GCC can maintain consistent enforcement of the existing outdoor advertising rules.",
+      "tags": ["civic"], "tLabels": ["Infrastructure"],
+      "title": "Chennai Metro Phase 2 hits major milestone — tunnel boring reaches Egmore station on Corridor 3",
+      "why": "Chennai Metro Phase 2 connecting the airport to the north of the city is the most transformative urban infrastructure project in Tamil Nadu in a decade.",
+      "summary": "The Chennai Metro Rail Limited announced that tunnel boring work on Corridor 3 has reached Egmore station — a significant milestone in the Phase 2 expansion that will eventually connect the airport at Meenambakkam to Madhavaram in the north, passing through key commercial and residential zones. The Phase 2 network, once complete, will add approximately 116 km to Chennai's metro network and is expected to significantly ease traffic congestion across the central business district and along the IT corridor in OMR.",
+      "take": "Phase 2 completion will fundamentally change commuting patterns for hundreds of thousands of Chennai residents who currently have no metro access. The Egmore milestone is on track with the revised timeline, which is a positive signal after earlier delays.",
       "links": [
-        { "label": "LiveChennai — GCC enforcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
-        { "label": "DTNext — Chennai civic news", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" }
+        { "label": "DTNext — Chennai Metro Phase 2 update", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" },
+        { "label": "Chennai Metro Phase 2 explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Chennai+Metro+Phase+2+route+map+update+2026" }
       ],
       "path": [
-        { "n": 1, "title": "Greater Chennai Corporation explained", "desc": "What the GCC does and how it is structured", "url": "https://www.youtube.com/results?search_query=Greater+Chennai+Corporation+GCC+explained+functions" },
-        { "n": 2, "title": "Urban outdoor advertising regulation in India", "desc": "How cities manage commercial hoardings", "url": "https://www.youtube.com/results?search_query=outdoor+advertising+regulation+India+cities" }
+        { "n": 1, "title": "Chennai Metro Phase 2 full route map", "desc": "All corridors and stations explained", "url": "https://www.youtube.com/results?search_query=Chennai+Metro+Phase+2+route+all+corridors+stations" },
+        { "n": 2, "title": "How tunnel boring machines work", "desc": "The technology behind the tunnels", "url": "https://www.youtube.com/results?search_query=tunnel+boring+machine+TBM+how+it+works+explained" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "🍲",
-      "tags": ["civic"], "tLabels": ["Events"],
-      "title": "Tamil Nadu Police Museum in Egmore to host special food festival on June 26",
-      "why": "A rare civic cultural event in central Chennai open to the public — a good weekend outing for families in the city.",
-      "summary": "The Tamil Nadu Police Museum in Egmore, Chennai, will organize a special food festival on June 26, per LiveChennai. The museum — which documents the history of the Tamil Nadu Police force — is opening its grounds for the food event as part of a broader effort to increase public engagement with civic institutions. Entry details and participating vendors had not been published at time of writing; visitors are advised to check official channels before visiting.",
-      "take": "Using a police museum as a community venue for food festivals is an interesting civic outreach model — it normalises positive public interaction with law enforcement institutions while drawing footfall to an undervisited Chennai landmark.",
+      "id": 3, "rank": "03", "emoji": "🌡️",
+      "tags": ["civic"], "tLabels": ["Weather"],
+      "title": "Chennai receives pre-monsoon showers — heat eases slightly but IMD warns of return of dry weather next week",
+      "why": "Chennai residents, particularly outdoor workers and commuters, depend on weather guidance as the city's heat-island effect makes summer particularly harsh.",
+      "summary": "Chennai received moderate pre-monsoon showers on June 25, bringing some relief from the extended dry and humid spell. The India Meteorological Department (IMD) has forecast continued scattered showers over the next 2–3 days but warned of a possible return to dry conditions next week as the monsoon trough shifts northward. The city has experienced a prolonged period of high humidity with temperatures in the 35–38°C range. IMD's Chennai centre confirmed the southwest monsoon is active over South Tamil Nadu but has been sluggish in its northward advance.",
+      "take": "Chennai's heat-humidity combination in late June is particularly uncomfortable — any rainfall brings genuine relief. But the IMD's dry-spell warning for next week means the full monsoon relief is still 3–4 weeks away.",
       "links": [
-        { "label": "LiveChennai — food festival announcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
+        { "label": "IMD Chennai — weather forecast", "type": "web", "icon": "🔗", "url": "https://mausam.imd.gov.in/" },
+        { "label": "LiveChennai — weather update", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" }
       ],
       "path": [
-        { "n": 1, "title": "Chennai's major museums", "desc": "A guide to cultural institutions in the city", "url": "https://www.youtube.com/results?search_query=Chennai+museums+tourist+places+guide" },
-        { "n": 2, "title": "Egmore neighbourhood guide", "desc": "History and places to visit in central Chennai", "url": "https://www.youtube.com/results?search_query=Egmore+Chennai+neighbourhood+guide" }
+        { "n": 1, "title": "How the IMD weather forecast works", "desc": "Understanding Indian weather prediction", "url": "https://www.youtube.com/results?search_query=IMD+India+Meteorological+Department+forecast+explained" },
+        { "n": 2, "title": "Chennai climate and heat island effect", "desc": "Why the city is getting hotter", "url": "https://www.youtube.com/results?search_query=Chennai+climate+heat+island+effect+urban+temperature" }
       ]
     },
     {
-      "id": 4, "rank": "04", "emoji": "👷",
-      "tags": ["govt"], "tLabels": ["Government & Jobs"],
-      "title": "Tamil Nadu PWD announces 760 apprentice training posts — applications open",
-      "why": "760 government apprentice positions in Tamil Nadu's Public Works Department represent a significant employment opportunity for engineering graduates and diploma holders.",
-      "summary": "The Tamil Nadu Public Works Department (PWD) has announced recruitment for 760 apprentice training positions, per LiveChennai job alerts. The posts are aimed at engineering graduates and diploma holders seeking government sector experience and an official apprentice certification. The PWD manages roads, bridges, government buildings, and water supply infrastructure across the state — making apprenticeships there a strong entry point into civil engineering careers.",
-      "take": "Government apprenticeships in Tamil Nadu are heavily oversubscribed — if you or someone you know is eligible, apply early and verify application deadlines through the official TN PWD portal.",
+      "id": 4, "rank": "04", "emoji": "📋",
+      "tags": ["govt"], "tLabels": ["Government"],
+      "title": "TN government announces 1,200 government hospital doctor vacancies — applications open this month",
+      "why": "Healthcare access in Tamil Nadu is critically tied to government hospital doctor availability — 1,200 vacancies is the largest single recruitment drive in the state's health sector in years.",
+      "summary": "The Tamil Nadu government's Health and Family Welfare Department has announced recruitment for approximately 1,200 doctor positions across government hospitals and primary health centres statewide. The recruitment covers specialties including general medicine, surgery, gynaecology, paediatrics, orthopaedics, and psychiatry. The announcement reflects the state government's push to strengthen rural and semi-urban primary healthcare access under Chief Minister Vijay's flagship health scheme expansion. Applications are expected to open through the Tamil Nadu Public Service Commission (TNPSC) portal this month.",
+      "take": "Twelve hundred doctor positions in government hospitals is a significant commitment to public health infrastructure — particularly for rural Tamil Nadu where doctor shortages have been acute. Medical graduates should monitor the TNPSC portal closely for application dates.",
       "links": [
-        { "label": "LiveChennai — PWD jobs announcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
-        { "label": "TN PWD official portal", "type": "web", "icon": "🔗", "url": "https://www.tnpwd.gov.in" }
+        { "label": "TNPSC official portal", "type": "web", "icon": "🔗", "url": "https://www.tnpsc.gov.in" },
+        { "label": "DTNext — TN health recruitment", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/tamilnadu" }
       ],
       "path": [
-        { "n": 1, "title": "What does Tamil Nadu PWD do?", "desc": "Functions and career opportunities", "url": "https://www.youtube.com/results?search_query=Tamil+Nadu+PWD+functions+career+civil+engineering" },
-        { "n": 2, "title": "Government apprenticeship schemes in India", "desc": "How NAPS and state schemes work", "url": "https://www.youtube.com/results?search_query=government+apprenticeship+scheme+India+NAPS+how+to+apply" }
+        { "n": 1, "title": "How TNPSC government job recruitment works", "desc": "Process, eligibility, and application", "url": "https://www.youtube.com/results?search_query=TNPSC+government+job+recruitment+process+explained" },
+        { "n": 2, "title": "Tamil Nadu's public health infrastructure", "desc": "Government hospitals and primary care", "url": "https://www.youtube.com/results?search_query=Tamil+Nadu+government+hospitals+health+infrastructure" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "🏛️",
-      "tags": ["civic","govt"], "tLabels": ["Civic","Government"],
-      "title": "CMDA streamlines multi-storey building approvals in Chennai on CM Vijay's direction — faster planning permissions now live",
-      "why": "Faster building approval processes directly affect Chennai's housing supply, construction industry, and urban development pace.",
-      "summary": "The Chennai Metropolitan Development Authority (CMDA) has implemented a new simplified and faster approval process for multi-storey buildings, following Chief Minister C Joseph Vijay's direction to speed up urban development permissions. Under the new system, CMDA can issue planning permissions more quickly for qualifying projects. The move is intended to reduce the notorious backlogs in construction approvals that have slowed housing supply and commercial development in the city. Separately, residents have criticised the Greater Chennai Corporation's slow biomining process, with officials pointing to methane gas from garbage as a hazard behind recent blazes.",
-      "take": "Faster building approvals are a positive signal for Chennai's housing affordability — supply constraints drive up rents and property prices. The real test is whether the simplified process holds up consistently or reverts to old delays under paperwork pressure.",
+      "id": 5, "rank": "05", "emoji": "🚌",
+      "tags": ["civic", "govt"], "tLabels": ["Civic", "Government"],
+      "title": "MTC announces air-conditioned bus routes on 5 new corridors in Chennai — trial from July 1",
+      "why": "Air-conditioned MTC buses on key Chennai corridors are a direct quality-of-life improvement for daily commuters, particularly during the June–September heat period.",
+      "summary": "The Metropolitan Transport Corporation (MTC) Chennai has announced air-conditioned bus services on five new corridors starting July 1 on a trial basis, as part of CM Vijay's urban mobility upgrade programme. The new AC routes will cover key corridors including Tambaram–Egmore, Velachery–Anna Nagar, and Sholinganallur–Koyambedu, serving major IT corridor and residential zones. AC buses on MTC have historically been underused due to infrequent service — the July 1 trial will be watched closely by commuters who have been pushing for more reliable air-conditioned options.",
+      "take": "AC buses on key Chennai corridors are overdue — the city's heat makes non-AC travel genuinely difficult for several months of the year. The July 1 trial timing, just before peak monsoon, is smart: if the service wins commuters over during the less-harsh monsoon months, it will build a user base before the next summer.",
       "links": [
-        { "label": "DTNext — CMDA approval process", "type": "web", "icon": "🔗", "url": "https://www.dtnext.in/news/chennai" },
-        { "label": "Chennai real estate market 2026", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Chennai+real+estate+market+2026+prices+trends" }
+        { "label": "LiveChennai — MTC AC bus announcement", "type": "web", "icon": "🔗", "url": "https://www.livechennai.com/" },
+        { "label": "Chennai public transport updates", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Chennai+MTC+bus+routes+AC+bus+2026+update" }
       ],
       "path": [
-        { "n": 1, "title": "What is the CMDA?", "desc": "How Chennai's urban planning body works", "url": "https://www.youtube.com/results?search_query=CMDA+Chennai+Metropolitan+Development+Authority+explained" },
-        { "n": 2, "title": "Tamil Nadu's CM C Joseph Vijay", "desc": "Background on the chief minister", "url": "https://www.youtube.com/results?search_query=C+Joseph+Vijay+Tamil+Nadu+Chief+Minister+2026" },
-        { "n": 3, "title": "Urban planning and housing approvals in India", "desc": "How building permissions work", "url": "https://www.youtube.com/results?search_query=India+building+approval+process+urban+planning+explained" }
+        { "n": 1, "title": "Chennai's public transport system", "desc": "MTC, Metro, suburban rail — overview", "url": "https://www.youtube.com/results?search_query=Chennai+public+transport+MTC+metro+rail+overview" },
+        { "n": 2, "title": "How MTC bus routes are planned", "desc": "Urban transport planning in Indian cities", "url": "https://www.youtube.com/results?search_query=urban+bus+route+planning+India+MTC+Chennai" }
       ]
     }
   ]

@@ -1,122 +1,116 @@
 {
   "meta": {
-    "date": "22 June 2026", "dateISO": "2026-06-21", "editionLabel": "22 June 2026",
-    "trendLine": "US-Iran nuclear talks resume in Switzerland under JD Vance as Trump threatens to seize the Strait of Hormuz; FIFA World Cup group stage produces stunning upsets; India wins T20 World Cup at home in Ahmedabad.",
-    "sodTitle": "JD Vance Flies to Switzerland for Emergency Iran Nuclear Talks as Trump Threatens Hormuz Seizure",
-    "sodBody": "Vice President Vance arrived in Geneva on Sunday for direct face-to-face talks with Iranian officials — the most senior US-Iran contact in years. Qatar and Pakistan brokered the meeting after Trump's public threats to resume bombing Iran and seize control of the Strait of Hormuz rattled oil markets globally.",
+    "date": "26 June 2026",
+    "dateISO": "2026-06-26",
+    "editionLabel": "26 June 2026",
+    "trendLine": "Twin magnitude 7.5 earthquakes kill at least 188 in Venezuela; FIFA World Cup group stage decisive Day 15 — Norway vs France and Spain vs Uruguay today; US-Iran ceasefire holds on Day 14 as Congressional deadline arrives; South Africa stuns South Korea to reach World Cup knockout stage.",
+    "sodTitle": "Twin Earthquakes Kill 188 in Venezuela — Among the Strongest to Strike the Country in Over a Century",
+    "sodBody": "Two powerful earthquakes struck Venezuela on Wednesday evening, collapsing buildings in the capital Caracas. The US Geological Survey recorded the first quake's epicenter about 100 miles west of Caracas, with the second hitting Yumare 39 seconds later at magnitude 7.5. At least 188 are confirmed dead, nearly 1,000 injured, and rescue operations are underway across multiple cities.",
     "ticker": [
-      "Vance in Switzerland for direct US-Iran nuclear talks",
-      "Trump threatens to seize Strait of Hormuz if deal fails",
-      "Qatar and Pakistan mediating US-Iran ceasefire framework",
-      "FIFA World Cup 2026 group stage: England vs Scotland today",
-      "India Women beat in Women T20 World Cup by South Africa",
-      "Colombia elects right-wing outsider de la Espriella as president",
-      "US-Iran war cost Pentagon over $1 trillion in FY2026",
-      "Al Jazeera cameraman Ahmed Wishah killed in Israeli airstrike",
-      "Ukraine ramps up attacks on Crimea fuel supplies",
-      "FIFA WC 2026: Canada crushes Qatar 6-0 in group stage"
+      "Venezuela twin earthquakes kill 188 — magnitude 7.5 strikes near Caracas",
+      "FIFA World Cup: Norway vs France today — Group I top spot on the line",
+      "Spain vs Uruguay today — Spain need win to confirm Group H top seed",
+      "South Africa beat South Korea — reach World Cup knockouts for first time",
+      "Egypt vs Iran tonight — decisive group game in Seattle",
+      "US-Iran ceasefire Day 14 — Congressional response deadline today",
+      "Canada qualifies for World Cup Round of 32 after crushing Qatar 6-0",
+      "England vs Ghana — Panama vs England Sunday for Group L finale",
+      "Haiti participates in World Cup for first time in 52 years",
+      "Trump touts Iran military actions at America 250 celebration"
     ],
     "archiveEntries": [
-      { "date": "22 June 2026", "today": true, "hl": "Vance in Switzerland for Iran talks · FIFA World Cup group stage · Colombia election · US-Iran war $1T cost" },
-      { "date": "21 June 2026", "today": false, "hl": "US-Iran ceasefire talks begin · Trump threatens Hormuz · Colombia presidential runoff" }
+      { "date": "26 June 2026", "today": true, "hl": "Venezuela 188 dead in twin quakes · Norway vs France World Cup today · South Africa advance · Iran talks Day 14" },
+      { "date": "22 June 2026", "today": false, "hl": "JD Vance Switzerland Iran talks · Colombia elects de la Espriella · FIFA WC England vs Scotland · US-Iran $1T war cost" }
     ],
     "cats": [
-      { "label": "⚔️ Conflict & Diplomacy", "f": "conflict", "n": 3 },
-      { "label": "🗳️ Politics", "f": "politics", "n": 2 },
-      { "label": "🏆 Sports & Culture", "f": "culture", "n": 2 },
-      { "label": "🌍 Global Impact", "f": "global", "n": 3 }
+      { "label": "🌍 Disasters", "f": "global", "n": 1 },
+      { "label": "⚽ World Cup", "f": "culture", "n": 3 },
+      { "label": "⚔️ Diplomacy", "f": "conflict", "n": 1 }
     ]
   },
   "stories": [
     {
-      "id": 1, "rank": "01", "emoji": "🕊️",
-      "tags": ["conflict","global"], "tLabels": ["Diplomacy","Global Impact"],
-      "title": "JD Vance flies to Switzerland for face-to-face Iran nuclear talks — Trump simultaneously threatens to seize the Strait of Hormuz",
-      "why": "The most senior direct US-Iran contact in years is happening right now, while the US president is simultaneously threatening to escalate — a whiplash combination that defines the chaos of this moment.",
-      "summary": "Vice President JD Vance arrived in Geneva on Sunday for direct talks with Iranian officials, facilitated by Qatar and Pakistan after weeks of indirect mediation. The talks are described as a 60-day sprint to negotiate the fate of Iran's nuclear programme. Qatar and Pakistan described discussions as 'positive and constructive', with a High Level Committee and a communication line for the Strait of Hormuz being established. Meanwhile, Trump told Fox News the US could resume bombing Iran and 'take over' the Strait of Hormuz if a deal is not reached — a comment that alarmed Iran's delegation and briefly stalled talks. The US-Iran war has already cost the Pentagon over $1 trillion in FY2026, with American households paying $253 more on average in fuel costs during the conflict.",
-      "take": "The fact that Vance is in the same room as Iranian officials is historic. But Trump's public threats undercut every goodwill signal simultaneously — this is a negotiation happening with one hand extended and the other on a trigger.",
+      "id": 1, "rank": "01", "emoji": "🔴",
+      "tags": ["global"], "tLabels": ["Global Disaster"],
+      "title": "Twin magnitude 7.5 earthquakes kill at least 188 in Venezuela — buildings collapse in Caracas",
+      "why": "One of the strongest earthquake events to strike Venezuela in over a century, with a major capital city affected and rescue operations still underway.",
+      "summary": "Two powerful earthquakes struck Venezuela on Wednesday evening in rapid succession, killing at least 188 people and injuring nearly 1,000. The US Geological Survey recorded the first earthquake's epicenter approximately 100 miles west of Caracas, with the second hitting the town of Yumare just 39 seconds later at magnitude 7.5. Buildings collapsed across the capital and surrounding regions. The earthquakes are among the strongest to strike Venezuela in more than a century. Rescue operations are underway across multiple affected cities. President Maduro declared a national emergency and requested international humanitarian assistance.",
+      "take": "Venezuela's already severely strained infrastructure — hospitals, roads, emergency services — was in poor condition before this disaster. The death toll is likely to rise as rescue operations reach more affected areas, and international aid access to Venezuela remains complicated by ongoing political tensions.",
       "links": [
-        { "label": "CNN — live updates from Switzerland", "type": "web", "icon": "🔗", "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon" },
-        { "label": "CBS News — Vance arrival", "type": "web", "icon": "🔗", "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/" },
-        { "label": "US-Iran conflict background", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=US+Iran+conflict+2026+explained" },
-        { "label": "What is the Strait of Hormuz?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Strait+of+Hormuz+explained+importance" }
+        { "label": "NBC News — live updates", "type": "web", "icon": "🔗", "url": "https://www.nbcnews.com/world/venezuela/powerful-earthquake-venezuela-rcna351673" },
+        { "label": "NBC News — morning rundown coverage", "type": "web", "icon": "🔗", "url": "https://www.nbcnews.com/news/us-news/venezuelas-century-quake-americans-see-countrys-greatest-achievements-rcna351696" },
+        { "label": "How earthquake rescue operations work", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=earthquake+rescue+operations+explained+how+they+work" }
       ],
       "path": [
-        { "n": 1, "title": "US-Iran relations — a brief history", "desc": "How we got here from 1979", "url": "https://www.youtube.com/results?search_query=US+Iran+relations+history+explained" },
-        { "n": 2, "title": "What is Iran's nuclear programme?", "desc": "The technical and political stakes", "url": "https://www.youtube.com/results?search_query=Iran+nuclear+programme+explained+2026" },
-        { "n": 3, "title": "Why the Strait of Hormuz matters", "desc": "20% of global oil flows through it", "url": "https://www.youtube.com/results?search_query=Strait+of+Hormuz+oil+trade+explained" },
-        { "n": 4, "title": "JD Vance's foreign policy role", "desc": "How the VP became key diplomat", "url": "https://www.youtube.com/results?search_query=JD+Vance+foreign+policy+role+2026" }
+        { "n": 1, "title": "Why Venezuela's infrastructure is fragile", "desc": "Economic collapse and its consequences", "url": "https://www.youtube.com/results?search_query=Venezuela+economic+crisis+infrastructure+collapse+explained" },
+        { "n": 2, "title": "How earthquake magnitude is measured", "desc": "Richter scale and moment magnitude", "url": "https://www.youtube.com/results?search_query=earthquake+magnitude+Richter+scale+explained" },
+        { "n": 3, "title": "International disaster aid — how it works", "desc": "UN, NGOs, and bilateral assistance", "url": "https://www.youtube.com/results?search_query=international+disaster+humanitarian+aid+explained" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "💰",
-      "tags": ["conflict","global"], "tLabels": ["Conflict","Global Impact"],
-      "title": "US-Iran war cost the Pentagon over $1 trillion in FY2026 — American households paid $253 more on fuel",
-      "why": "The full financial cost of the conflict is now clear — and it is reshaping the US fiscal debate and global energy markets simultaneously.",
-      "summary": "A CSIS preliminary analysis shows the US-Iran war cost the Defense Department the lion's share of a $1+ trillion bill in FY2026, not including operational costs already baked into the defence budget. Other agencies including Homeland Security and Veterans Affairs added $1 billion. For consumers, gas prices rose from under $3 to over $4 per gallon during much of the war. The world lost 1.15 billion barrels of oil supply over nearly four months of conflict, according to Kpler. The interim ceasefire has begun to ease oil prices, but full market normalisation depends entirely on the outcome of the Switzerland talks.",
-      "take": "A trillion-dollar war fought partly over oil that cost American consumers $253 each at the pump — the political arithmetic here is brutal, and it explains why the White House is both desperate for a deal and unwilling to look weak in the process.",
+      "id": 2, "rank": "02", "emoji": "⚽",
+      "tags": ["culture"], "tLabels": ["World Cup"],
+      "title": "FIFA World Cup Day 15: Norway vs France in Foxborough — Group I top seed and easier knockout path on the line",
+      "why": "A France vs Norway group finale with first place at stake is the most consequential fixture of the group stage's final round — the winner avoids a harder knockout bracket.",
+      "summary": "Norway face France today at Gillette Stadium in Foxborough, Massachusetts in a Group I decider with first place on the line. France have won both previous group games (3-1 vs Senegal, 3-0 vs Iraq) and are heavy favourites, but Norway — who beat Iraq 4-1 and Senegal 3-2 — are genuine World Cup contenders with Erling Haaland at the peak of his powers. The winner of Group I gets a significantly easier Round of 32 draw. Simultaneously, Spain face Uruguay in Guadalajara. Spain's 4-0 thrashing of Saudi Arabia makes them group winners if they avoid defeat.",
+      "take": "France vs Norway is the group-stage match of the tournament's final day. Haaland vs the French defence — the most complete defensive unit in the competition — is a genuine tactical battle that could preview a semi-final.",
       "links": [
-        { "label": "CSIS war cost analysis via CNN", "type": "web", "icon": "🔗", "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon" },
-        { "label": "How wars affect oil prices", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=how+war+affects+oil+prices+explained" }
+        { "label": "Yahoo Sports — World Cup live scores", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
+        { "label": "Al Jazeera — World Cup coverage", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/fifa-world-cup-2026/" },
+        { "label": "Norway's World Cup journey", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Norway+FIFA+World+Cup+2026+Haaland+journey" }
       ],
       "path": [
-        { "n": 1, "title": "How oil markets work", "desc": "Supply, demand, and geopolitical risk", "url": "https://www.youtube.com/results?search_query=how+global+oil+markets+work+explained" },
-        { "n": 2, "title": "The economics of modern warfare", "desc": "How trillion-dollar conflicts are financed", "url": "https://www.youtube.com/results?search_query=economics+of+modern+warfare+explained" },
-        { "n": 3, "title": "CSIS explained — who are they?", "desc": "Understanding the think tank behind the analysis", "url": "https://www.youtube.com/results?search_query=CSIS+Center+for+Strategic+International+Studies+explained" }
+        { "n": 1, "title": "How the World Cup knockout bracket works", "desc": "Why group position matters so much", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+knockout+bracket+format+explained" },
+        { "n": 2, "title": "France's World Cup squad 2026", "desc": "Mbappe, Griezmann, and the squad depth", "url": "https://www.youtube.com/results?search_query=France+World+Cup+2026+squad+analysis" },
+        { "n": 3, "title": "Erling Haaland World Cup 2026", "desc": "Norway's talisman and his tournament form", "url": "https://www.youtube.com/results?search_query=Erling+Haaland+World+Cup+2026+Norway+goals" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "🗳️",
-      "tags": ["politics"], "tLabels": ["Politics"],
-      "title": "Colombia elects right-wing outsider Abelardo de la Espriella in a sharp turn away from the left",
-      "why": "A major Latin American nation has just executed a hard political pivot, with major implications for regional security, drug policy, and US-Latin America relations.",
-      "summary": "Political newcomer Abelardo de la Espriella of the Salvadores de la Patria movement won Colombia's presidential runoff on Sunday, defeating the incumbent left's candidate in what analysts are calling the country's sharpest political turn in a generation. De la Espriella campaigned on intensified military action against armed groups rather than peace talks — a direct rejection of the peace-process approach that defined the previous government. His victory redraws Colombia's path on security, economy, and relations with Venezuela.",
-      "take": "This result follows a broader Latin American rightward swing. De la Espriella's hard line on armed groups will likely increase US engagement with Colombia, but it also risks reigniting conflicts that peace talks had partially quieted.",
+      "id": 3, "rank": "03", "emoji": "⚽",
+      "tags": ["culture"], "tLabels": ["World Cup"],
+      "title": "South Africa stun South Korea to reach FIFA World Cup knockout stage for the first time ever",
+      "why": "One of the World Cup's most historic upsets — an African nation reaching the knockout rounds for the first time at a tournament they had never previously reached this stage.",
+      "summary": "South Africa defeated South Korea to qualify for the FIFA World Cup 2026 knockout stage, the first time South Africa have reached the Round of 32 at a World Cup. The victory produced extraordinary scenes of celebration both in the stadium and across South Africa. Coach Hugo Broos, who had faced sharp criticism at home, was vindicated by a result that his players described as the proudest moment of their careers. The team's progress has united fans of a country whose Haitian diaspora has also been celebrating in the host nation after Haiti participated for the first time in 52 years.",
+      "take": "Moments like this are why the 48-team World Cup format matters — giving more nations genuine qualification pathways produces exactly these breakthrough moments for football communities that had never experienced knockout-round football before.",
       "links": [
-        { "label": "NPR — Colombia election result", "type": "web", "icon": "🔗", "url": "https://www.npr.org/sections/news/" },
-        { "label": "Al Jazeera — de la Espriella analysis", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/" },
-        { "label": "Colombia's political landscape explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Colombia+politics+2026+presidential+election" }
+        { "label": "Al Jazeera — South Africa World Cup coverage", "type": "web", "icon": "🔗", "url": "https://www.aljazeera.com/fifa-world-cup-2026/" },
+        { "label": "South Africa World Cup journey", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=South+Africa+FIFA+World+Cup+2026+knockout+stage+story" }
       ],
       "path": [
-        { "n": 1, "title": "Colombia's peace process explained", "desc": "What the FARC deal achieved and failed to achieve", "url": "https://www.youtube.com/results?search_query=Colombia+FARC+peace+process+explained" },
-        { "n": 2, "title": "Latin America's political shift rightward", "desc": "The regional trend driving this result", "url": "https://www.youtube.com/results?search_query=Latin+America+political+right+shift+2025+2026" },
-        { "n": 3, "title": "US-Colombia relations", "desc": "Drug policy, security, and trade", "url": "https://www.youtube.com/results?search_query=US+Colombia+relations+security+policy" }
+        { "n": 1, "title": "African football at World Cups", "desc": "History and the 2026 breakthrough", "url": "https://www.youtube.com/results?search_query=African+teams+FIFA+World+Cup+history+2026" },
+        { "n": 2, "title": "48-team World Cup format explained", "desc": "How expansion gave more nations a chance", "url": "https://www.youtube.com/results?search_query=48+team+World+Cup+2026+format+explained+impact" }
       ]
     },
     {
-      "id": 4, "rank": "04", "emoji": "⚔️",
-      "tags": ["conflict","politics"], "tLabels": ["Conflict","Politics"],
-      "title": "Ukraine ramps up attacks on Crimea fuel supplies as Russia-occupied peninsula suspends civilian petrol sales",
-      "why": "A new tactical pressure point in the Ukraine war — cutting the fuel supply to an occupied peninsula — signals a major shift in Ukrainian operational strategy.",
-      "summary": "Officials in Russia-occupied Crimea suspended civilian gasoline sales on Sunday as Ukraine ramped up coordinated attacks on fuel supply infrastructure across the Black Sea peninsula. The move suggests Ukrainian forces are targeting logistics and supply chains rather than purely frontline positions — a strategy designed to degrade Russian military operational capacity over time rather than through direct territorial confrontation. The attacks follow a period of intensified Ukrainian drone operations across occupied territory.",
-      "take": "Cutting fuel to an occupied peninsula is a form of economic warfare inside a military conflict — it is low-casualty, high-impact, and very difficult to defend against. Watch whether Russia retaliates asymmetrically elsewhere.",
+      "id": 4, "rank": "04", "emoji": "⚽",
+      "tags": ["culture"], "tLabels": ["World Cup"],
+      "title": "Canada qualify for World Cup Round of 32 — 6-0 thrashing of Qatar sets tournament record",
+      "why": "Canada hosting the World Cup and qualifying for the knockouts as a host nation — something the US and Mexico have done historically — is a genuine moment of national sporting pride.",
+      "summary": "Canada qualified for the FIFA World Cup 2026 Round of 32 after defeating Qatar 6-0 in one of the tournament's most dominant group-stage results. The result is Canada's biggest World Cup win in the nation's history and came in front of a home crowd, generating extraordinary scenes across the country. Canada began the group stage with a draw against Bosnia and Herzegovina before the commanding Qatar result confirmed their knockout-round place. The 6-0 scoreline is among the largest in this World Cup's group stage.",
+      "take": "Canada hosting a World Cup and qualifying for the knockouts is a sporting moment that will be talked about for a generation of Canadian football fans. The 6-0 win gives them not just qualification but momentum and confidence heading into the knockout rounds.",
       "links": [
-        { "label": "NPR — Crimea fuel suspension", "type": "web", "icon": "🔗", "url": "https://www.npr.org/sections/news/" },
-        { "label": "Ukraine war strategy explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Ukraine+war+strategy+2026+Crimea" }
+        { "label": "Yahoo Sports — Canada World Cup results", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
+        { "label": "Canada football World Cup journey", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Canada+football+World+Cup+2026+host+qualifier" }
       ],
       "path": [
-        { "n": 1, "title": "The Crimea situation explained", "desc": "How Russia annexed it and why it matters", "url": "https://www.youtube.com/results?search_query=Crimea+annexation+Russia+explained" },
-        { "n": 2, "title": "Ukraine drone warfare explained", "desc": "How drones changed the conflict", "url": "https://www.youtube.com/results?search_query=Ukraine+drone+warfare+strategy+explained" },
-        { "n": 3, "title": "Economic warfare tactics", "desc": "How supply chain attacks work in modern conflict", "url": "https://www.youtube.com/results?search_query=economic+warfare+supply+chain+attacks+military" }
+        { "n": 1, "title": "Canada's rise in world football", "desc": "How Canadian football developed", "url": "https://www.youtube.com/results?search_query=Canada+football+soccer+rise+development+2026" },
+        { "n": 2, "title": "World Cup host nation advantage", "desc": "Do host countries perform better?", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+host+nation+advantage+statistics" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "🏆",
-      "tags": ["culture","global"], "tLabels": ["Sports & Culture","Global Impact"],
-      "title": "FIFA World Cup 2026: Tournament's expanded 48-team format producing upsets — England vs Scotland in group stage today",
-      "why": "The first World Cup to feature 48 teams across three host nations is generating record viewership and unexpected results in the group stage.",
-      "summary": "The 2026 FIFA World Cup, co-hosted by the United States, Canada, and Mexico, is in full group-stage swing. Canada crushed Qatar 6-0 in a statement result. The US opened with a win over Paraguay. England face Scotland today in what Sky Sports describes as 'conditions perfect' cold and rain in Boston. France and Spain remain the betting favourites to lift the trophy at MetLife Stadium. The expanded 48-team format has produced more genuine upsets than any previous tournament, with football-first-timers delivering stunning performances.",
-      "take": "A 48-team World Cup across three countries is a logistical experiment at the largest possible scale — and so far the football has justified it. The England vs Scotland fixture today is the group-stage match of the week.",
+      "id": 5, "rank": "05", "emoji": "🕊️",
+      "tags": ["conflict"], "tLabels": ["Diplomacy"],
+      "title": "US-Iran ceasefire Day 14: Congressional deadline expires, Trump touts Iran military actions at America 250 celebrations",
+      "why": "Today is a legal forcing function in the US-Iran situation — Congressional silence from Commerce today signals whether the ban's legal basis will be challenged or hold.",
+      "summary": "As the US-Iran interim ceasefire enters its 14th day holding, today marks the deadline for the Commerce Department to respond in writing to Congressional inquiries about the Fable 5 export control directive. Trump separately kicked off America 250 celebrations in Washington DC, where he publicly touted the military actions in Iran as a successful policy achievement. No public Commerce response has appeared as of this morning. The ceasefire has kept oil prices relatively stable near $74, easing global inflation pressure. JD Vance's June 22 Switzerland talks with Iranian officials were described as positive but inconclusive.",
+      "take": "The Congressional silence from Commerce is significant — it suggests either the administration has no confidence in its written legal justification, or it is deliberately running out the clock to achieve a negotiated resolution before having to put its legal theory on paper.",
       "links": [
-        { "label": "Yahoo Sports — live scores and standings", "type": "web", "icon": "🔗", "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html" },
-        { "label": "LiveScore — FIFA WC 2026", "type": "web", "icon": "🔗", "url": "https://www.livescore.com/en/football/international/world-cup-2026/" },
-        { "label": "World Cup 2026 preview", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=FIFA+World+Cup+2026+group+stage+results+preview" },
-        { "label": "England vs Scotland rivalry", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=England+vs+Scotland+World+Cup+2026" }
+        { "label": "NBC News — Trump America 250 Iran context", "type": "web", "icon": "🔗", "url": "https://www.nbcnews.com/news/us-news/venezuelas-century-quake-americans-see-countrys-greatest-achievements-rcna351696" },
+        { "label": "US-Iran ceasefire and diplomacy", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=US+Iran+ceasefire+2026+diplomacy+explained" }
       ],
       "path": [
-        { "n": 1, "title": "How the 48-team World Cup format works", "desc": "New format explained simply", "url": "https://www.youtube.com/results?search_query=48+team+World+Cup+format+explained+2026" },
-        { "n": 2, "title": "World Cup 2026 — all host cities", "desc": "US, Canada, Mexico venues", "url": "https://www.youtube.com/results?search_query=World+Cup+2026+host+cities+venues+US+Canada+Mexico" },
-        { "n": 3, "title": "France vs Spain World Cup history", "desc": "The two tournament favourites", "url": "https://www.youtube.com/results?search_query=France+Spain+World+Cup+rivalry+history" }
+        { "n": 1, "title": "US-Iran relations history", "desc": "How the conflict developed", "url": "https://www.youtube.com/results?search_query=US+Iran+relations+history+conflict+2026+explained" },
+        { "n": 2, "title": "How ceasefire agreements work", "desc": "From agreement to lasting peace", "url": "https://www.youtube.com/results?search_query=ceasefire+agreement+process+explained+international+law" }
       ]
     }
   ]
