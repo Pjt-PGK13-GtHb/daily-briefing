@@ -1,257 +1,238 @@
 {
   "meta": {
-    "date": "21 June 2026",
-    "dateISO": "2026-06-21",
-    "editionLabel": "21 June 2026",
-    "trendLine": "Today in AI & Tech: The Fable 5 saga deepens — it turns out the entire global ban traced back to three words, \"fix this code,\" and over 300 cybersecurity leaders are now publicly demanding it be reversed. On the broader tech side, Washington is accusing ASML of an EUV breach to China, Fox just bought Roku for $22B, and the UK announced a full social media ban for under-16s.",
-    "sodTitle": "\"Fix This Code\": The Three Words That Triggered a Global AI Ban — Now 300+ Security Leaders Are Fighting Back",
-    "sodBody": "Security researcher Katie Moussouris revealed the Fable 5 export ban traced back to a routine prompt: \"fix this code.\" More than 300 cybersecurity executives have now signed an open letter demanding the ban be reversed, calling it a self-inflicted wound that strips defenders of their best tools.",
+    "date": "26 June 2026",
+    "dateISO": "2026-06-26",
+    "editionLabel": "26 June 2026",
+    "trendLine": "Day 14 of the Fable 5 ban: Congress deadline for Commerce to respond expires today with no public reply; Polymarket odds of restoration before July 1 sit at 57% after Tom Brown replaced Dario Amodei in negotiations; OpenAI's GPT-5.5-Cyber launches for vetted security professionals beating Mythos 5 on CyberGym; Florida becomes first US state to sue OpenAI; Alphabet raises $80B for AI infrastructure.",
+    "sodTitle": "Fable 5 Day 14: Congressional Deadline Arrives, Negotiator Switch Boosts Restoration Odds to 57%",
+    "sodBody": "The June 26 congressional deadline for Commerce to respond in writing on the export controls arrives today with no public reply yet. In a significant development, Anthropic co-founder Tom Brown replaced Dario Amodei in Commerce Department negotiations, and Polymarket odds for restoration before July 1 jumped from 15% to 57%. Anthropic separately launched Claude Tag on June 23 and hired a Google DeepMind alignment researcher, signalling it is building in parallel while the ban continues.",
     "ticker": [
-      "SpaceX closes $60B all-stock acquisition of Cursor",
-      "\"Fix this code\" — the 3 words that triggered the Fable 5 ban",
-      "300+ cybersecurity leaders sign freefable.org letter",
-      "Anthropic: Fable 5 access could return within days",
-      "Sam Altman postpones Korea trip for his daughter's birth",
-      "Anthropic vulnerability ledger backlog: 23,019 items",
-      "Anthropic Seoul office opens amid export ban fallout",
-      "China pushes for global AI safety leadership post-G7",
-      "Visa: AI is transforming everything we do",
-      "SpaceX Cursor deal closes Q3 2026, boosts xAI coding push"
+      "Fable 5 Day 14: Congressional response deadline today — Commerce silent",
+      "Tom Brown replaces Dario in Commerce talks; Polymarket odds hit 57%",
+      "GPT-5.5-Cyber beats Mythos 5 on CyberGym — 85.6% vs 83.8%",
+      "Anthropic launches Claude Tag — persistent Slack AI integration",
+      "Florida sues OpenAI and Sam Altman in landmark AI liability case",
+      "Alphabet raises $80 billion for AI infrastructure expansion",
+      "Anthropic files confidential IPO paperwork",
+      "OpenAI Daybreak cyber program signs 28 security firm partners",
+      "July 8 government ID verification is likely US-first restoration path",
+      "Claude Opus 4.8 remains fully available — all other models unaffected"
     ],
     "archiveEntries": [
-      { "date": "21 June 2026", "today": true, "hl": "\"Fix this code\" revealed · SpaceX-Cursor closes · Altman postpones Korea trip · 300+ sign freefable.org letter" },
-      { "date": "20 June 2026", "today": false, "hl": "SK Telecom Fable 5 trigger · Anthropic Seoul office opens · MiniMax M3 verified · JPMorgan $19.8B AI budget" }
+      { "date": "26 June 2026", "today": true, "hl": "Fable 5 Day 14 · Congressional deadline · Tom Brown negotiator swap · GPT-5.5-Cyber launch · Florida sues OpenAI" },
+      { "date": "22 June 2026", "today": false, "hl": "Fix this code revealed · SpaceX-Cursor closes · Altman postpones Korea trip · 300+ sign freefable.org" }
     ],
     "aiCats": [
-      { "label": "⚠️ Regulation & Policy", "f": "regulation", "n": 3 },
-      { "label": "🏢 Big Tech", "f": "bigtech", "n": 4 },
-      { "label": "💰 Business Impact", "f": "biz", "n": 2 },
-      { "label": "🌏 Geopolitics", "f": "geo", "n": 2 }
-    ],
-    "techCats": [
       { "label": "⚠️ Regulation", "f": "regulation", "n": 3 },
       { "label": "🏢 Big Tech", "f": "bigtech", "n": 3 },
-      { "label": "💰 Business", "f": "biz", "n": 2 },
-      { "label": "🔥 Viral", "f": "viral", "n": 1 }
+      { "label": "💰 Business", "f": "biz", "n": 1 }
+    ],
+    "techCats": [
+      { "label": "⚠️ Regulation", "f": "regulation", "n": 2 },
+      { "label": "🏢 Big Tech", "f": "bigtech", "n": 3 }
     ]
   },
   "ai": [
     {
       "id": 1, "rank": "01", "emoji": "⚠️",
-      "tags": ["regulation","bigtech"], "tLabels": ["Regulation","Big Tech"],
-      "title": "\"Fix this code\": the three words that triggered a global AI ban — and why 300+ security leaders are now fighting back",
-      "why": "A routine prompt any developer uses dozens of times a day turned into the legal basis for shutting down two of the world's most capable AI models.",
-      "summary": "Security researcher Katie Moussouris — the only outside expert who reviewed the classified report behind the ban — revealed that the Fable 5 jailbreak was not sophisticated at all. Researchers fed the model code containing known vulnerabilities, and it complied when asked to 'fix this code,' generating working patches and test scripts. That single interaction became the basis for a Commerce Department directive on June 12 blocking Fable 5 and Mythos 5 for all foreign nationals worldwide. Since then, more than 300 cybersecurity executives, CISOs, and researchers — including Alex Stamos, Casey Ellis, and Jon Callas — have signed an open letter at freefable.org demanding the ban be reversed, arguing it strips defenders of vital tools while attackers face no such restriction.",
-      "take": "This is the clearest sign yet that the technical understanding behind AI export policy is lagging far behind the technology itself. A capability indistinguishable from everyday defensive security work triggered a global shutdown — that gap should worry everyone in the industry, not just Anthropic.",
+      "tags": ["regulation", "bigtech"], "tLabels": ["Regulation", "Big Tech"],
+      "title": "Fable 5 Day 14: Congress deadline expires, negotiator swap lifts restoration odds to 57%",
+      "why": "The nearest hard legal forcing function in the Fable 5 timeline arrives today — and a key personnel change has shifted market odds significantly.",
+      "summary": "Today is June 26 — the deadline Rep. Sam Liccardo set for the Commerce Department to respond in writing on the legal basis of the Fable 5 export controls. As of this morning, no public Commerce response has appeared. Separately, Anthropic co-founder and chief compute officer Tom Brown (one of the original GPT-3 architects) has replaced CEO Dario Amodei as the lead in face-to-face Commerce Department negotiations, alongside public policy chief Sarah Heck. Prediction market Polymarket's odds for Fable 5 returning before July 1 jumped from around 15% to approximately 57% following the delegation change. Developer community code hints in the Claude app suggest a US-first restoration rollout is being prepared. The July 8 government ID verification policy going live is increasingly seen as the likely mechanism for a US-only restoration.",
+      "take": "The negotiator swap is the most significant development since the ban began. Brown is a co-founder and technical peer — his presence signals Anthropic is finally treating this as the existential negotiation it is, rather than a principled public-posture contest. If Commerce engages seriously with Brown, July 1–8 restoration is plausible.",
       "links": [
-        { "label": "Fortune — the full Moussouris account", "type": "web", "icon": "🔗", "url": "https://fortune.com/2026/06/15/fix-this-code-three-words-behind-us-government-shut-down-anthropic-fable-mythos-ai-models-katie-moussouris-open-letter/" },
-        { "label": "ByteIota — freefable.org letter details", "type": "web", "icon": "🔗", "url": "https://byteiota.com/fable-5-export-ban-fix-this-code-wasnt-a-jailbreak/" },
-        { "label": "What is an AI jailbreak?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+jailbreak+explained+simply+2026" },
-        { "label": "AI export controls explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+export+controls+explained+2026" }
+        { "label": "ExplainX — Day 14 full timeline", "type": "web", "icon": "🔗", "url": "https://explainx.ai/blog/when-will-fable-5-be-available-again-2026" },
+        { "label": "Anthropic official statement", "type": "web", "icon": "🔗", "url": "https://www.anthropic.com/news/fable-mythos-access" },
+        { "label": "Fable 5 ban explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Fable+5+Anthropic+ban+US+government+explained+2026" }
       ],
       "path": [
-        { "n": 1, "title": "What is AI jailbreaking?", "desc": "Plain-English explainer — 10 min", "url": "https://www.youtube.com/results?search_query=AI+jailbreak+explained+simply" },
-        { "n": 2, "title": "How AI red-teaming works", "desc": "How researchers find vulnerabilities", "url": "https://www.youtube.com/results?search_query=AI+red+teaming+explained" },
-        { "n": 3, "title": "AI export control policy basics", "desc": "Background on national security and AI", "url": "https://www.youtube.com/results?search_query=AI+export+control+policy+explained+2026" },
-        { "n": 4, "title": "Anthropic's safety research", "desc": "Official research blog", "url": "https://www.anthropic.com/research" }
+        { "n": 1, "title": "What is the Fable 5 export ban?", "desc": "Full background — 10 min", "url": "https://www.youtube.com/results?search_query=Anthropic+Fable+5+export+ban+explained" },
+        { "n": 2, "title": "How US export controls work", "desc": "The legal framework behind the ban", "url": "https://www.youtube.com/results?search_query=US+export+controls+technology+explained" },
+        { "n": 3, "title": "Prediction markets explained", "desc": "What Polymarket odds actually mean", "url": "https://www.youtube.com/results?search_query=prediction+markets+explained+Polymarket" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "💰",
-      "tags": ["bigtech","biz"], "tLabels": ["Big Tech","Business Impact"],
-      "title": "SpaceX officially closes its $60 billion all-stock acquisition of AI coding startup Cursor",
-      "why": "One of the largest AI acquisitions in history reshapes the coding-assistant market just days after SpaceX's record-breaking IPO.",
-      "summary": "SpaceX confirmed it is acquiring Anysphere, the maker of Cursor, in an all-stock deal valuing the company at $60 billion. The deal gives SpaceX's struggling xAI division a credible enterprise coding product to compete with Anthropic's Claude Code and OpenAI's Codex. Cursor has scaled to roughly $2.6 billion in annualized B2B revenue, though it had been operating with negative gross margins on compute costs. The combined entity plans to train a shared model that will ship inside both Cursor and Grok.",
-      "take": "This is Musk buying his way into a category xAI couldn't win organically — all 11 of xAI's original co-founders left earlier this year, and Grok's coding product has lagged badly. Whether Cursor's developer trust survives the integration with Grok is the real test.",
+      "id": 2, "rank": "02", "emoji": "⚠️",
+      "tags": ["regulation", "bigtech"], "tLabels": ["Regulation", "Big Tech"],
+      "title": "OpenAI launches GPT-5.5-Cyber — beats banned Mythos 5 on CyberGym while Anthropic stays offline",
+      "why": "OpenAI is capturing the cybersecurity market Anthropic was leading, by doing what Anthropic wouldn't — coordinating with the government before launch.",
+      "summary": "On June 22, OpenAI announced the full launch of GPT-5.5-Cyber as part of its Daybreak cyber defense program. On CyberGym — a UC Berkeley benchmark testing AI agents on 1,507 real software vulnerabilities — GPT-5.5-Cyber scored 85.6%, edging past Anthropic's Mythos 5 at 83.8%. The key difference: OpenAI coordinated its launch with federal agencies including the Center for AI Standards and Innovation and the Office of the National Cyber Director before releasing the model. GPT-5.5-Cyber is available only to vetted security professionals and has signed cybersecurity partnerships with Australia, Canada, France, Germany, Japan, South Korea, and EU institutions. Twenty-eight security firms including CrowdStrike, Cisco, and Cloudflare have joined OpenAI's Cyber Partner Program.",
+      "take": "This is the sharpest possible illustration of the asymmetry: Anthropic refused to coordinate with the government on safety claims it disputes, and lost access for all users. OpenAI coordinated upfront and is now signing international security partnerships. The lesson for the industry is uncomfortable but clear.",
       "links": [
-        { "label": "Reuters via Yahoo Finance", "type": "web", "icon": "🔗", "url": "https://finance.yahoo.com/technology/ai/articles/spacex-buy-cursor-ai-coding-103445855.html" },
-        { "label": "CNBC — deal mechanics", "type": "web", "icon": "🔗", "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html" },
-        { "label": "What is Cursor AI?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Cursor+AI+coding+tool+explained+2026" },
-        { "label": "AI coding tools compared", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+coding+assistants+compared+2026+Cursor+Claude+Codex" }
+        { "label": "Decrypt — GPT-5.5-Cyber full story", "type": "web", "icon": "🔗", "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos" },
+        { "label": "Trending Topics — benchmark details", "type": "web", "icon": "🔗", "url": "https://www.trendingtopics.eu/openais-new-gpt5-5-cyber-beats-anthropics-mythos-but-no-ban-yet/" },
+        { "label": "AI cybersecurity benchmarks explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+cybersecurity+benchmarks+CyberGym+explained" }
       ],
       "path": [
-        { "n": 1, "title": "What is AI-assisted coding?", "desc": "Beginner overview — 15 min", "url": "https://www.youtube.com/results?search_query=AI+coding+assistant+explained+beginners" },
-        { "n": 2, "title": "Cursor hands-on tutorial", "desc": "See it in action", "url": "https://www.youtube.com/results?search_query=Cursor+AI+tutorial+getting+started+2026" },
-        { "n": 3, "title": "How big tech acquisitions work", "desc": "All-stock deals explained", "url": "https://www.youtube.com/results?search_query=how+stock+acquisitions+work+explained" },
-        { "n": 4, "title": "xAI and Grok background", "desc": "Context on SpaceX's AI arm", "url": "https://www.youtube.com/results?search_query=xAI+Grok+explained+2026" }
+        { "n": 1, "title": "How AI models are tested for security", "desc": "CyberGym and similar benchmarks", "url": "https://www.youtube.com/results?search_query=AI+security+benchmark+testing+explained" },
+        { "n": 2, "title": "OpenAI's cybersecurity strategy", "desc": "Daybreak program overview", "url": "https://www.youtube.com/results?search_query=OpenAI+cybersecurity+Daybreak+program+2026" },
+        { "n": 3, "title": "US government AI coordination", "desc": "How federal agencies work with AI companies", "url": "https://www.youtube.com/results?search_query=US+government+AI+industry+coordination+CAISI" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "🚀",
-      "tags": ["bigtech","geo"], "tLabels": ["Big Tech","Geopolitics"],
-      "title": "Anthropic: Fable 5 and Mythos 5 access could return within days as Seoul office opens amid the ban",
-      "why": "Anthropic is signaling the end of its highest-profile regulatory crisis while simultaneously expanding deeper into Asia.",
-      "summary": "At a press conference in Seoul on June 17-18, Anthropic's Managing Director of International, Chris Ciauri, said the company is confident Fable 5 and Mythos 5 will become available again within days. The statement came during the formal opening of Anthropic's Seoul office — its third in the Asia-Pacific region — even as the company continues to publicly contest the scope of the export ban.",
-      "take": "Anthropic is threading a careful needle: cooperating with the directive on paper while building public and diplomatic pressure to get it reversed quickly. The Seoul expansion timing — right in the middle of the crisis — signals confidence that the ban is temporary.",
+      "id": 3, "rank": "03", "emoji": "⚠️",
+      "tags": ["regulation", "biz"], "tLabels": ["Regulation", "Business"],
+      "title": "Florida becomes the first US state to sue OpenAI and CEO Sam Altman over ChatGPT safety failures",
+      "why": "A US state suing an AI company's CEO directly — not just the company — is a legal first that could define AI liability frameworks for years.",
+      "summary": "Florida Attorney General James Uthmeier filed a lawsuit against OpenAI and CEO Sam Altman, alleging ChatGPT contributed to harmful incidents including violence involving users while the company prioritized growth over safety. The lawsuit claims OpenAI ignored warnings and released a product that posed risks to users, especially minors. This is the first time a US state has sued an AI company's CEO directly. Legal analysts note this could establish precedent for how product liability applies to AI systems — a question courts have not yet resolved.",
+      "take": "This is a watershed legal moment. If a state court finds that an AI company's CEO can be personally liable for product harms, it reshapes every AI company's risk calculus overnight. Every US state attorney general is now watching this case.",
       "links": [
-        { "label": "Korea JoongAng Daily", "type": "web", "icon": "🔗", "url": "https://www.koreajoongangdaily.com/business/anthropic-confident-of-reenabling-mythos-fable-5-access-in-coming-days-executive/12727522" },
-        { "label": "Anthropic Seoul announcement", "type": "web", "icon": "🔗", "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem" },
-        { "label": "Anthropic Claude explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Anthropic+Claude+AI+explained+2026" }
+        { "label": "imfounder.com — Florida lawsuit overview", "type": "web", "icon": "🔗", "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/" },
+        { "label": "AI liability law explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+liability+law+product+liability+explained+2026" }
       ],
       "path": [
-        { "n": 1, "title": "What is Anthropic and Claude?", "desc": "15 min intro for beginners", "url": "https://www.youtube.com/results?search_query=Anthropic+Claude+AI+introduction+2026" },
-        { "n": 2, "title": "AI diplomacy and global expansion", "desc": "How AI companies enter new markets", "url": "https://www.youtube.com/results?search_query=AI+companies+international+expansion+regulation" },
-        { "n": 3, "title": "Try Claude yourself", "desc": "Official product — hands-on", "url": "https://claude.ai" }
+        { "n": 1, "title": "How product liability law works", "desc": "The legal framework being applied to AI", "url": "https://www.youtube.com/results?search_query=product+liability+law+explained+US" },
+        { "n": 2, "title": "AI regulation in the US — state vs federal", "desc": "Why states are moving faster than Congress", "url": "https://www.youtube.com/results?search_query=US+AI+regulation+state+federal+explained+2026" },
+        { "n": 3, "title": "OpenAI's legal challenges overview", "desc": "All the active cases against OpenAI", "url": "https://www.youtube.com/results?search_query=OpenAI+lawsuits+legal+challenges+2026" }
       ]
     },
     {
-      "id": 4, "rank": "04", "emoji": "⚠️",
-      "tags": ["regulation"], "tLabels": ["Regulation"],
-      "title": "Anthropic's own vulnerability disclosure ledger has a 23,019-item backlog — critics say it undermines their Fable 5 defence",
-      "why": "At the current pace, it would take 2.4 years to clear the backlog — complicating Anthropic's argument that the government overreacted on security grounds.",
-      "summary": "VulnCheck examined Anthropic's newly launched disclosure ledger and found significant gaps: only 27 fixed findings shown despite 88 published advisories, and a previously-announced CVE is missing. Of 23,019 backlog items, only 1,596 findings have reached maintainers. Ten findings have already passed the 90-day disclosure deadline, with 168 more due in the next 30 days.",
-      "take": "It is hard to argue the government overreacted on security grounds while your own disclosure pipeline has a multi-year backlog — even sympathetic critics are flagging the contradiction.",
+      "id": 4, "rank": "04", "emoji": "💰",
+      "tags": ["bigtech", "biz"], "tLabels": ["Big Tech", "Business"],
+      "title": "Alphabet raises $80 billion through stock offering for AI infrastructure — the largest tech equity raise in history",
+      "why": "Google's parent is treating AI infrastructure like a utility build-out — and the capital required has now reached the scale of national energy grid investments.",
+      "summary": "Alphabet announced plans to raise up to $80 billion through a stock offering to fund massive investments in AI infrastructure, compute capacity, and global data center expansion. The company stated demand for AI services is exceeding available supply. The announcement confirms that the AI race has become fundamentally an infrastructure competition — not just a model capability race. The raise would be the largest single technology equity offering in history, surpassing previous records set during the cloud build-out era.",
+      "take": "Eighty billion dollars in a single equity raise tells you everything about where AI is in its infrastructure cycle. This is the moment when AI stopped being a software story and became a capital-intensive physical infrastructure story — with all the long-term barriers to entry that implies.",
       "links": [
-        { "label": "Resilient Cyber Newsletter #102", "type": "web", "icon": "🔗", "url": "https://www.resilientcyber.io/p/resilient-cyber-newsletter-102" },
-        { "label": "What is responsible disclosure?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=responsible+disclosure+vulnerability+explained" }
+        { "label": "Tech Startups — Alphabet raise details", "type": "web", "icon": "🔗", "url": "https://techstartups.com/2026/06/02/top-tech-news-today-june-2-2026/" },
+        { "label": "How AI infrastructure investment works", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+infrastructure+investment+data+centers+2026+explained" }
       ],
       "path": [
-        { "n": 1, "title": "Vulnerability disclosure basics", "desc": "How the process is supposed to work", "url": "https://www.youtube.com/results?search_query=vulnerability+disclosure+process+explained" },
-        { "n": 2, "title": "What is a CVE?", "desc": "Understanding vulnerability tracking", "url": "https://www.youtube.com/results?search_query=what+is+a+CVE+explained" },
-        { "n": 3, "title": "AI security research overview", "desc": "How AI labs handle safety research", "url": "https://www.youtube.com/results?search_query=AI+lab+security+research+process" }
+        { "n": 1, "title": "What is AI infrastructure?", "desc": "Data centers, compute, and why it costs so much", "url": "https://www.youtube.com/results?search_query=AI+infrastructure+data+centers+explained+beginners" },
+        { "n": 2, "title": "How equity offerings work", "desc": "What it means for Alphabet shareholders", "url": "https://www.youtube.com/results?search_query=stock+equity+offering+explained+corporate+finance" },
+        { "n": 3, "title": "Google DeepMind's AI roadmap", "desc": "What Alphabet is building toward", "url": "https://www.youtube.com/results?search_query=Google+DeepMind+AI+roadmap+2026" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "🔥",
-      "tags": ["bigtech","viral"], "tLabels": ["Big Tech","Viral"],
-      "title": "Sam Altman postpones high-stakes Korea trip — Samsung, Naver, Kakao meetings delayed for the birth of his second daughter",
-      "why": "A deeply personal moment collides with one of OpenAI's most strategically important diplomatic trips of the year.",
-      "summary": "Altman was scheduled to arrive in Seoul on June 14 for two days of meetings with Samsung Electronics, Naver, and Kakao. OpenAI Korea cited unavoidable personal reasons before sources confirmed the trip was postponed for the birth of his second daughter. A rescheduled visit is expected within Q3 2026.",
-      "take": "The fact that OpenAI quickly emphasized partnerships would continue as planned shows how much they don't want a personal event read as a business signal — but the timing right as rivals deepen their own Korea ties is not nothing.",
+      "id": 5, "rank": "05", "emoji": "🚀",
+      "tags": ["bigtech"], "tLabels": ["Big Tech"],
+      "title": "Anthropic files confidential IPO paperwork — Fable 5 ban makes timing the most complicated in tech history",
+      "why": "An IPO filing during an active government ban on your two most advanced products is an extraordinary situation that no tech company has faced before.",
+      "summary": "Anthropic has filed confidential IPO paperwork with the SEC, moving toward a public offering at an estimated valuation of around $120–150 billion. The filing comes while Fable 5 and Mythos 5 remain suspended under the US government export control directive. Analysts are divided on whether the ban helps or hurts the IPO — some argue it demonstrates the models' strategic importance; others note the revenue risk from extended suspension. Anthropic's annualized revenue approaching $20 billion gives it strong public market appeal regardless.",
+      "take": "Filing for IPO while your two flagship products are banned by the government you're suing is the most audacious corporate move of the year. It signals Anthropic's board has confidence the ban is temporary — and that any delay strengthens rather than weakens their case for the models' unique value.",
       "links": [
-        { "label": "Korea Times — official confirmation", "type": "web", "icon": "🔗", "url": "https://www.koreatimes.co.kr/business/companies/20260618/openais-sam-altman-postpones-visit-to-korea-due-to-daughters-birth-sources" },
-        { "label": "OpenAI's Asia strategy explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=OpenAI+Asia+strategy+Samsung+Korea+2026" }
+        { "label": "imfounder.com — Anthropic IPO context", "type": "web", "icon": "🔗", "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/" },
+        { "label": "How a confidential IPO filing works", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=confidential+IPO+filing+S-1+SEC+explained" }
       ],
       "path": [
-        { "n": 1, "title": "OpenAI's global expansion strategy", "desc": "Overview of international partnerships", "url": "https://www.youtube.com/results?search_query=OpenAI+global+expansion+partnerships+2026" },
-        { "n": 2, "title": "What is HBM4 memory?", "desc": "The chip technology behind the Samsung talks", "url": "https://www.youtube.com/results?search_query=HBM4+memory+explained+AI+chips" },
-        { "n": 3, "title": "AI companies and Asia tech giants", "desc": "Samsung, Naver, Kakao AI partnerships", "url": "https://www.youtube.com/results?search_query=Samsung+Naver+Kakao+AI+partnerships+2026" }
+        { "n": 1, "title": "How AI company IPOs are valued", "desc": "Revenue multiples and growth metrics", "url": "https://www.youtube.com/results?search_query=how+AI+company+IPO+valuation+works+explained" },
+        { "n": 2, "title": "What a confidential IPO filing means", "desc": "The SEC process explained simply", "url": "https://www.youtube.com/results?search_query=confidential+IPO+filing+process+SEC+explained" },
+        { "n": 3, "title": "Anthropic vs OpenAI — business comparison", "desc": "Revenue, products, and strategy", "url": "https://www.youtube.com/results?search_query=Anthropic+vs+OpenAI+business+comparison+2026" }
       ]
     },
     {
-      "id": 6, "rank": "06", "emoji": "⚠️",
-      "tags": ["regulation","geo"], "tLabels": ["Regulation","Geopolitics"],
-      "title": "China pushes for global AI safety leadership as G7 summit wraps without a unified framework",
-      "why": "With the US distracted by the Fable 5 controversy, China is positioning itself as the responsible adult on international AI governance.",
-      "summary": "As the G7 summit in Evian-les-Bains concluded, China is actively pushing to position itself as a leader on global AI safety standards — a notable contrast to the unilateral, enforcement-first approach the US has taken with the Fable 5 export ban. Sam Altman was seen at the summit speaking informally with Google DeepMind CEO Demis Hassabis.",
-      "take": "There is a real opening for China to win the narrative on AI governance, especially if the optics from the Fable 5 saga continue to suggest the US enforcement process is reactive and technically uninformed.",
+      "id": 6, "rank": "06", "emoji": "🚀",
+      "tags": ["bigtech"], "tLabels": ["Big Tech"],
+      "title": "Anthropic launches Claude Tag — persistent AI teammate integration for Slack teams",
+      "why": "Anthropic is shipping enterprise products aggressively even while its flagship models are banned — a signal of confidence and a revenue hedge.",
+      "summary": "Anthropic launched Claude Tag on June 23, a major Slack integration that makes Claude a persistent AI team member rather than a one-off query tool. Claude Tag allows teams to @mention Claude in any Slack conversation, where it maintains context across a team's ongoing discussions, can be briefed on projects, and proactively surfaces relevant information. The launch targets the enterprise collaboration market where Microsoft Copilot and Google Workspace AI have been dominant.",
+      "take": "Launching a major enterprise product on Day 11 of your biggest-ever regulatory crisis is a deliberate message: Anthropic is not in survival mode. Claude Tag also gives enterprises a compelling reason to stay on the Anthropic platform while waiting for Fable 5 to return.",
       "links": [
-        { "label": "China AI governance approach", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=China+AI+governance+regulation+approach+2026" },
-        { "label": "G7 and global AI policy", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=G7+AI+policy+summit+2026+explained" }
+        { "label": "ExplainX — Claude Tag launch context", "type": "web", "icon": "🔗", "url": "https://explainx.ai/blog/is-fable-5-back-2026" },
+        { "label": "AI team collaboration tools compared", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+team+collaboration+Slack+Copilot+Claude+comparison+2026" }
       ],
       "path": [
-        { "n": 1, "title": "How global AI governance works", "desc": "International coordination basics", "url": "https://www.youtube.com/results?search_query=global+AI+governance+explained+basics" },
-        { "n": 2, "title": "US vs China AI policy approaches", "desc": "Comparing regulatory philosophies", "url": "https://www.youtube.com/results?search_query=US+China+AI+policy+comparison+2026" },
-        { "n": 3, "title": "What the G7 actually does on tech policy", "desc": "Background context", "url": "https://www.youtube.com/results?search_query=G7+technology+policy+role+explained" }
+        { "n": 1, "title": "How AI workplace tools work", "desc": "Copilot, Claude, Gemini in enterprise", "url": "https://www.youtube.com/results?search_query=AI+workplace+tools+enterprise+Copilot+Claude+2026" },
+        { "n": 2, "title": "Slack integrations explained", "desc": "How bots and AI work in Slack", "url": "https://www.youtube.com/results?search_query=Slack+AI+integration+explained+how+it+works" }
       ]
     },
     {
       "id": 7, "rank": "07", "emoji": "💰",
-      "tags": ["biz"], "tLabels": ["Business Impact"],
-      "title": "Visa exec: AI is transforming everything we do — as JPMorgan and major banks reclassify AI from R&D to core infrastructure",
-      "why": "Two of the world's most systemically important financial institutions now describe AI as foundational infrastructure, not a pilot programme.",
-      "summary": "At the Visa Payments Forum, a senior Visa executive described AI as actively reshaping core operations from fraud detection to personalized customer experiences. This mirrors JPMorgan Chase's move earlier this month to allocate $19.8 billion to AI infrastructure in 2026 with 2,000 dedicated AI staff — targeting $2.5 billion in annual value. AI models at JPMorgan already scan over $10 trillion in daily transactions.",
-      "take": "When both Visa and JPMorgan classify AI as infrastructure in the same month, it signals the enterprise AI adoption wave has reached its tipping point in financial services.",
+      "tags": ["bigtech", "biz"], "tLabels": ["Big Tech", "Business"],
+      "title": "AI infrastructure boom hits a reality check: water scarcity and energy costs emerge as hard limits",
+      "why": "The physical constraints on AI expansion — water for cooling, land for data centers, power grid capacity — are now material business risks, not abstract concerns.",
+      "summary": "SpaceX warned investors in its IPO prospectus that water scarcity poses a strategic risk to AI data center expansion. The disclosure highlights a growing tension: AI infrastructure requires enormous cooling capacity, and water access is becoming a regulatory and environmental bottleneck. Multiple hyperscalers have had data center expansion plans delayed by local governments over water and electricity concerns. PitchBook data shows global AI infrastructure investment reached $109 billion in 2025, with energy and cooling costs consuming an increasing share of operational budgets.",
+      "take": "The AI infrastructure race is bumping into the physical world in ways nobody fully priced in eighteen months ago. Water rights, grid access, and local permitting are going to be strategic moats — or barriers — for every major AI company over the next five years.",
       "links": [
-        { "label": "AI in payments and fraud detection", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+payments+fraud+detection+explained+2026" },
-        { "label": "JPMorgan AI strategy", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=JPMorgan+AI+technology+strategy+2026" }
+        { "label": "styletech.net — AI infrastructure reality check", "type": "web", "icon": "🔗", "url": "https://www.styletech.net/post/top-news-in-tech-june-2026" },
+        { "label": "Why AI data centers use so much water", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+data+centers+water+cooling+environmental+impact+explained" }
       ],
       "path": [
-        { "n": 1, "title": "AI in financial services basics", "desc": "How banks and payment networks use AI", "url": "https://www.youtube.com/results?search_query=AI+in+finance+banking+explained+basics" },
-        { "n": 2, "title": "AI fraud detection explained", "desc": "How models catch fraudulent transactions", "url": "https://www.youtube.com/results?search_query=AI+fraud+detection+explained+machine+learning" },
-        { "n": 3, "title": "The business case for enterprise AI", "desc": "How companies measure AI ROI", "url": "https://www.youtube.com/results?search_query=enterprise+AI+ROI+business+case+2026" }
+        { "n": 1, "title": "How AI data centers work", "desc": "Servers, cooling, power — explained", "url": "https://www.youtube.com/results?search_query=how+AI+data+centers+work+explained+beginners" },
+        { "n": 2, "title": "Environmental impact of AI", "desc": "Water, energy, and carbon footprint", "url": "https://www.youtube.com/results?search_query=environmental+impact+of+AI+data+centers+water+energy" },
+        { "n": 3, "title": "AI infrastructure investment landscape", "desc": "Who is spending and where", "url": "https://www.youtube.com/results?search_query=AI+infrastructure+investment+landscape+2026" }
       ]
     }
   ],
   "tech": [
     {
-      "id": 1, "rank": "01", "emoji": "⚠️",
-      "tags": ["regulation","bigtech"], "tLabels": ["Regulation","Big Tech"],
-      "title": "Washington tells ASML one of its export-controlled EUV chip machines may have reached China — ASML flatly denies it",
-      "why": "If true, this would be one of the most consequential breaches of the chip export control regime ever — ASML is the only company on Earth that makes these machines.",
-      "summary": "US Commerce Secretary Howard Lutnick told senior ASML executives that he believes one of the Dutch company's extreme ultraviolet lithography machines may have reached China, a direct breach of export controls in place since 2019. ASML rejected the allegation outright. The dispute lands awkwardly: China is separately confirmed to be running a prototype EUV machine built domestically by former ASML engineers, though that prototype has not yet produced working chips.",
-      "take": "Whether or not this specific allegation holds up, the bigger story is that ASML's EUV monopoly — the single chokepoint the entire Western chip-control strategy depends on — is now openly being treated as fragile by Washington itself.",
+      "id": 1, "rank": "01", "emoji": "🔬",
+      "tags": ["bigtech"], "tLabels": ["Big Tech"],
+      "title": "Microsoft unveils Majorana 2 quantum chip at Build 2026 — 1,000x improvement in switching reliability",
+      "why": "A thousand-fold improvement in qubit reliability is not incremental — it is the kind of step-change that makes quantum computing practically useful rather than theoretically impressive.",
+      "summary": "Microsoft unveiled major upgrades to its Majorana 2 quantum chip at its Build Conference in June 2026. Developed with the help of agentic AI, the new chip delivers a 20-second parity lifetime and a 1,000x increase in switching time reliability. Microsoft's qubits are now dramatically more stable than previous generations — addressing the core engineering challenge that has held quantum computing back. IBM has separately stated 2026 marks the first time a quantum computer will outperform a classical computer on a specific real-world problem, calling it 'quantum advantage.'",
+      "take": "Two quantum milestones in the same month — Microsoft's stability breakthrough and IBM's quantum advantage claim — suggests 2026 is genuinely the year quantum computing transitions from lab demonstration to something that can influence real engineering decisions.",
       "links": [
-        { "label": "Tom's Hardware — ASML's denial", "type": "web", "icon": "🔗", "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation" },
-        { "label": "ts2.tech — full dispute", "type": "web", "icon": "🔗", "url": "https://ts2.tech/en/dispute-over-asml-china-euv-orders-puts-u-s-export-rules-to-the-test/" },
-        { "label": "What is EUV lithography?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=EUV+lithography+explained+chip+manufacturing" },
-        { "label": "ASML monopoly explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=ASML+monopoly+chip+industry+explained" }
+        { "label": "PulseHubTV — quantum breakthroughs 2026", "type": "web", "icon": "🔗", "url": "https://pulsehubtv.com/top-technology-breakthroughs-making-headlines-in-2026/" },
+        { "label": "Microsoft Majorana 2 explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Microsoft+Majorana+2+quantum+chip+explained+2026" }
       ],
       "path": [
-        { "n": 1, "title": "What is EUV lithography?", "desc": "How the world's most advanced chips are made", "url": "https://www.youtube.com/results?search_query=EUV+lithography+explained+simply" },
-        { "n": 2, "title": "Why ASML has no competitors", "desc": "The monopoly behind every advanced chip", "url": "https://www.youtube.com/results?search_query=ASML+monopoly+explained+semiconductor" },
-        { "n": 3, "title": "US-China chip export controls", "desc": "Background on the broader policy fight", "url": "https://www.youtube.com/results?search_query=US+China+chip+export+controls+explained+2026" }
+        { "n": 1, "title": "What is quantum computing?", "desc": "Beginner explainer — 15 min", "url": "https://www.youtube.com/results?search_query=quantum+computing+explained+beginners" },
+        { "n": 2, "title": "What is quantum advantage?", "desc": "Why this milestone matters", "url": "https://www.youtube.com/results?search_query=quantum+advantage+explained+IBM+Google" }
       ]
     },
     {
-      "id": 2, "rank": "02", "emoji": "💰",
-      "tags": ["bigtech","biz"], "tLabels": ["Big Tech","Business Impact"],
-      "title": "Fox Corporation buys Roku for $22 billion, creating the third-largest player in US television",
-      "why": "One of the biggest media-tech consolidation deals in years pairs Fox's live sports and news empire with the most-used connected-TV platform in America.",
-      "summary": "Fox Corporation agreed to acquire Roku for $160 per share in a cash-and-stock deal valuing the company at roughly $22 billion. The combination merges Fox's live news, sports, and entertainment portfolio with Roku's connected-TV platform and direct relationships with over 100 million global streaming households. The deal closes in the first half of 2027.",
-      "take": "This is a classic content-meets-distribution play. Fox gets a direct doorway into 100 million streaming households, while Roku gets the financial backing and premium content it needed to compete with Netflix and Amazon at scale.",
+      "id": 2, "rank": "02", "emoji": "🤖",
+      "tags": ["bigtech"], "tLabels": ["Big Tech"],
+      "title": "Humanoid robots arrive in homes and factories — 1X's NEO begins first deliveries as Nvidia's GR00T drives the sector",
+      "why": "Humanoid robots shifting from factory demos to actual home deliveries marks the beginning of physical AI's consumer phase.",
+      "summary": "1X has opened preorders for its NEO home robot and begun first customer deliveries in 2026. NEO performs everyday household tasks in unstructured environments, learns from human guidance, and gradually becomes more autonomous. Nvidia's Project GR00T foundation model — built specifically for humanoid robots — allows robots to understand natural language, observe human actions, and translate them into physical movement. PitchBook data shows global robotics investment rose from $4 billion in 2019 to $26 billion in 2025, with 2026 on track to exceed that.",
+      "take": "The GR00T model is to humanoid robots what GPT-3 was to language AI — a general foundation that dozens of hardware companies can build on. The race is now about which robot body gets to run the best brain.",
       "links": [
-        { "label": "CNBC — deal terms", "type": "web", "icon": "🔗", "url": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html" },
-        { "label": "PBS News — what changes for users", "type": "web", "icon": "🔗", "url": "https://www.pbs.org/newshour/economy/fox-corp-to-buy-streaming-pioneer-roku-in-a-22-billion-deal" },
-        { "label": "How connected TV advertising works", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=connected+TV+advertising+explained+2026" }
+        { "label": "PulseHubTV — robotics breakthroughs 2026", "type": "web", "icon": "🔗", "url": "https://pulsehubtv.com/top-technology-breakthroughs-making-headlines-in-2026/" },
+        { "label": "Nvidia GR00T explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=Nvidia+GR00T+humanoid+robot+AI+foundation+model+explained" }
       ],
       "path": [
-        { "n": 1, "title": "What is connected TV?", "desc": "The technology behind streaming devices", "url": "https://www.youtube.com/results?search_query=connected+TV+CTV+explained+beginners" },
-        { "n": 2, "title": "How streaming platforms make money", "desc": "Ad-supported vs subscription models", "url": "https://www.youtube.com/results?search_query=streaming+platform+business+model+explained" },
-        { "n": 3, "title": "Media consolidation trends", "desc": "Why traditional media keeps buying tech", "url": "https://www.youtube.com/results?search_query=media+consolidation+streaming+acquisitions+explained" }
+        { "n": 1, "title": "How humanoid robots work", "desc": "Motors, sensors, and AI brains", "url": "https://www.youtube.com/results?search_query=how+humanoid+robots+work+explained+2026" },
+        { "n": 2, "title": "Physical AI vs software AI", "desc": "What makes robots different from chatbots", "url": "https://www.youtube.com/results?search_query=physical+AI+vs+software+AI+robotics+explained" }
       ]
     },
     {
-      "id": 3, "rank": "03", "emoji": "🔥",
-      "tags": ["regulation","viral"], "tLabels": ["Regulation","Viral"],
-      "title": "UK announces a full ban on social media for under-16s — TikTok, Instagram, YouTube and X all included",
-      "why": "Britain is going further than any country except Australia, and tech platforms warn the policy could push kids toward less-safe, unregulated spaces.",
-      "summary": "UK Prime Minister Keir Starmer announced a ban on children under 16 using Snapchat, TikTok, YouTube, Instagram, Facebook, and X — messaging apps like WhatsApp and YouTube Kids are exempt. The decision followed a public consultation drawing 116,000 responses, with over 90% supporting the ban. AI companion chatbots simulating romantic relationships will also be restricted to over-18s. Rules take effect in early 2027.",
-      "take": "This puts the UK in direct confrontation with the platforms over enforcement mechanics — age verification at this scale has never been done well anywhere, and the warning about pushing kids to darker corners of the internet is a legitimate risk.",
+      "id": 3, "rank": "03", "emoji": "⚖️",
+      "tags": ["regulation"], "tLabels": ["Regulation"],
+      "title": "Munich court rules Google liable for false AI Overview claims — European AI liability law takes shape",
+      "why": "A court treating AI-generated search summaries as the company's own statements — not neutral search results — fundamentally changes the legal exposure of every AI product.",
+      "summary": "A Munich court ruled that Google can be held liable for false claims appearing in its AI Overviews feature, treating the AI-generated summaries as Google's own statements rather than neutral search results. The ruling is the most significant AI liability judgment in European courts to date and sets a precedent that could apply to any AI product that summarises, generates, or presents information to users. Google is expected to appeal, but the ruling is already prompting legal reviews across the industry.",
+      "take": "If AI-generated content is legally equivalent to a company's own statements, every AI product company just inherited a new category of liability. This Munich ruling will be cited in courts across the EU and potentially the US for years.",
       "links": [
-        { "label": "NPR — full policy breakdown", "type": "web", "icon": "🔗", "url": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban" },
-        { "label": "PBS — platform reactions", "type": "web", "icon": "🔗", "url": "https://www.pbs.org/newshour/world/uk-bans-children-younger-than-16-from-using-social-media-apps-including-tiktok-and-youtube" },
-        { "label": "Age verification technology", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=age+verification+technology+social+media+explained" }
+        { "label": "styletech.net — Munich ruling coverage", "type": "web", "icon": "🔗", "url": "https://www.styletech.net/post/top-news-in-tech-june-2026" },
+        { "label": "EU AI liability law explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=EU+AI+liability+law+explained+2026" }
       ],
       "path": [
-        { "n": 1, "title": "Social media and child safety debate", "desc": "Both sides of the argument", "url": "https://www.youtube.com/results?search_query=social+media+child+safety+ban+debate" },
-        { "n": 2, "title": "How Australia's under-16 ban is going", "desc": "The model the UK is following", "url": "https://www.youtube.com/results?search_query=Australia+social+media+ban+under+16+results" },
-        { "n": 3, "title": "Age verification technology explained", "desc": "How platforms might actually enforce this", "url": "https://www.youtube.com/results?search_query=age+verification+technology+explained+privacy" }
+        { "n": 1, "title": "What are Google AI Overviews?", "desc": "How the feature works", "url": "https://www.youtube.com/results?search_query=Google+AI+Overviews+explained+how+it+works" },
+        { "n": 2, "title": "AI and defamation law", "desc": "Legal risk of AI-generated false content", "url": "https://www.youtube.com/results?search_query=AI+defamation+liability+false+content+law+explained" }
       ]
     },
     {
       "id": 4, "rank": "04", "emoji": "💰",
-      "tags": ["bigtech","biz"], "tLabels": ["Big Tech","Business Impact"],
-      "title": "Elon Musk's net worth surges past $1.3 trillion after exercising 303 million Tesla stock options",
-      "why": "This is one of the largest single wealth jumps in history, fueled by both a Tesla compensation award and SpaceX's blockbuster IPO.",
-      "summary": "Musk exercised stock options from his 2018 Tesla compensation package, acquiring over 303 million shares at $23.34 each and increasing his voting power in Tesla to roughly 19.9%. Combined with the surge in SpaceX's post-IPO valuation, his net worth has climbed past $1.3 trillion, moving him ahead of Jeff Bezos and Larry Ellison.",
-      "take": "Modern mega-wealth is now built on AI and space infrastructure plays rather than traditional product revenue — Tesla and SpaceX's valuations are increasingly priced as AI and compute companies, not just cars and rockets.",
+      "tags": ["bigtech", "biz"], "tLabels": ["Big Tech", "Business"],
+      "title": "Salesforce acquires Intercom's Fin AI agent — Agentforce gets its most capable customer service weapon",
+      "why": "Salesforce is buying AI-native customer support capability to defend its enterprise software base against startups that were threatening to replace it entirely.",
+      "summary": "Salesforce acquired Fin, Intercom's AI customer support agent, to fold into its Agentforce platform. The deal gives Salesforce a stronger agentic AI asset as it tries to defend its enterprise software base from AI-native challengers. Fin's technology will help companies build autonomous agents for service, sales, and internal workflows. The acquisition shows how fast the enterprise software market is shifting from dashboards and user seats to outcomes handled by AI agents — a transition that threatens traditional SaaS revenue models.",
+      "take": "Every major enterprise software company is now racing to acquire or build AI agents before startups do it for their customers. The winner will be whoever can make autonomous agents feel like a natural upgrade from the workflow tools companies already use.",
       "links": [
-        { "label": "ts2.tech — financial breakdown", "type": "web", "icon": "🔗", "url": "https://ts2.tech/en/dispute-over-asml-china-euv-orders-puts-u-s-export-rules-to-the-test/" },
-        { "label": "How stock options work", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=executive+stock+options+compensation+explained" },
-        { "label": "SpaceX IPO explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=SpaceX+IPO+2026+explained" }
+        { "label": "Tech Startups — Salesforce Fin deal", "type": "web", "icon": "🔗", "url": "https://techstartups.com/2026/06/16/top-tech-news-today-june-16-2026/" },
+        { "label": "What are AI agents?", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=AI+agents+explained+enterprise+Salesforce+Agentforce" }
       ],
       "path": [
-        { "n": 1, "title": "How executive stock compensation works", "desc": "Options, vesting, and exercising explained", "url": "https://www.youtube.com/results?search_query=stock+options+vesting+exercising+explained+beginners" },
-        { "n": 2, "title": "How billionaire net worth is calculated", "desc": "Why these numbers move so fast", "url": "https://www.youtube.com/results?search_query=how+billionaire+net+worth+calculated+explained" },
-        { "n": 3, "title": "SpaceX business model explained", "desc": "Rockets, Starlink, and now AI compute", "url": "https://www.youtube.com/results?search_query=SpaceX+business+model+Starlink+explained" }
+        { "n": 1, "title": "What is Salesforce Agentforce?", "desc": "Enterprise AI agents explained", "url": "https://www.youtube.com/results?search_query=Salesforce+Agentforce+explained+2026" },
+        { "n": 2, "title": "How AI is disrupting enterprise software", "desc": "The threat to SaaS and CRM companies", "url": "https://www.youtube.com/results?search_query=AI+disrupting+enterprise+software+SaaS+2026" }
       ]
     },
     {
-      "id": 5, "rank": "05", "emoji": "⚠️",
-      "tags": ["regulation"], "tLabels": ["Cybersecurity"],
-      "title": "Wave of data breaches hits construction, logistics, and government sectors worldwide",
-      "why": "Cybersecurity trackers are flagging that breaches are no longer concentrated in tech and finance — industrial and public-sector targets are increasingly in the crosshairs.",
-      "summary": "Breach-tracking services reported several new data incidents in mid-to-late June 2026 affecting construction, logistics, industrial automation, and government sectors in multiple countries. The incidents involved different threat actors and data types, often caused by unpatched systems or weak access controls rather than sophisticated attacks.",
-      "take": "The shift toward industrial and government targets matters because these sectors often have far weaker security budgets and incident response capacity than tech or finance — making operational disruption the bigger concern going forward.",
+      "id": 5, "rank": "05", "emoji": "🔥",
+      "tags": ["regulation", "bigtech"], "tLabels": ["Regulation", "Viral"],
+      "title": "Uber blows through its annual AI budget in months — 'tokenmaxxing' culture creates unexpected corporate cost explosions",
+      "why": "The first wave of enterprise AI cost overruns is arriving — and Uber's situation is being replicated across hundreds of companies that set AI budgets based on 2024 usage patterns.",
+      "summary": "Uber reportedly exhausted its annual AI budget in a matter of months due to a 'tokenmaxxing' culture — where executives encouraged employees to push AI usage as far as possible. The result: dramatically higher-than-projected compute costs and mid-year budget crises. Multiple companies have followed with similar overruns, cutting Claude licenses for parts of their organisations and abandoning internal AI leaderboards. Meta shut down its internal AI usage leaderboard entirely. The pattern reveals that AI budgeting frameworks from 2024 are fundamentally inadequate for 2026 usage patterns.",
+      "take": "This is the enterprise AI hangover — companies that adopted aggressively are now reconciling the bill. The winners will be those who build AI-native cost management into their workflows rather than treating it as a line item that can be estimated from historical patterns.",
       "links": [
-        { "label": "BreachSense — breach tracking", "type": "web", "icon": "🔗", "url": "https://breachsense.com" },
-        { "label": "Industrial cybersecurity explained", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=industrial+cybersecurity+OT+security+explained" }
+        { "label": "TechCrunch — tokenmaxxing cost explosion", "type": "web", "icon": "🔗", "url": "https://techcrunch.com/" },
+        { "label": "How enterprise AI costs are structured", "type": "yt", "icon": "▶", "url": "https://www.youtube.com/results?search_query=enterprise+AI+costs+tokens+budget+management+2026" }
       ],
       "path": [
-        { "n": 1, "title": "Cybersecurity basics for non-experts", "desc": "What a data breach actually means", "url": "https://www.youtube.com/results?search_query=what+is+a+data+breach+explained+simply" },
-        { "n": 2, "title": "Why industrial systems are vulnerable", "desc": "OT vs IT security explained", "url": "https://www.youtube.com/results?search_query=operational+technology+security+vulnerabilities+explained" },
-        { "n": 3, "title": "How companies respond to breaches", "desc": "Incident response basics", "url": "https://www.youtube.com/results?search_query=data+breach+incident+response+explained" }
+        { "n": 1, "title": "How AI API pricing works", "desc": "Tokens, costs, and why it adds up", "url": "https://www.youtube.com/results?search_query=AI+API+pricing+tokens+cost+explained" },
+        { "n": 2, "title": "Managing AI costs in enterprise", "desc": "Frameworks for controlling AI spend", "url": "https://www.youtube.com/results?search_query=managing+AI+costs+enterprise+budget+2026" }
       ]
     }
   ]
